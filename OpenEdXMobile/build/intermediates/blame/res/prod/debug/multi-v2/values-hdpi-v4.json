@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\oana-george\\.gradle\\caches\\transforms-2\\files-2.1\\4ff6ad2eb3c5b8f77f1b561656050133\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "247",
+                        "endLines": "10",
+                        "endColumns": "13",
+                        "endOffsets": "519"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\values-hdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "4,5,2,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "155,202,55,106",
+                        "endColumns": "46,44,50,48",
+                        "endOffsets": "197,242,101,150"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,102,147,198",
+                        "endColumns": "46,44,50,48",
+                        "endOffsets": "97,142,193,242"
+                    }
+                }
+            ]
+        }
+    ]
+}

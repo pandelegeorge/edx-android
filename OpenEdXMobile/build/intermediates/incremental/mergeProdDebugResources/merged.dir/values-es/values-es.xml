@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="delete_video_snackbar_msg">
+    <item quantity="one">%s video borrado</item>
+    <item quantity="other">%s videos borrados</item>
+  </plurals>
+    <plurals name="discussion_responses_action_bar_vote_text">
+    <item quantity="one">{quantity} voto</item>
+    <item quantity="other">{quantity} Votos</item>
+  </plurals>
+    <plurals name="download_total">
+    <item quantity="one">{total_videos_count} Video, {total_videos_size} en total</item>
+    <item quantity="other">{total_videos_count} Videos, {total_videos_size} en total</item>
+  </plurals>
+    <plurals name="number_responses_or_comments_comments_label">
+    <item quantity="one">%s comentario</item>
+    <item quantity="other">%s comentarios</item>
+  </plurals>
+    <plurals name="number_responses_or_comments_responses_label">
+    <item quantity="one">%s respuesta</item>
+    <item quantity="other">%s respuestas</item>
+  </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Ir a inicio"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"DESACTIVADO"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"ACTIVADO"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"Suprimir"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Intro"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Función +"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Mayús +"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"Espacio"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menú +"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Consulta de búsqueda"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Compartir con <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Ocultar"</string>
+    <string name="action_not_completed">Su acción no pudo ser completada.</string>
+    <string name="allow">Permitir</string>
+    <string name="already_have_an_account">¿Ya tiene una cuenta? Inicie sesión</string>
+    <string name="android">Android</string>
+    <string name="android_device_model">Dispositivo: {model}</string>
+    <string name="android_os_version">Android OS: </string>
+    <string name="announcement_subtitle">Manténgase actualizado</string>
+    <string name="announcement_title">Anuncios</string>
+    <string name="app_version">Versión de la aplicación</string>
+    <string name="app_version_outdated">Una versión nueva de la app está disponible.</string>
+    <string name="app_version_unsupported">Su versión de la app ya no está soportada.</string>
+    <string name="app_version_unsupported_login_msg">Su versión de la aplicación ya no es compatible. Actualice a la última versión para iniciar sesión.</string>
+    <string name="app_version_unsupported_register_msg">Su versión de la aplicación ya no es compatible. Actualice a la última versión para registrarse.</string>
+    <string name="app_version_upgrade_app_store_unavailable">No se encontró una tienda de aplicaciones móviles soportada en el dispositivo.</string>
+    <string name="assessment_empty">No hay contenidos en esta sección.</string>
+    <string name="assessment_explore_on_web">Explorar otras partes de este curso o ver este contenido en la web.</string>
+    <string name="assessment_needed_updating_youtube">Debes actualizar la aplicación de YouTube para ver este video.</string>
+    <string name="assessment_next">Siguiente</string>
+    <string name="assessment_not_available">Este componente interactivo no está disponible aún en versión móvil.</string>
+    <string name="assessment_only_on_youtube">Este vídeo solo puede reproducirse en Youtube. </string>
+    <string name="assessment_open_on_youtube">Ver video en YouTube</string>
+    <string name="assessment_previous">Anterior</string>
+    <string name="assessment_rotate_for_fullscreen">Gire su dispositivo para ver este video en pantalla completa.</string>
+    <string name="assessment_soon">Próximamente</string>
+    <string name="assessment_unable_to_play_video">Error del reproductor</string>
+    <string name="assessment_unable_to_play_video_message">No se puede reproducir este video. Puedes verlo en la aplicación de YouTube o intentarlo de nuevo más tarde.</string>
+    <string name="assessment_update_youtube">Actualizar YouTube</string>
+    <string name="assessment_view_on_web">Ver en la web</string>
+    <string name="audit_access_expires_on">Acceso de auditoría, gratuito, expira el {date}</string>
+    <string name="browse_by_subject">Buscar por Asignatura</string>
+    <string name="bulk_download_switch">Activación de descarga de videos masiva.</string>
+    <string name="by_creating_account">Al crear una cuenta, aceptas la {license} y las {tos_and_honor_code}, y permites que {platform_name} y cada miembro procesen tus datos personales de conformidad con la {privacy_policy}.</string>
+    <string name="by_signing_in">Al registrarte en esta aplicación, aceptas la {license} y las {tos_and_honor_code}, y permites que {platform_name} y cada miembro procesen tus datos personales de conformidad con la {privacy_policy}.</string>
+    <string name="cancel_download">Cancelar la descarga</string>
+    <string name="cannot_open_url">No se puede abrir la página web.</string>
+    <string name="cannot_show_dashboard">No es posible mostrar el panel de control.</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"Anuncio"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"Enviando a %1$s"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"Subtítulos"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"Subtítulos no disponibles"</string>
+    <string msgid="6769392312239056170" name="cast_connecting_to_device">"Conectando a <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"Desconectar"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"Imagen que se muestra mientras el receptor de Google Cast reproduce un anuncio"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"Anuncio en curso…"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"Portada del álbum"</string>
+    <string msgid="8879956505757481681" name="cast_expanded_controller_live_head_description">"La posición actual es anterior a la transmisión en directo"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"Streaming en directo"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"Cargando…"</string>
+    <string msgid="8524154027649233400" name="cast_expanded_controller_skip_ad_label">"Saltar anuncio"</string>
+    <string msgid="1171005989073753111" name="cast_expanded_controller_skip_ad_text">"Podrás saltar el anuncio en %1$d…"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"Avanzar"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"Avanzar 10 segundos"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"Avanzar 30 segundos"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="2177473333963666559" name="cast_live_label">"EN DIRECTO"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"Silenciar"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"Conectado a <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"Conectando a <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2568179715202151240" name="cast_notification_default_channel_name">"Enviar"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Desconectar"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"Pausar"</string>
+    <string msgid="5906987965619702702" name="cast_play">"Reproducir"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"Rebobinar"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"Rebobinar 10 segundos"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"Rebobinar 30 segundos"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"Control para buscar posición de reproducción"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"Saltar al siguiente elemento"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"Saltar al elemento anterior"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"Detener"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"Detener streaming en directo"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"Audio"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"Cancelar"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"Subtítulos"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"Pista <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"Ninguna"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"Aceptar"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Subtítulos"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"Activar sonido"</string>
+    <string name="close">Cerrar</string>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">Ve a &lt;b>facebook.com/device&lt;/b> e ingresa el código que se muestra arriba.</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">Se produjo un error inesperado al descargar una imagen.</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">El inicio de sesión de WebView requiere permisos de INTERNET</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">Error de AndroidManifest</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">Te gusta</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">Me gusta</string>
+    <string gender="unknown" name="com_facebook_loading">Cargando...</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">Cancelar</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">Entrar</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">Continuar con Facebook</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">Iniciar sesión con Facebook</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">Salir</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">Salir</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">Sesión iniciada como: %1$s</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">Iniciaste sesión con Facebook</string>
+    <string gender="unknown" name="com_facebook_send_button_text">Enviar</string>
+    <string gender="unknown" name="com_facebook_share_button_text">Compartir</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">Para conectar tu cuenta, abre la aplicación de Facebook en tu dispositivo móvil y comprueba las notificaciones.</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">o</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">¿No eres tú?</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">Continuar como %1$s</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">Confirmar inicio de sesión</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">Tú decides qué información quieres compartir con las apps.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Habilitar"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no habilites Servicios de Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Habilita Servicios de Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalar"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará si los Servicios de Google Play no están instalados en tu dispositivo."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Descargar Servicios de Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Disponibilidad Servicios de Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Error de Servicios de Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"La aplicación <ns1:g id="APP_NAME">%1$s</ns1:g> tiene problemas con los Servicios de Google Play. Vuelve a intentarlo."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"No es posible ejecutar la aplicación <ns1:g id="APP_NAME">%1$s</ns1:g> sin los Servicios de Google Play, que no son compatibles con tu dispositivo."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Actualizar"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no actualices Servicios de Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Actualiza Servicios de Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará hasta que finalice la actualización en curso de Servicios de Google Play."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Se necesita una nueva versión de Servicios de Google Play. Se actualizará en breve."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Abrir en teléfono"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Iniciar sesión"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <string name="complete_registration">Complete su inscripción</string>
+    <string name="confirm_dialog_message_help">Ingrese la dirección de correo para su cuenta y le enviaremos instrucciones para restablecer su contraseña.</string>
+    <string name="confirm_dialog_title_help">Restablecer contraseña</string>
+    <string name="course_access_expired">Tu Acceso a este curso ha expirado</string>
+    <string name="course_content">Contenido del curso</string>
+    <string name="course_dates_subtitle">Realice un seguimiento de los plazos y cumpla con lo planeado</string>
+    <string name="course_dates_title">Fechas Importantes</string>
+    <string name="course_details_congratulations">¡Felicidades!</string>
+    <string name="course_details_earned_cert">Ha aprobado el curso.</string>
+    <string name="course_details_view_cert_button">Ver certificado</string>
+    <string name="course_discussion_answered_title">Pregunta respondida</string>
+    <string name="course_discussion_unanswered_title">Pregunta sin respuestas</string>
+    <string name="course_error_content_invalid">No ha sido posible cargar el contenido del curso. Inténtelo de nuevo más tarde.</string>
+    <string name="course_name">Nombre del curso</string>
+    <string name="course_not_started">Este curso aún no ha empezado. </string>
+    <string name="courseware_subtitle">Acceda a los videos y actividades</string>
+    <string name="courseware_title">Curso</string>
+    <string name="create_account_btn">Botón de Crear mi cuenta</string>
+    <string name="create_account_text">Crear mi cuenta</string>
+    <string name="creating_account_text">Creando cuenta...</string>
+    <string name="default_notification_channel_title">Notificación General</string>
+    <string name="delete_videos_title">Borrar Videos</string>
+    <string name="discussion_add_comment_button_description">Botón de Añadir comentario</string>
+    <string name="discussion_add_comment_button_label">Añadir comentario</string>
+    <string name="discussion_add_comment_disabled_title">Los comentarios están cerrados para esta respuesta</string>
+    <string name="discussion_add_comment_title">Agregue un comentario</string>
+    <string name="discussion_add_post_button_description">Botón de Publicar discusión</string>
+    <string name="discussion_add_post_button_label">Publicar discusión</string>
+    <string name="discussion_add_post_topic_selection">Tema: {topic}</string>
+    <string name="discussion_add_question_button_description">Botón de Publicar pregunta</string>
+    <string name="discussion_add_question_button_label">Publicar pregunta</string>
+    <string name="discussion_add_response_button_description">Botón de añadir respuesta</string>
+    <string name="discussion_add_response_button_label">Añadir respuesta</string>
+    <string name="discussion_add_response_disabled_title">Las respuestas están cerradas para esta publicación</string>
+    <string name="discussion_add_response_title">Añadir respuesta</string>
+    <string name="discussion_comment_posted">Su comentario ha sido añadido.</string>
+    <string name="discussion_comments">Comentarios</string>
+    <string name="discussion_post_author_attribution">por {author}</string>
+    <string name="discussion_post_author_label_attribution">({text})</string>
+    <string name="discussion_post_create_new_post">Crear una nueva entrada</string>
+    <string name="discussion_post_endorsed">Validado</string>
+    <string name="discussion_post_last_interaction_date">Última publicación: {date}</string>
+    <string name="discussion_post_marked_as_answer">Marcado como respondido</string>
+    <string name="discussion_post_title">Título</string>
+    <string name="discussion_post_total_replies">{total_replies} en total</string>
+    <string name="discussion_post_visibility_cohort">Esta publicación solo es visible para {cohort}.</string>
+    <string name="discussion_post_visibility_everyone">Esta publicación es visible para todos.</string>
+    <string name="discussion_posts_filter_all_posts">Todas las publicaciones</string>
+    <string name="discussion_posts_filter_unanswered_posts">Sin respuesta</string>
+    <string name="discussion_posts_filter_unread_posts">No leído</string>
+    <string name="discussion_posts_refine">Refinar:</string>
+    <string name="discussion_posts_search_title">Resultados de busqueda</string>
+    <string name="discussion_posts_sort_most_activity">Mayor actividad</string>
+    <string name="discussion_posts_sort_most_votes">Más votos</string>
+    <string name="discussion_posts_sort_recent_activity">Actividad reciente</string>
+    <string name="discussion_question">Pregunta</string>
+    <string name="discussion_response_posted">Su respuesta ha sido añadida.</string>
+    <string name="discussion_responses_answer">Responder</string>
+    <string name="discussion_responses_endorsed">Validado</string>
+    <string name="discussion_responses_report_label">Reportar</string>
+    <string name="discussion_responses_reported_label">Anular reporte</string>
+    <string name="discussion_subtitle">Únase a la conversación</string>
+    <string name="discussion_title">Discusión</string>
+    <string name="discussion_topics_title">Temas de discusión</string>
+    <string name="do_not_allow">No permitir</string>
+    <string name="download_complete">Todos los Videos Descargados</string>
+    <string name="download_exceed_message">Los videos que seleccionó suman más de 1 GB.
+        ¿Desea descargarlos? </string>
+    <string name="download_exceed_title">Descarga grande</string>
+    <string name="download_failed_text">Descarga fallida</string>
+    <string name="download_pending">Descarga pendiente...</string>
+    <string name="download_remaining">{remaining_videos_count} Restantes, {remaining_videos_size} en total</string>
+    <string name="download_starting">Iniciando Descarga...</string>
+    <string name="download_to_device">Descargar a Dispositivo </string>
+    <string name="downloading_videos">Descargando Videos...</string>
+    <string name="dropdown_list_prefix">Lista desplegable.</string>
+    <string name="due_date_past_future">debido {due_date}</string>
+    <string name="due_date_today">debido hoy a las {due_date}</string>
+    <string name="edit_user_profile_change_photo">Cambiar</string>
+    <string name="edit_user_profile_change_photo_description">Cambiar foto de perfil</string>
+    <string name="edit_user_profile_choose_photo">Elegir una foto</string>
+    <string name="edit_user_profile_current_language">Idioma actual: {current_language}</string>
+    <string name="edit_user_profile_current_location">Ubicación actual: {current_location}</string>
+    <string name="edit_user_profile_field">{label}: {value}</string>
+    <string name="edit_user_profile_field_placeholder">Seleccionar</string>
+    <string name="edit_user_profile_photo_crop_cancel">Cancelar</string>
+    <string name="edit_user_profile_photo_crop_save">Elegir</string>
+    <string name="edit_user_profile_photo_crop_title">Cortar y redimensionar</string>
+    <string name="edit_user_profile_remove_photo">Eliminar foto</string>
+    <string name="edit_user_profile_take_photo">Tomar foto</string>
+    <string name="edit_user_profile_textarea_submit_button">Enviar</string>
+    <string name="edit_user_profile_title">Editar perfil</string>
+    <string name="effort_field_name">Esfuerzo:</string>
+    <string name="email">Correo electrónico</string>
+    <string name="email_chooser_header">Enviar email usando...</string>
+    <string name="email_client_not_present">No hay apps de correo instaladas</string>
+    <string name="email_subject">Comentarios de usuarios</string>
+    <string name="email_username">Nombre de usuario o dirección de correo electrónico</string>
+    <string name="end_user_title">Acuerdo de Licencia del Usuario</string>
+    <string name="enroll_now_button_text">Inscribirse ahora</string>
+    <string name="enrollment_error_message">No ha sido posible inscribirlo a este curso en este momento usando la aplicación móvil {platform_name}. Por favor inténtelo de nuevo desde su navegador web.</string>
+    <string name="enrollment_error_title">Error en la Inscripción</string>
+    <string name="enrollment_failure">No pudimos inscribirlo en este curso en este momento.</string>
+    <string name="error_account_not_linked_desc_fb">Asegurese de que su cuenta de Facebook está asociada con su cuenta de {platform_name} en {platform_destination}</string>
+    <string name="error_account_not_linked_desc_fb_2">Esta cuenta de Facebook no está asociada con ninguna cuenta de {platform_name}. Por favor regístrela.</string>
+    <string name="error_account_not_linked_desc_google">Asegurese de que su cuenta de Google está asociada con su cuenta de {platform_name} en {platform_destination}</string>
+    <string name="error_account_not_linked_desc_google_2">Esta cuenta de Google no está asociada con ninguna cuenta de {platform_name}. Por favor regístrela.</string>
+    <string name="error_account_not_linked_desc_microsoft">Asegúrese que su cuenta de Microsoft este asociada con su cuenta de {platform_name} en {platform_destination}</string>
+    <string name="error_account_not_linked_desc_microsoft_2">Esta cuenta de Microsoft no esta vinculada a ninguna cuenta de {platform_name}. Por favor regístrela.</string>
+    <string name="error_account_not_linked_title_fb">La cuenta de Facebook no está asociada con una cuenta de {platform_name}</string>
+    <string name="error_account_not_linked_title_google">La cuenta de Google no está asociada con una cuenta de {platform_name}</string>
+    <string name="error_account_not_linked_title_microsoft">Cuenta Microsoft no asociada con la cuenta de {platform_name}</string>
+    <string name="error_download_failed">Descarga fallida.</string>
+    <string name="error_enter_email">Por favor ingrese su nombre de usuario o dirección de correo e intente de nuevo.</string>
+    <string name="error_enter_field">Por favor ingrese su %1$s.</string>
+    <string name="error_enter_password">Por favor ingrese su contraseña e intente de nuevo.</string>
+    <string name="error_heading">Se ha producido el siguiente error al iniciar sesión</string>
+    <string name="error_invalid_email">Por favor revise su nombre de usuario o dirección de correo e intente de nuevo.</string>
+    <string name="error_max_length">%1$s no puede tener más de %2$d caracteres.</string>
+    <string name="error_message">Mensaje de error</string>
+    <string name="error_min_length">%1$s debe tener al menos %2$d caracteres.</string>
+    <string name="error_select_or_enter_field">Por favor selecciona o introduzca un %1$s válido.</string>
+    <string name="error_unknown">Error desconocido. Por favor, intente más tarde. </string>
+    <string name="exo_controls_fastforward_description">Avanzar rápidamente</string>
+    <string name="exo_controls_fullscreen_description">Modo de pantalla completa</string>
+    <string name="exo_controls_next_description">Siguiente pista</string>
+    <string name="exo_controls_pause_description">Pausar</string>
+    <string name="exo_controls_play_description">Reproducir</string>
+    <string name="exo_controls_previous_description">Pista anterior</string>
+    <string name="exo_controls_repeat_all_description">Repetir todo</string>
+    <string name="exo_controls_repeat_off_description">No repetir</string>
+    <string name="exo_controls_repeat_one_description">Repetir uno</string>
+    <string name="exo_controls_rewind_description">Rebobinar</string>
+    <string name="exo_controls_shuffle_description">Reproducir aleatoriamente</string>
+    <string name="exo_controls_stop_description">Detener</string>
+    <string name="exo_download_completed">Descarga de archivos completado</string>
+    <string name="exo_download_description">Descargar</string>
+    <string name="exo_download_downloading">Descargando</string>
+    <string name="exo_download_failed">No se ha podido descargar</string>
+    <string name="exo_download_notification_channel_name">Descargas</string>
+    <string name="exo_download_removing">Quitando descargas</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d×%2$d</string>
+    <string name="exo_track_selection_auto">Automático</string>
+    <string name="exo_track_selection_none">Ninguna</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Texto</string>
+    <string name="exo_track_selection_title_video">Vídeo</string>
+    <string name="exo_track_stereo">Estéreo</string>
+    <string name="exo_track_surround">Sonido envolvente</string>
+    <string name="exo_track_surround_5_point_1">Sonido envolvente 5.1</string>
+    <string name="exo_track_surround_7_point_1">Sonido envolvente 7.1</string>
+    <string name="exo_track_unknown">Desconocido</string>
+    <string name="facebook_text">Facebook</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Varias"</string>
+    <string name="feedback_dialog_message">¡Ayúdenos a mejorar!</string>
+    <string name="feedback_dialog_title">¿Desea enviar un comentario?</string>
+    <string name="file_size_exceeded">El tamaño de la descarga excede el espacio disponible en el dispositivo.</string>
+    <string name="find_course_btn_text">Encontrar un curso</string>
+    <string name="find_course_text">¿Buscando un nuevo reto?</string>
+    <string name="forgot_password">¿Olvidó su contraseña?</string>
+    <string name="forum_follow">Seguir</string>
+    <string name="forum_no_results_for_all_posts">No hay comentarios en esta discusión.</string>
+    <string name="forum_no_results_for_filtered_following">Los resultados filtrados no contienen ninguna publicación que esté siguiendo.</string>
+    <string name="forum_no_results_for_following">Usted no está siguiendo ninguna publicación.</string>
+    <string name="forum_no_results_for_search_query">Resultados no encontrados para \"{search_query}\". Intente usando otro término de búsqueda o seleccione una categoría de discusión para explorar.</string>
+    <string name="forum_no_results_in_category">No hay entradas en esta categoría de discusión.</string>
+    <string name="forum_no_results_with_filter">Intente borrar su filtro de publicaciones.</string>
+    <string name="forum_post_i_am_following">Publicaciones que estoy siguiendo</string>
+    <string name="forum_unfollow">Dejar de seguir</string>
+    <string name="go_to_video">Ir al video</string>
+    <string name="google_text">Google</string>
+    <string name="handouts_subtitle">Encuentre información importante del curso</string>
+    <string name="handouts_title">Recursos</string>
+    <string name="hide_optional_text">Ocultar campos opcionales</string>
+    <string name="insert_feedback">Comentario:</string>
+    <string name="introducing_cast_text">Presentamos Google Cast</string>
+    <string name="invitation_only_button_text">Solo con invitación</string>
+    <string name="just_now">Justo ahora</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_close">Cerrar</string>
+    <string name="label_continue">Continuar</string>
+    <string name="label_current_downloads">Ver descargas</string>
+    <string name="label_degrees">Títulos</string>
+    <string name="label_delete">Borrar</string>
+    <string name="label_discover">Exploración</string>
+    <string name="label_discovery">Descubrir</string>
+    <string name="label_done">Hecho</string>
+    <string name="label_download">Descargar</string>
+    <string name="label_ended">Terminado el {date}</string>
+    <string name="label_ending">Terminando el {date}</string>
+    <string name="label_error">Error</string>
+    <string name="label_expired">El acceso a los cursos caducó hace {date}</string>
+    <string name="label_expired_on">El acceso a los cursos caducó el {date}</string>
+    <string name="label_expires">El acceso a los cursos caduca en {date}</string>
+    <string name="label_expires_on">El acceso a los cursos caduca el {date}</string>
+    <string name="label_find_courses">Encontrar cursos</string>
+    <string name="label_maybe_later">Quizás más tarde</string>
+    <string name="label_my_courses">Cursos</string>
+    <string name="label_my_programs">Programas</string>
+    <string name="label_no">No</string>
+    <string name="label_ok">OK</string>
+    <string name="label_rate_the_app">Valorar la aplicación</string>
+    <string name="label_send_feedback">Enviar comentario</string>
+    <string name="label_settings">Configuración</string>
+    <string name="label_starting">Comenzando el {date}</string>
+    <string name="label_submit">Enviar</string>
+    <string name="label_submit_feedback">Enviar comentario</string>
+    <string name="label_undo">Deshacer</string>
+    <string name="label_update">Actualizar</string>
+    <string name="label_version">Versión de la aplicación</string>
+    <string name="label_yes">Si</string>
+    <string name="last_accessed">Último acceso</string>
+    <string name="lbl_cc_none">Ninguno</string>
+    <string name="lbl_closed_caption">Sutítulos</string>
+    <string name="lbl_reload">Recargar</string>
+    <string name="lbl_showing_only_videos">Mostrando solo videos</string>
+    <string name="lbl_slash">/</string>
+    <string name="lbl_video_speed">Velocidad del video</string>
+    <string name="lbl_view_on_web">VER EN LA WEB</string>
+    <string name="leaving_app_data_message">Si sale de la aplicación, no seguirá viendo el contenido gratuito de {platform_name}. Pueden aplicarse cargos por consumo de datos.</string>
+    <string name="leaving_app_data_title">Saliendo de la app de {platform_name}</string>
+    <string name="licensing_agreement">{platform_name} Acuerdo de Licencia de Usuario Final</string>
+    <string name="locked_content_details">Asignaciones calificables están disponibles para estudiantes con inscripción verificada. Mejore su inscripción debajo para desbloquearlas.</string>
+    <string name="locked_content_header">¡Disponible para estudiantes verificadas!</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="login_btn">Botón de inicio de sesión</string>
+    <string name="login_error">Error de inicio de sesión</string>
+    <string name="login_failed">Por favor, asegúrese de que su nombre de usuario o dirección de correo electrónico y la contraseña son correctos e inténtelo de nuevo.</string>
+    <string name="login_title">iniciar sesión</string>
+    <string name="logout">Salir</string>
+    <string name="media_route_menu_title">Reproducir en...</string>
+    <string name="microsoft_text" ns2:ignore="MissingTranslation">Microsoft</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"Botón de enviar"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"Botón de enviar. Conectado"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"Botón de enviar. Conectando"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"Botón de enviar. Desconectado"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"Buscando dispositivos"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"Enviar a"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"Carátula del álbum"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"Enviando pantalla"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"Cerrar"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"Ocultar"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"Desconectar"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"Mostrar"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"No hay información disponible"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"No se ha seleccionado contenido multimedia"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"Pausar"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"Reproducir"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"Detener"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"Detener envío"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"Control deslizante de volumen"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"Sistema"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"Dispositivos"</string>
+    <string name="msg_started_one_video_download">Descargando 1 video.</string>
+    <string name="msg_video_not_available">Este video está disponible por el momento. \nVuelva a intentar más tarde.</string>
+    <string name="msg_video_not_downloaded">Imposible descargar.</string>
+    <string name="need_data">Esta funcionalidad requiere una conexión a internet activa.</string>
+    <string name="network_connected_error">Error en la conexión. Por favor revise su conexión a Internet.</string>
+    <string name="network_error_header">Problema cargando video</string>
+    <string name="network_error_message">Por favor revise su conexión a Internet.</string>
+    <string name="network_not_connected">No está conectado a Internet.</string>
+    <string name="network_not_connected_short">No se puede acceder a la red</string>
+    <string name="network_service_unavailable">Servicio no disponible. Por favor intente más tarde. </string>
+    <string name="new_course_content">Nuevo contenido del curso</string>
+    <string name="no_announcements_to_display">No hay anuncios para este curso.</string>
+    <string name="no_chapter_text">No hay ningún contenido del curso disponible en este momento.</string>
+    <string name="no_connectivity">Error de conexión</string>
+    <string name="no_course_dates_to_display">Las fechas del curso no están disponibles en este momento.</string>
+    <string name="no_courses_to_display">Parece que todavía no está inscrito en ningún curso.</string>
+    <string name="no_handouts_to_display">No hay entregas para este curso.</string>
+    <string name="no_videos_text">Este curso no contiene videos.</string>
+    <string name="not_available_on_mobile">No disponible en Móviles</string>
+    <string name="notification_toggle">Permitir notificaciones</string>
+    <string name="offline_text">Sin conexión</string>
+    <string name="open_external_url_desc">Este enlace se abrirá en el navegador del móvil, y esto puede incurrir en costes adicionales.</string>
+    <string name="open_external_url_title">Se pueden aplicar cargos</string>
+    <string name="open_profile_button">Abrir su perfil</string>
+    <string name="or_register_with_email">o registrarse con el correo electrónico</string>
+    <string name="or_sign_in_with">O iniciar sesión con</string>
+    <string name="password">Contraseña</string>
+    <string name="payments_info_details">Resalte el nuevo conocimiento y nuevas habilidades con un certificado verificado.\n\nUse esta valiosa credencial para mejorar sus perspectivas laborales y avanzar en su carrera, o resaltar su certificado en las solicitudes escolares.</string>
+    <string name="payments_info_header">¡Obtenga un certificado verificado!</string>
+    <string name="permission_not_granted">Permiso no concedido</string>
+    <string name="place_order_title">Hacer pedido</string>
+    <string name="privacy_file_link">file:///android_asset/privacy_policy_es.html</string>
+    <string name="privacy_policy">Política de Privacidad</string>
+    <string name="profile_about_me_description">Sobre mi: {about_me}</string>
+    <string name="profile_consent_needed_edit_button">Configuración de cuenta</string>
+    <string name="profile_consent_needed_explanation">Debe tener más de 13 años para compartir el perfil completo.</string>
+    <string name="profile_incomplete_about_me">No se suministró información \"Sobre mí\".</string>
+    <string name="profile_incomplete_edit_button">Comenzar</string>
+    <string name="profile_incomplete_explanation">Parece que su perfil aún no está completo. Comencemos.</string>
+    <string name="profile_language_description">Idioma: {language}</string>
+    <string name="profile_location_description">Ubicación: {location}</string>
+    <string name="profile_sharing_limited_by_other_user">Este usuario está compartiendo un perfil limitado</string>
+    <string name="profile_sharing_limited_by_you">Actualmente está compartiendo una versión limitada de su perfil</string>
+    <string name="profile_tab_accomplishment">Logros</string>
+    <string name="profile_tab_bio">Acerca de</string>
+    <string name="profile_title">Perfil</string>
+    <string name="profile_toolbar_edit_button">Editar</string>
+    <string name="profile_username_description">Usuario: {username}</string>
+    <string name="progress_text">Espere por favor....</string>
+    <string name="rate_app_dialog_message">Comparta su opinión sobre la aplicación de {platform_name} con los demás escribiendo una breve crítica</string>
+    <string name="rate_app_dialog_title">Valore la aplicación</string>
+    <string name="rating_bar">Control de valoraciones</string>
+    <string name="rating_bar_selection">{rating} de {num_of_stars}</string>
+    <string name="rating_dialog_message">¿Cómo valoraría la aplicación?</string>
+    <string name="register_title">Registrarse</string>
+    <string name="register_with">Registrarse con</string>
+    <string name="registration_error_message">Modifique los campos señalados e intente nuevamente.</string>
+    <string name="registration_error_title">Error de registro</string>
+    <string name="remote_device_casting_message">El video se está transmitiendo a un dispositivo remoto</string>
+    <string name="reset_no_network_message">No está conectado a Internet. Por favor revise su conexión de red.</string>
+    <string name="reset_no_network_title">Error de conexión</string>
+    <string name="resources_title">Recursos</string>
+    <string name="review_email_subject">Crítica del cliente</string>
+    <string name="search_for_courses">Buscar cursos</string>
+    <string name="search_for_degrees">Buscar títulos</string>
+    <string name="search_for_programs">Buscar programas</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Buscar"</string>
+    <string name="search_subjects">Buscar Asignatura</string>
+    <string name="settings_download_to_sdcard_subtitle">Los videos se descargarán a una tarjeta SD si está disponible</string>
+    <string name="settings_download_to_sdcard_title">Descargar video a tarjeta SD</string>
+    <string name="settings_txt">Opciones</string>
+    <string name="settings_wifi_bottom">Sólo descargar contenido cuando el Wifi está encendido</string>
+    <string name="settings_wifi_top">Descargar solo por Wi-Fi</string>
+    <string name="share_accomplishment_button">Compartir este logro</string>
+    <string name="share_accomplishment_message">He ganado una insignia en {platform_name}! Dale un vistazo: {badge_url}</string>
+    <string name="share_certificate_button">Comparta su certificado</string>
+    <string name="share_certificate_message">Acabo de obtener un Certificado en {platform_name}! Dale un vistazo: {certificate_url}</string>
+    <string name="share_course_button">Compartir este curso</string>
+    <string name="share_course_message">Estoy tomando un curso en {platform_name}! Dale un vistazo:</string>
+    <string name="show_optional_text">Mostrar campos opcionales</string>
+    <string name="sign_up_and_learn">Inicie sesión y comience a aprender</string>
+    <string name="sign_up_with_facebook_ok">Ha iniciado sesión con Facebook.</string>
+    <string name="sign_up_with_google_ok">Ha iniciado sesión con Google.</string>
+    <string name="sign_up_with_microsoft_ok" ns2:ignore="MissingTranslation">Ha iniciado sesión con Microsoft.</string>
+    <string name="sign_up_with_social_ok">Sólo necesitamos un poco más de información antes de que empiece a aprender con {platform_name}.</string>
+    <string name="signing_in">Iniciando sesión...</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="success_dialog_message_help">Hemos enviado a su correo un mensaje con las instrucciones para restablecer su contraseña. 
+Si no lo recibe en algunos minutos, asegúrese de revisar su carpeta de spam.</string>
+    <string name="success_dialog_title_help">Correo de restablecimiento de contraseña enviado</string>
+    <string name="switch_off_no_downloading">Al activar el interruptor, se descargarán todos los videos de este curso.</string>
+    <string name="switch_on_all_downloaded">Al apagar el interruptor, se eliminarán todos los videos descargados de este curso.</string>
+    <string name="switch_on_all_downloading">Al desactivar el interruptor, se cancelará la descarga de todos los videos y se eliminarán todos los videos descargados de este curso.</string>
+    <string name="tab_label_certificate">Certificado</string>
+    <string name="tab_label_handouts">Entregas</string>
+    <string name="terms_file_link">file:///android_asset/terms_of_services_es.html</string>
+    <string name="terms_of_service_title">Términos de Servicio</string>
+    <string name="title_account">Cuenta</string>
+    <string name="title_download">Descargas</string>
+    <string name="title_reset_password_failed">Error al reiniciar la contraseña</string>
+    <string name="toggle_turn_off">Apagado</string>
+    <string name="toggle_turn_on">Encendido</string>
+    <string name="topics_search">Buscar en todas las publicaciones</string>
+    <string name="tos_and_honor_code">{platform_name} Términos de Servicio y Código de Honor</string>
+    <string name="try_again">Intente nuevamente</string>
+    <string name="untitled_block">Sin título</string>
+    <string name="upgrade_banner_description">Completa las evaluaciones desde cualquier lugar para obtener un certificado.</string>
+    <string name="upgrade_deadline_details">Mejore su inscripción hasta el {date} para obtener acceso ilimitado al curso siempre y cuando el curso esté en el sitio.</string>
+    <string name="upgrade_to_verified_today_title">Pásate a la modalidad de Certificado verificado</string>
+    <string name="video_only_on_web_label">Este video está actualmente solo en la web. Toque para verlo en web.</string>
+    <string name="video_only_on_web_short">Este video no está disponible en móviles.</string>
+    <string name="video_player">Reproductor de video</string>
+    <string name="video_player_enter_fullscreen">Ver en pantalla completa</string>
+    <string name="video_player_exit_fullscreen">Salir de pantalla completa</string>
+    <string name="video_player_forward_button">Adelantar 15 segundos.</string>
+    <string name="video_player_forward_time_sec">+15</string>
+    <string name="video_player_next">Siguiente</string>
+    <string name="video_player_pause">Pausar</string>
+    <string name="video_player_play">Reproducir</string>
+    <string name="video_player_previous">Anterior</string>
+    <string name="video_player_rewind">Retroceder 30 segundos</string>
+    <string name="video_player_rewind_button">Retroceder 10 segundos</string>
+    <string name="video_player_rewind_time_sec">-10</string>
+    <string name="video_player_settings">Configuración</string>
+    <string name="video_player_view_on_web">Ver en la web</string>
+    <string name="videos_subtitle">Ver videos del curso</string>
+    <string name="videos_title">Videos</string>
+    <string name="view_all_subjects">Ver todas las Asignaturas</string>
+    <string name="view_button_text">Ver</string>
+    <string name="view_course_button_text">Ver curso</string>
+    <string name="view_downloads">Toque dos veces para ver las descargas actuales</string>
+    <string name="wifi_dialog_message_help">Permitir que su dispositivo descargue videos usando su conexión de datos móviles cuando no haya una red Wi-Fi disponible. Pueden aplicar cargos de datos.</string>
+    <string name="wifi_dialog_title_help">Permitir descarga de datos móviles</string>
+    <string name="wifi_off_message">Sus opciones de configuración solo permiten descargas a través de Wi-Fi. 
+        \n Por favor conéctese a una red Wi.Fi o cambie las opciones de configuración para descargas.</string>
+    <string name="you_are_already_enrolled" ns2:ignore="MissingTranslation">Ya está inscrito en este curso</string>
+    <string name="you_are_now_enrolled">Ya está inscrito en este curso.</string>
+</resources>

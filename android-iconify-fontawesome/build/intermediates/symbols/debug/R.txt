@@ -1,0 +1,10 @@
+int attr iconAnimation 0x7f040001
+int attr iconColor 0x7f040002
+int attr iconName 0x7f040003
+int id none 0x7f0b0001
+int id pulse 0x7f0b0002
+int id spin 0x7f0b0003
+int[] styleable IconImageView { 0x7f040001, 0x7f040002, 0x7f040003 }
+int styleable IconImageView_iconAnimation 0
+int styleable IconImageView_iconColor 1
+int styleable IconImageView_iconName 2

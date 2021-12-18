@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\merged.dir\\values-h600dp-v13\\values-h600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\values-h600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "2,5,4,3,7,6,8,10,9",
+                        "startColumns": "4,4,4,4,5,5,4,4,4",
+                        "startOffsets": "55,214,158,105,333,269,399,521,457",
+                        "endColumns": "49,53,55,52,66,63,57,63,63",
+                        "endOffsets": "100,263,209,153,394,327,452,580,516"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,159,215,268,334,397,455,519",
+                        "endColumns": "49,53,55,52,65,62,57,63,63",
+                        "endOffsets": "100,154,210,263,329,392,450,514,578"
+                    }
+                }
+            ]
+        }
+    ]
+}

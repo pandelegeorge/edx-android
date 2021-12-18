@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="delete_video_snackbar_msg">
+    <item quantity="other">%s 件の動画を削除済</item>
+  </plurals>
+    <plurals name="discussion_responses_action_bar_vote_text">
+    <item quantity="other">投票 {quantity} 件</item>
+  </plurals>
+    <plurals name="number_responses_or_comments_comments_label">
+    <item quantity="other">コメント %s 件</item>
+  </plurals>
+    <plurals name="number_responses_or_comments_responses_label">
+    <item quantity="other">返信 %s 件</item>
+  </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"ホームに戻る"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"前に戻る"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"完了"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"OFF"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"ON"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"Space"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"検索…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>と共有"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="action_not_completed">完了していません。</string>
+    <string name="allow">許可</string>
+    <string name="already_have_an_account">アカウントをお持ちですか？サインインしてください。</string>
+    <string name="android">アンドロイド</string>
+    <string name="android_device_model">デバイス：</string>
+    <string name="android_os_version">Android OS: </string>
+    <string name="announcement_subtitle">最新ニュースを見る</string>
+    <string name="announcement_title">お知らせ</string>
+    <string name="app_version">アプリバージョン：</string>
+    <string name="app_version_outdated">本アプリには新バージョンがあります。</string>
+    <string name="app_version_unsupported">あなたが使っている本アプリのバージョンはサポートが終了しています。</string>
+    <string name="app_version_unsupported_login_msg">あなたが使っている本アプリのバージョンはサポートが終了しています。最新バージョンにアップデートしてログインしてください。</string>
+    <string name="app_version_unsupported_register_msg">あなたが使っている本アプリのバージョンはサポートが終了しています。最新バージョンにアップデートして登録してください。</string>
+    <string name="app_version_upgrade_app_store_unavailable">サポートされているアプリストアが見つかりません。</string>
+    <string name="assessment_empty">このセクションには教材がありません。</string>
+    <string name="assessment_explore_on_web">他の内容を見るか、ウェブ上でこの内容をご覧ください。</string>
+    <string name="assessment_next">次へ</string>
+    <string name="assessment_not_available">この内容はモバイルでは利用できません。</string>
+    <string name="assessment_only_on_youtube">この動画はYouTubeのみで見ることができます。</string>
+    <string name="assessment_open_on_youtube">YouTubeで動画を見る</string>
+    <string name="assessment_previous">前へ</string>
+    <string name="assessment_rotate_for_fullscreen">全画面表示でこの動画を見るには画面を横向きにしてください。</string>
+    <string name="assessment_soon">すぐに</string>
+    <string name="assessment_view_on_web">ウェブ上で見る</string>
+    <string name="cancel_download">ダウンロードをキャンセル</string>
+    <string name="cannot_show_dashboard">ダッシュボードが表示できません。</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"広告"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"「%1$s」にキャストしています"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"クローズド キャプション"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"クローズド キャプションを使用できません"</string>
+    <string msgid="6769392312239056170" name="cast_connecting_to_device">"「<ns1:g id="NAME">%1$s</ns1:g>」に接続しています"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"接続を解除"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"Cast レシーバーが広告を再生している間に表示された画像"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"広告の編集中…"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"アルバムアート"</string>
+    <string msgid="8879956505757481681" name="cast_expanded_controller_live_head_description">"現在の位置はライブ ストリームの先頭です"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"ライブ ストリーム"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"読み込んでいます…"</string>
+    <string msgid="8524154027649233400" name="cast_expanded_controller_skip_ad_label">"広告をスキップ"</string>
+    <string msgid="1171005989073753111" name="cast_expanded_controller_skip_ad_text">"広告は %1$d 後にスキップできます…"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"早送り"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"10 秒早送り"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"30 秒早送り"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="2177473333963666559" name="cast_live_label">"ライブ"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"ミュート"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"<ns1:g id="NAME">%1$s</ns1:g> に接続しました"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"<ns1:g id="NAME">%1$s</ns1:g> に接続しています"</string>
+    <string msgid="2568179715202151240" name="cast_notification_default_channel_name">"Cast"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"接続を解除"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"一時停止"</string>
+    <string msgid="5906987965619702702" name="cast_play">"再生"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"巻き戻し"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"10 秒巻き戻し"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"30 秒巻き戻し"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"再生スライダー"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"次の項目にスキップ"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"前の項目にスキップ"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"停止"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"ライブ ストリームを停止"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"音声"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"キャンセル"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"クローズド キャプション"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"トラック <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"なし"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"OK"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"字幕"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"ミュートを解除"</string>
+    <string name="close">閉じる</string>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">&lt;b>facebook.com/device&lt;/b>にアクセスして、上のコードを入力してください。</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">画像のダウンロードで何らかのエラーが発生しました。</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">WebViewにログインするには、インターネットへのアクセスが必要です</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">AndroidManifestエラー</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">「いいね！」しました</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">いいね！</string>
+    <string gender="unknown" name="com_facebook_loading">読み込み中です…</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">キャンセル</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">ログイン</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">Facebookでログイン</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">Facebookでログイン</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">ログアウト</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">ログアウト</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">%1$sとしてログイン中</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">Facebookでログイン中</string>
+    <string gender="unknown" name="com_facebook_send_button_text">送信</string>
+    <string gender="unknown" name="com_facebook_share_button_text">シェア</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">アカウントをリンクするには、モバイル機器でFacebookアプリを開いて、お知らせをご確認ください。</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">- または -</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">別のアカウントでログイン</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">%1$sとしてログイン</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">ログインを実行</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">アプリと共有する情報をコントロールすることができます。</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"有効にする"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行には、Google Play開発者サービスの有効化が必要です。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play開発者サービスの有効化"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"インストール"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」の実行には Google Play 開発者サービスが必要ですが、お使いの端末にはインストールされていません。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play開発者サービスの入手"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play 開発者サービスの利用"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play開発者サービスのエラー"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。"</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」の実行には Google Play 開発者サービスが必要ですが、お使いの端末ではサポートされていません。"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスの更新が必要です。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play開発者サービスの更新"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"スマートフォンで開く"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ログイン"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Googleにログイン"</string>
+    <string name="complete_registration">登録完了</string>
+    <string name="confirm_dialog_message_help">あなたのアカウントに登録しているメールアドレスを入力してください。パスワード変更手順についてのメールをお送りします。</string>
+    <string name="confirm_dialog_title_help">パスワードを変更</string>
+    <string name="course_content">講座コンテンツ</string>
+    <string name="course_details_congratulations">おめでとうございます！</string>
+    <string name="course_details_earned_cert">あなたは合格しました。</string>
+    <string name="course_details_view_cert_button">修了証を見る</string>
+    <string name="course_discussion_answered_title">回答済みの質問</string>
+    <string name="course_discussion_unanswered_title">未回答の質問</string>
+    <string name="course_name">講座名</string>
+    <string name="course_not_started">この講座はまだ開始していません。</string>
+    <string name="courseware_subtitle">動画や課題を見る</string>
+    <string name="courseware_title">講座</string>
+    <string name="create_account_btn">アカウントを作成するボタン</string>
+    <string name="create_account_text">アカウントを作成する</string>
+    <string name="creating_account_text">アカウント作成中…</string>
+    <string name="discussion_add_comment_button_description">コメントを書くボタン</string>
+    <string name="discussion_add_comment_button_label">コメントを書く</string>
+    <string name="discussion_add_comment_disabled_title">コメント受付終了</string>
+    <string name="discussion_add_comment_title">コメントを書く</string>
+    <string name="discussion_add_post_button_description">ディスカッションを投稿ボタン</string>
+    <string name="discussion_add_post_button_label">ディスカッションを投稿</string>
+    <string name="discussion_add_post_topic_selection">トピック：{topic}</string>
+    <string name="discussion_add_question_button_description">質問を投稿ボタン</string>
+    <string name="discussion_add_question_button_label">質問を投稿</string>
+    <string name="discussion_add_response_button_description">返信を書くボタン</string>
+    <string name="discussion_add_response_button_label">返信を書く</string>
+    <string name="discussion_add_response_disabled_title">返信受付終了</string>
+    <string name="discussion_add_response_title">返信を書く</string>
+    <string name="discussion_comment_posted">あなたのコメントが追加されました。</string>
+    <string name="discussion_comments">コメント</string>
+    <string name="discussion_post_author_attribution">{author}</string>
+    <string name="discussion_post_author_label_attribution">({text})</string>
+    <string name="discussion_post_create_new_post">新規投稿を作成する</string>
+    <string name="discussion_post_endorsed">いいね！</string>
+    <string name="discussion_post_last_interaction_date">最新の投稿：{date}</string>
+    <string name="discussion_post_marked_as_answer">ベストアンサー</string>
+    <string name="discussion_post_title">件名</string>
+    <string name="discussion_post_total_replies">合計 {total_replies} 件</string>
+    <string name="discussion_post_visibility_cohort">この投稿は {cohort} のみ見ることができます。</string>
+    <string name="discussion_post_visibility_everyone">この投稿は誰でも見ることができます。</string>
+    <string name="discussion_posts_filter_all_posts">すべての投稿</string>
+    <string name="discussion_posts_filter_unanswered_posts">未回答</string>
+    <string name="discussion_posts_filter_unread_posts">未読</string>
+    <string name="discussion_posts_refine">リファイン：</string>
+    <string name="discussion_posts_search_title">検索結果</string>
+    <string name="discussion_posts_sort_most_activity">コメント数</string>
+    <string name="discussion_posts_sort_most_votes">投票数</string>
+    <string name="discussion_posts_sort_recent_activity">最近のディスカッション</string>
+    <string name="discussion_question">質問</string>
+    <string name="discussion_response_posted">あなたの返信が追加されました。</string>
+    <string name="discussion_responses_answer">解答</string>
+    <string name="discussion_responses_endorsed">いいね！</string>
+    <string name="discussion_responses_report_label">報告</string>
+    <string name="discussion_responses_reported_label">未報告</string>
+    <string name="discussion_subtitle">ディスカッションに参加する</string>
+    <string name="discussion_title">ディスカッション</string>
+    <string name="discussion_topics_title">ディスカッショントピック</string>
+    <string name="do_not_allow">許可しない</string>
+    <string name="download_exceed_title">大きなサイズのダウンロード</string>
+    <string name="download_failed_text">ダウンロード失敗</string>
+    <string name="download_pending">ダウンロード中断</string>
+    <string name="dropdown_list_prefix">ドロップダウンリスト</string>
+    <string name="edit_user_profile_change_photo">変更</string>
+    <string name="edit_user_profile_change_photo_description">プロフィール写真を変更</string>
+    <string name="edit_user_profile_choose_photo">写真を選択</string>
+    <string name="edit_user_profile_current_language">現在の言語：{current_language}</string>
+    <string name="edit_user_profile_current_location">現在地：{current_location}</string>
+    <string name="edit_user_profile_field">{label}: {value}</string>
+    <string name="edit_user_profile_field_placeholder">選択</string>
+    <string name="edit_user_profile_photo_crop_cancel">キャンセル</string>
+    <string name="edit_user_profile_photo_crop_save">選ぶ</string>
+    <string name="edit_user_profile_photo_crop_title">サイズ変更</string>
+    <string name="edit_user_profile_remove_photo">写真を削除</string>
+    <string name="edit_user_profile_take_photo">写真を撮る</string>
+    <string name="edit_user_profile_textarea_submit_button">提出</string>
+    <string name="edit_user_profile_title">プロフィールを編集</string>
+    <string name="effort_field_name">エフォート：</string>
+    <string name="email">メールアドレス</string>
+    <string name="email_chooser_header">...を利用してメールを送る</string>
+    <string name="email_client_not_present">電子メールソフトがインストールされていません</string>
+    <string name="email_subject">利用者フィードバック</string>
+    <string name="email_username">ユーザー名またはメールアドレス</string>
+    <string name="end_user_title">エンドユーザーライセンス同意書</string>
+    <string name="enroll_now_button_text">登録しよう</string>
+    <string name="enrollment_failure">今回この講座に受講登録できませんでした。</string>
+    <string name="error_account_not_linked_desc_fb">あなたの Facebook アカウントが {platform_destination} 上の {platform_name} アカウントと連動しているか確認してください。</string>
+    <string name="error_account_not_linked_desc_google">あなたの Google アカウントが {platform_destination} 上の {platform_name} アカウントと連動しているか確認してください。</string>
+    <string name="error_account_not_linked_title_fb"> {platform_name} アカウントと連動していない Facebook アカウント</string>
+    <string name="error_account_not_linked_title_google"> {platform_name} アカウントと連動していない Google アカウント</string>
+    <string name="error_download_failed">ダウンロード失敗</string>
+    <string name="error_enter_email">ユーザー名またはメールアドレスを入力して再試行してください。</string>
+    <string name="error_enter_field">%1$s を入力してください。</string>
+    <string name="error_enter_password">パスワードを入力して再試行してください。</string>
+    <string name="error_heading">ログイン中に以下のエラーが起きました</string>
+    <string name="error_invalid_email">メールアドレスの書式が正しいか確認して再試行してください。</string>
+    <string name="error_max_length">%1$s は %2$d 文字を超えることはできません。</string>
+    <string name="error_message">エラーメッセージ</string>
+    <string name="error_min_length">%1$s は少なくとも %2$d 文字必要です。</string>
+    <string name="error_unknown">不明なエラーが生じました。後ほど再試行してください。</string>
+    <string name="exo_controls_fastforward_description">早送り</string>
+    <string name="exo_controls_fullscreen_description">全画面モード</string>
+    <string name="exo_controls_next_description">次のトラック</string>
+    <string name="exo_controls_pause_description">一時停止</string>
+    <string name="exo_controls_play_description">再生</string>
+    <string name="exo_controls_previous_description">前のトラック</string>
+    <string name="exo_controls_repeat_all_description">全曲をリピート</string>
+    <string name="exo_controls_repeat_off_description">リピートなし</string>
+    <string name="exo_controls_repeat_one_description">1 曲をリピート</string>
+    <string name="exo_controls_rewind_description">巻き戻し</string>
+    <string name="exo_controls_shuffle_description">シャッフル</string>
+    <string name="exo_controls_stop_description">停止</string>
+    <string name="exo_download_completed">ダウンロードが完了しました</string>
+    <string name="exo_download_description">ダウンロード</string>
+    <string name="exo_download_downloading">ダウンロードしています</string>
+    <string name="exo_download_failed">ダウンロードに失敗しました</string>
+    <string name="exo_download_notification_channel_name">ダウンロード</string>
+    <string name="exo_download_removing">ダウンロードを削除しています</string>
+    <string name="exo_item_list">%1$s、%2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">モノラル</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">自動</string>
+    <string name="exo_track_selection_none">なし</string>
+    <string name="exo_track_selection_title_audio">音声</string>
+    <string name="exo_track_selection_title_text">SMS</string>
+    <string name="exo_track_selection_title_video">動画</string>
+    <string name="exo_track_stereo">ステレオ</string>
+    <string name="exo_track_surround">サラウンド サウンド</string>
+    <string name="exo_track_surround_5_point_1">5.1 サラウンド サウンド</string>
+    <string name="exo_track_surround_7_point_1">7.1 サラウンド サウンド</string>
+    <string name="exo_track_unknown">不明</string>
+    <string name="facebook_text">Facebook</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"その他"</string>
+    <string name="feedback_dialog_message">改善できるようご協力ください！</string>
+    <string name="feedback_dialog_title">フィードバックを送る</string>
+    <string name="file_size_exceeded">ダウンロードサイズがデバイスの記録装置の空き容量を上回っています。</string>
+    <string name="find_course_btn_text">講座を探す</string>
+    <string name="find_course_text">新しいチャレンジを探していますか？</string>
+    <string name="forgot_password">パスワードをお忘れですか？</string>
+    <string name="forum_follow">フォロー</string>
+    <string name="forum_no_results_for_all_posts">この講座のディスカッションには投稿がありません。</string>
+    <string name="forum_no_results_for_filtered_following">フォロー中の投稿はフィルタリング結果に含まれていません。</string>
+    <string name="forum_no_results_for_following">フォロー中の投稿はありません。</string>
+    <string name="forum_no_results_for_search_query">“{search_query}” が見つかりません。他の単語またはディスカッション・カテゴリーをお試しください。</string>
+    <string name="forum_no_results_in_category">このディスカッション・カテゴリーには投稿がありません。</string>
+    <string name="forum_no_results_with_filter">投稿フィルタを解除</string>
+    <string name="forum_post_i_am_following">フォロー中の投稿</string>
+    <string name="forum_unfollow">フォロー解除</string>
+    <string name="go_to_video">動画へ</string>
+    <string name="google_text">Google</string>
+    <string name="handouts_subtitle">重要な講座情報を探す</string>
+    <string name="handouts_title">ハンドアウト</string>
+    <string name="hide_optional_text">任意のフィールドを隠す</string>
+    <string name="insert_feedback">フィードバック：</string>
+    <string name="just_now">たった今</string>
+    <string name="label_cancel">キャンセル</string>
+    <string name="label_close">閉じる</string>
+    <string name="label_continue">続ける</string>
+    <string name="label_delete">削除</string>
+    <string name="label_done">完了</string>
+    <string name="label_download">ダウンロード</string>
+    <string name="label_find_courses">講座を探す</string>
+    <string name="label_maybe_later">後で</string>
+    <string name="label_no">いいえ</string>
+    <string name="label_ok">OK</string>
+    <string name="label_rate_the_app">アプリを評価する</string>
+    <string name="label_send_feedback">フィードバックを送る</string>
+    <string name="label_submit">提出</string>
+    <string name="label_submit_feedback">フィードバックを送る</string>
+    <string name="label_undo">元に戻す</string>
+    <string name="label_update">アップデート</string>
+    <string name="label_version">アプリバージョン</string>
+    <string name="label_yes">はい</string>
+    <string name="last_accessed">最新アクセス</string>
+    <string name="lbl_closed_caption">字幕を閉じる</string>
+    <string name="lbl_reload">再読み込み</string>
+    <string name="lbl_showing_only_videos">動画のみの利用</string>
+    <string name="lbl_slash">/</string>
+    <string name="lbl_view_on_web">ウェブで見る</string>
+    <string name="leaving_app_data_message">アプリを閉じると、無料で {platform_name} コンテンツを見ることができなくなり、データ通信料が課金される場合があります。</string>
+    <string name="leaving_app_data_title">{platform_name} アプリを閉じる</string>
+    <string name="login">サインイン</string>
+    <string name="login_btn">サインインボタン</string>
+    <string name="login_error">サインイン失敗</string>
+    <string name="login_failed">ユーザー名またはメールアドレス、パスワードが正しいか確認して再試行してください。</string>
+    <string name="login_title">サインイン</string>
+    <string name="logout">ログアウト</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"キャスト アイコン"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"キャスト アイコン。接続済み"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"キャスト アイコン。接続中"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"キャスト アイコン。接続解除済み"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"端末を検出しています"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"キャスト先"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"アルバムアート"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"画面をキャストしています"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"閉じる"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"折りたたむ"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"接続を解除"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"展開"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"情報がありません"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"メディアが選択されていません"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"一時停止"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"再生"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"停止"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"キャストを停止"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"音量スライダー"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"システム"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"端末"</string>
+    <string name="msg_started_one_video_download">ビデオを１つダウンロード中です</string>
+    <string name="msg_video_not_available">この動画は現在見ることができません。後ほど再試行してください。</string>
+    <string name="msg_video_not_downloaded">動画をダウンロードできません</string>
+    <string name="need_data">この機能はインターネット接続が必要です。</string>
+    <string name="network_connected_error">接続エラー。インターネットへの接続設定を確認してください。</string>
+    <string name="network_error_header">動画の読込ができません</string>
+    <string name="network_error_message">インターネットへの接続設定を確認してください</string>
+    <string name="network_not_connected">インターネットに接続されていません。</string>
+    <string name="network_not_connected_short">ネットワーク接続できません</string>
+    <string name="network_service_unavailable">サービスが利用できません。後ほど再試行してください。</string>
+    <string name="new_course_content">新規講座コンテンツ</string>
+    <string name="no_announcements_to_display">現在この講座からのお知らせはありません。</string>
+    <string name="no_chapter_text">現在受講できる講座コンテンツはありません。</string>
+    <string name="no_connectivity">接続エラー</string>
+    <string name="no_courses_to_display">あなたはまだどの講座にも受講登録をしていないようです。</string>
+    <string name="no_handouts_to_display">現在この講座のハンドアウトはありません。</string>
+    <string name="notification_toggle">通知を許可する</string>
+    <string name="offline_text">オフライン</string>
+    <string name="open_external_url_desc">このリンクはモバイルブラウザで開きます。データ通信料が追加で課金される場合があります。</string>
+    <string name="open_external_url_title">データ通信料が課金される場合があります</string>
+    <string name="open_profile_button">あなたのプロフィールを開く</string>
+    <string name="or_register_with_email">メールで登録する</string>
+    <string name="or_sign_in_with">またはサインイン</string>
+    <string name="password">パスワード</string>
+    <string name="profile_about_me_description">自己紹介：{about_me}</string>
+    <string name="profile_consent_needed_edit_button">アカウント設定</string>
+    <string name="profile_consent_needed_explanation">全プロフィールを公開するには13歳以上でなければなりません。</string>
+    <string name="profile_incomplete_about_me">「自己紹介」情報がありません。</string>
+    <string name="profile_incomplete_edit_button">始める</string>
+    <string name="profile_incomplete_explanation">プロフィールが出来ていないようです。作成しましょう。</string>
+    <string name="profile_language_description">言語：{language}</string>
+    <string name="profile_location_description">現在地：{location}</string>
+    <string name="profile_sharing_limited_by_other_user">現在、限定プロフィールを公開しています</string>
+    <string name="profile_sharing_limited_by_you">現在、限定プロフィールを公開しています</string>
+    <string name="profile_tab_accomplishment">業績</string>
+    <string name="profile_tab_bio">概要</string>
+    <string name="profile_title">プロフィール</string>
+    <string name="profile_toolbar_edit_button">編集</string>
+    <string name="profile_username_description">ユーザー名：{username}</string>
+    <string name="progress_text">お待ちください</string>
+    <string name="rate_app_dialog_message">アプリストアで簡単なレビューを書いて、 {platform_name} アプリについて他の人に伝えよう</string>
+    <string name="rate_app_dialog_title">アプリを評価する</string>
+    <string name="rating_bar">Rating コントロール</string>
+    <string name="rating_bar_selection">星 {num_of_stars} のうち、{rating}</string>
+    <string name="rating_dialog_message">アプリを評価する</string>
+    <string name="register_title">登録</string>
+    <string name="register_with">登録</string>
+    <string name="registration_error_message">ハイライトしてある部分をアップデートして再試行してください。</string>
+    <string name="registration_error_title">登録失敗</string>
+    <string name="reset_no_network_message">インターネットに接続されていません。インターネットへの接続設定を確認してください。</string>
+    <string name="reset_no_network_title">接続エラー</string>
+    <string name="review_email_subject">カスタマー・レビュー</string>
+    <string msgid="730395136688082741" name="search_menu_title">"検索"</string>
+    <string name="settings_txt">設定</string>
+    <string name="settings_wifi_bottom">Wi-Fi がオンになっているときだけダウンロード</string>
+    <string name="settings_wifi_top">Wi-Fi 使用ダウンロード</string>
+    <string name="share_accomplishment_button">業績をシェア</string>
+    <string name="share_accomplishment_message">{platform_name} でバッジを獲得しました！こちらで確認してください：{badge_url}</string>
+    <string name="share_certificate_button">修了証をシェア</string>
+    <string name="share_certificate_message">私は {platform_name} で修了証を獲得しました！{certificate_url}で確認してください：</string>
+    <string name="share_course_button">講座をシェア</string>
+    <string name="share_course_message">私は {platform_name} の講座を受講中です！こちらを見てください：</string>
+    <string name="show_optional_text">任意のフィールドを表示する</string>
+    <string name="sign_up_and_learn">登録申込をして学習を始める</string>
+    <string name="sign_up_with_facebook_ok">Facebookでサインインできました。</string>
+    <string name="sign_up_with_google_ok">Googleでサインインできました。</string>
+    <string name="sign_up_with_social_ok">{platform_name} を使い始めるにはもう少し情報が必要です。</string>
+    <string name="signing_in">サインイン中</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="success_dialog_message_help">登録メールアドレスに、パスワード変更手順についてのメールを送信しました。
+もし数分経ってもメールが見つからない場合は、迷惑メールフォルダを確認してください。</string>
+    <string name="success_dialog_title_help">パスワード変更メールを送信済</string>
+    <string name="tab_label_certificate">修了証</string>
+    <string name="tab_label_handouts">ハンドアウト</string>
+    <string name="title_download">ダウンロード</string>
+    <string name="title_reset_password_failed">パスワード変更失敗</string>
+    <string name="toggle_turn_off">オフ</string>
+    <string name="toggle_turn_on">オン</string>
+    <string name="topics_search">全ての投稿を検索</string>
+    <string name="try_again">再試行する</string>
+    <string name="untitled_block">名称未設定</string>
+    <string name="video_only_on_web_label">この動画は現在ウェブ上でしか見ることができません。ウェブ上で見るにはクリックしてください。</string>
+    <string name="video_only_on_web_short">この動画はモバイル上で見ることができません。</string>
+    <string name="video_player">動画プレイヤー</string>
+    <string name="video_player_enter_fullscreen">全画面モード</string>
+    <string name="video_player_exit_fullscreen">全画面モード解除</string>
+    <string name="video_player_next">次へ</string>
+    <string name="video_player_pause">一時停止</string>
+    <string name="video_player_play">再生</string>
+    <string name="video_player_previous">前へ</string>
+    <string name="video_player_rewind">30秒巻き戻し</string>
+    <string name="video_player_settings">設定</string>
+    <string name="video_player_view_on_web">ウェブ上で見る</string>
+    <string name="view_button_text">見る</string>
+    <string name="view_course_button_text">講座を見る</string>
+    <string name="wifi_dialog_message_help">Wi-Fi 接続が利用できない場合、通話回線を使って動画をダウンロードできるようにします。データ通信料が課金される場合があります。</string>
+    <string name="wifi_dialog_title_help">通話回線でのダウンロードを許可</string>
+    <string name="wifi_off_message">現在 ダウンロードは Wi-Fi 接続のみを使用する設定になっています。
+Wi-Fi ネットワークに接続するか、ダウンロードの設定を変更してください。</string>
+    <string name="you_are_now_enrolled">あなたはこの講座に登録中です。</string>
+</resources>

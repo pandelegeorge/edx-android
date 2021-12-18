@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.segment.analytics.android.integrations:google-analytics:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c577c34c3c41ada76d7b22dd1ba21bd/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c577c34c3c41ada76d7b22dd1ba21bd/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.segment.analytics.android.integrations/google-analytics/1.0.0/165012b037bb53dde84c664061b399062d0e2816/google-analytics-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

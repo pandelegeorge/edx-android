@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OpenEdXMobile/OpenEdXMobile.iml" filepath="$PROJECT_DIR$/OpenEdXMobile/OpenEdXMobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-iconify/android-iconify.iml" filepath="$PROJECT_DIR$/android-iconify/android-iconify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-iconify-fontawesome/android-iconify-fontawesome.iml" filepath="$PROJECT_DIR$/android-iconify-fontawesome/android-iconify-fontawesome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buildSrc/buildSrc.iml" filepath="$PROJECT_DIR$/buildSrc/buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edx-app-android.iml" filepath="$PROJECT_DIR$/edx-app-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buildSrc/plugins/edx-app-gradle-plugin/plugins.iml" filepath="$PROJECT_DIR$/buildSrc/plugins/edx-app-gradle-plugin/plugins.iml" />
+    </modules>
+  </component>
+</project>

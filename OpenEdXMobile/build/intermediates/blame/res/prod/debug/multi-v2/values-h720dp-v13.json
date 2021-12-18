@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\oana-george\\.gradle\\caches\\transforms-2\\files-2.1\\4ff6ad2eb3c5b8f77f1b561656050133\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

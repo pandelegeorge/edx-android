@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.nimbl3:robolectric.shadows-supportv4:4.1-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc67b640278ec561dd090aed720e60d7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc67b640278ec561dd090aed720e60d7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.nimbl3/robolectric.shadows-supportv4/4.1-SNAPSHOT/5bbb7ade3f5767f4899a4bb3f11031a2dc5b265/robolectric.shadows-supportv4-4.1-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,8 @@
+com.joanzapata.iconify
+attr iconAnimation
+attr iconColor
+attr iconName
+id none
+id pulse
+id spin
+styleable IconImageView iconAnimation iconColor iconName

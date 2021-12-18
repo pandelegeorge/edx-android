@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="delete_video_snackbar_msg">
+    <item quantity="one">קובץ וידאו %s נמחק</item>
+    <item quantity="two">%s קבצי וידאו נמחקו</item>
+    <item quantity="many">%s קבצי וידאו נמחקו</item>
+    <item quantity="other">%s קבצי וידאו נמחקו</item>
+  </plurals>
+    <plurals name="discussion_responses_action_bar_vote_text">
+    <item quantity="one">הצבעה {quantity}</item>
+    <item quantity="two">{quantity} הצבעות</item>
+    <item quantity="many">{quantity} הצבעות</item>
+    <item quantity="other">{quantity} הצבעות</item>
+  </plurals>
+    <plurals name="download_total">
+    <item quantity="one">{total_videos_count} קובץ וידאו, {total_videos_size} סך הכל</item>
+    <item quantity="two">{total_videos_count} קבצי וידאו, {total_videos_size} סך הכל</item>
+    <item quantity="many">{total_videos_count} קבצי וידאו, {total_videos_size} סך הכל</item>
+    <item quantity="other">{total_videos_count} קבצי וידאו, {total_videos_size} סך הכל</item>
+  </plurals>
+    <plurals name="number_responses_or_comments_comments_label">
+    <item quantity="one">תגובה %s</item>
+    <item quantity="two">%s תגובות</item>
+    <item quantity="many">%s תגובות</item>
+    <item quantity="other">%s תגובות</item>
+  </plurals>
+    <plurals name="number_responses_or_comments_responses_label">
+    <item quantity="one">תשובה %s</item>
+    <item quantity="two">%s תשובות</item>
+    <item quantity="many">%s תשובות</item>
+    <item quantity="other">%s תשובות</item>
+  </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"ניווט לדף הבית"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"ניווט למעלה"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"עוד אפשרויות"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"סיום"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"הצגת הכול"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"בחירת אפליקציה"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"כבוי"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"מופעל"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+‎"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"מחיקה"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"רווח"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"תפריט+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"חיפוש…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"מחיקת השאילתה"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"שאילתת חיפוש"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"חיפוש"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"שליחת שאילתה"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"חיפוש קולי"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"שיתוף עם"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"שיתוף עם <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"כיווץ"</string>
+    <string name="action_not_completed">לא ניתן היה להשלים את הפעולה שלכם.</string>
+    <string name="allow">אפשר</string>
+    <string name="already_have_an_account">כבר יש לך חשבון? התחבר</string>
+    <string name="android">אנדרואיד</string>
+    <string name="android_device_model">דגם מכשיר:</string>
+    <string name="android_os_version">מערכת הפעלה של אנדרואיד:</string>
+    <string name="announcement_subtitle">התעדכנו בחדשות הטריות ביותר</string>
+    <string name="announcement_title">הודעות</string>
+    <string name="app_version">גרסת אפליקציה:</string>
+    <string name="app_version_outdated">גרסה חדשה של האפליקציה זמינה להורדה.</string>
+    <string name="app_version_unsupported">גרסת האפליקציה שברשותכם אינה נתמכת עוד.</string>
+    <string name="app_version_unsupported_login_msg">גרסת האפליקציה שברשותכם אינה נתמכת. עדכנו לגרסה האחרונה כדי להיכנס.</string>
+    <string name="app_version_unsupported_register_msg">גרסת האפליקציה שברשותכם אינה נתמכת. עדכנו לגרסה האחרונה כדי להיכנס.</string>
+    <string name="app_version_upgrade_app_store_unavailable">לא נמצאה חנות אפליקציות נתמכת במכשיר זה.</string>
+    <string name="assessment_empty">לא קיימים חומרי לימוד בחלק זה.</string>
+    <string name="assessment_explore_on_web">עיינו בחלקים אחרים של קורס זה או צפו בחלק זה ברשת.</string>
+    <string name="assessment_needed_updating_youtube">סרטון זה דורש את עדכון האפליקציה YouTube אצלך.</string>
+    <string name="assessment_next">הבא</string>
+    <string name="assessment_not_available">רכיב אינטראקטיבי זה עדיין לא זמין בסלולר.</string>
+    <string name="assessment_only_on_youtube">ניתן להציג קובץ וידאו זה רק ביוטיוב.</string>
+    <string name="assessment_open_on_youtube">צפו בוידאו ביוטיוב</string>
+    <string name="assessment_previous">הקודם</string>
+    <string name="assessment_rotate_for_fullscreen">סובבו את המכשיר שלכם כדי לצפות בקובץ וידאו זה במצב מסך מלא.</string>
+    <string name="assessment_soon">בקרוב</string>
+    <string name="assessment_unable_to_play_video"> שגיאת נגן</string>
+    <string name="assessment_unable_to_play_video_message">אין אפשרות להפעיל את הסרטון. באפשרותך להציגו באפליקציית YouTube או לנסות שוב מאוחר יותר.</string>
+    <string name="assessment_update_youtube">עדכון YouTube</string>
+    <string name="assessment_view_on_web">צפו ברשת</string>
+    <string name="browse_by_subject">עיון לפי נושא</string>
+    <string name="bulk_download_switch">מתג הורדת קבצי וידאו במקבץ.</string>
+    <string name="by_creating_account">יצירת החשבון מהווה את הסכמתך ל{license}  ול{tos_and_honor_code} והכרה מצדך בכך ש{platform_name} וכל \'חבר\' מעבדים נתונים אישיים שלך בהתאם ל{privacy_policy}</string>
+    <string name="by_signing_in">כניסה אל האפליקציה מהווה הסכמה ל{license} ול{tos_and_honor_code} והכרה בכך ש{platform_name} וכל \'חבר\' מעבדים נתונים אישים שלך בהתאם ל{privacy_policy}</string>
+    <string name="cancel_download">בטלו הורדה</string>
+    <string name="cannot_open_url">לא ניתן לפתוח את דף האינטרנט</string>
+    <string name="cannot_show_dashboard">לא ניתן להציג את לוח הבקרה.</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"מודעה"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"‏מעביר אל %1$s"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"כתוביות"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"הכתוביות אינן זמינות"</string>
+    <string msgid="6769392312239056170" name="cast_connecting_to_device">"מתחבר אל <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"נתק"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"‏התמונה מוצגת בזמן שמקלט Cast מפעיל מודעה"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"מודעה בתהליך..."</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"עטיפת אלבום"</string>
+    <string msgid="8879956505757481681" name="cast_expanded_controller_live_head_description">"המיקום הנוכחי בראש הסטרימינג בשידור חי"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"זרם בשידור חי"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"טוען…"</string>
+    <string msgid="8524154027649233400" name="cast_expanded_controller_skip_ad_label">"דילוג על המודעה"</string>
+    <string msgid="1171005989073753111" name="cast_expanded_controller_skip_ad_text">"‏ניתן יהיה לדלג על המודעה בעוד %1$d…"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"העבר"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"העבר עשר שניות קדימה"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"העבר 30 שניות קדימה"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="2177473333963666559" name="cast_live_label">"שידור חי"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"השתק"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"מחובר אל <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"מתחבר אל <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2568179715202151240" name="cast_notification_default_channel_name">"Cast"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"נתק"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"השהה"</string>
+    <string msgid="5906987965619702702" name="cast_play">"הפעל"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"העבר לאחור"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"העבר עשר שניות לאחור"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"העבר 30 שניות לאחור"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"פקד חיפוש הפעלה"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"אפשר לדלג אל הפריט הבא"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"אפשר לדלג לפריט הקודם"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"עצור"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"עצור סטרימינג בשידור חי"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"אודיו"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"ביטול"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"כתוביות"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"רצועה <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"אף אחת"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"אישור"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"כתוביות"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"בטל השתקה"</string>
+    <string name="close">סגור</string>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">יש לבקר בכתובת facebook.com/device&lt;/b&amp;gt ולהזין את הקוד המוצג למעלה</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">שגיאה לא צפויה במהלך הורדת תמונה.</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">התחברות WebView דורשת הרשאת אינטרנט</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">שגיאת AndroidManifest</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">סימנת בלייק</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">לייק</string>
+    <string gender="unknown" name="com_facebook_loading">טוען...</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">ביטול</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">התחבר</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">המשך/המשיכי עם פייסבוק</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">התחברות באמצעות פייסבוק</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">מחובר/ת בתור: %1$s</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">מחובר/ת כמשתמש בפייסבוק</string>
+    <string gender="unknown" name="com_facebook_send_button_text">שלח/י</string>
+    <string gender="unknown" name="com_facebook_share_button_text">שתף/שתפי</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">כדי לחבר את חשבונך, יש לפתוח את אפליקציית פייסבוק במכשיר הנייד ולבדוק אם יש התראות.</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">- או -</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">לא את/ה?</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">המשך/המשיכי בתור %1$s</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">אישור ההתחברות</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">את/ה בשליטה - בחר/י אילו פרטים ברצונך לשתף עם אפליקציות.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"הפעל"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏האפליקציה <ns1:g id="APP_NAME">%1$s</ns1:g> לא תפעל אם לא תפעיל את שירותי Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"‏הפעל את שירותי Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"התקן"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"‏האפליקציה <ns1:g id="APP_NAME">%1$s</ns1:g> לא תפעל ללא שירותי Google Play, שאינם מותקנים במכשיר."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"‏קבל את שירותי Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"‏זמינות של שירותי Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"‏שגיאה בשירותי Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> נתקלה בבעיה בשירותי Google Play. נסה שוב."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> לא תפעל ללא שירותי Google Play, שאינם נתמכים במכשיר שלך."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"עדכן"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> לא יפעל אם לא תעדכן את שירותי Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"‏עדכון שירותי Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"‏האפליקציה <ns1:g id="APP_NAME">%1$s</ns1:g> לא תפעל ללא שירותי Google Play, שמתעדכנים כרגע."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"‏דרושה גרסה חדשה של שירותי Google Play. הגרסה תתעדכן בעצמה תוך זמן קצר."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"פתח בטלפון"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"כניסה"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"‏היכנס באמצעות Google"</string>
+    <string name="complete_registration">השלימו את ההרשמה שלכם</string>
+    <string name="confirm_dialog_message_help">הכניסו את כתובת האימייל של החשבון שלכם, ואנחנו נשלח לכם הוראות לאיפוס הססמה שלכם.</string>
+    <string name="confirm_dialog_title_help">איפוס סיסמה</string>
+    <string name="course_content">תוכן הקורס</string>
+    <string name="course_dates_subtitle">עקבו אחר מועדי ההגשה והישארו במסלול</string>
+    <string name="course_dates_title">תאריכים חשובים</string>
+    <string name="course_details_congratulations">מזל טוב!</string>
+    <string name="course_details_earned_cert">עברת את הקורס.</string>
+    <string name="course_details_view_cert_button">הצג תעודת סיום</string>
+    <string name="course_discussion_answered_title">שאלות שנענו</string>
+    <string name="course_discussion_unanswered_title">שאלה שלא נענתה</string>
+    <string name="course_error_content_invalid">לא ניתן להעלות את תוכן הקורס. נסו שוב מאוחר יותר.</string>
+    <string name="course_name">שם קורס</string>
+    <string name="course_not_started">קורס זה טרם החל.</string>
+    <string name="courseware_subtitle">גישה לקבצי וידאו ולמטלות</string>
+    <string name="courseware_title">קורס</string>
+    <string name="create_account_btn">כפתור צור את החשבון שלי</string>
+    <string name="create_account_text">צור את חשבוני</string>
+    <string name="creating_account_text">צור חשבון...</string>
+    <string name="default_notification_channel_title">התראה כללית</string>
+    <string name="delete_videos_title">מחק קבצי וידאו</string>
+    <string name="discussion_add_comment_button_description">הוסף כפתור הערות</string>
+    <string name="discussion_add_comment_button_label">הוסיפו הערה</string>
+    <string name="discussion_add_comment_disabled_title">לא ניתן להוסיף הערות לתגובה זו</string>
+    <string name="discussion_add_comment_title">הוסיפו הערה</string>
+    <string name="discussion_add_post_button_description">כפתור דיון בפוסט</string>
+    <string name="discussion_add_post_button_label">דיון בפוסט</string>
+    <string name="discussion_add_post_topic_selection">נושא: {topic}</string>
+    <string name="discussion_add_question_button_description">כפתור שאלה בנוגע לפוסט</string>
+    <string name="discussion_add_question_button_label">שאלה בנוגע לפוסט</string>
+    <string name="discussion_add_response_button_description">הוסיפו כפתור תגובה</string>
+    <string name="discussion_add_response_button_label">הוסיפו תגובה</string>
+    <string name="discussion_add_response_disabled_title">לא ניתן להוסיף תגובות לפוסט זה</string>
+    <string name="discussion_add_response_title">הוסיפו תגובה</string>
+    <string name="discussion_comment_posted">ההערה שלכם נוספה.</string>
+    <string name="discussion_comments">הערות</string>
+    <string name="discussion_post_author_attribution">על ידי {author}</string>
+    <string name="discussion_post_author_label_attribution">({text})
+</string>
+    <string name="discussion_post_create_new_post">צרו פוסט חדש</string>
+    <string name="discussion_post_endorsed">אומץ</string>
+    <string name="discussion_post_last_interaction_date">פוסט אחרון: {date}</string>
+    <string name="discussion_post_marked_as_answer">סומן כנענה</string>
+    <string name="discussion_post_title">כותרת</string>
+    <string name="discussion_post_total_replies">סך הכל {total_replies}</string>
+    <string name="discussion_post_visibility_cohort">פוסט זה ניתן לצפייה רק על ידי {cohort}.</string>
+    <string name="discussion_post_visibility_everyone">פוסט זה ניתן לצפייה על ידי כולם.</string>
+    <string name="discussion_posts_filter_all_posts">כל הפוסטים</string>
+    <string name="discussion_posts_filter_unanswered_posts">לא נענה</string>
+    <string name="discussion_posts_filter_unread_posts">לא נקרא</string>
+    <string name="discussion_posts_refine">סנן:</string>
+    <string name="discussion_posts_search_title">תוצאות חיפוש</string>
+    <string name="discussion_posts_sort_most_activity">הפעילות הרבה ביותר</string>
+    <string name="discussion_posts_sort_most_votes">מספר ההצבעות הרב ביותר</string>
+    <string name="discussion_posts_sort_recent_activity">פעילות אחרונה</string>
+    <string name="discussion_question">שאלה</string>
+    <string name="discussion_response_posted">התשובה שלכם נוספה.</string>
+    <string name="discussion_responses_answer">תשובה</string>
+    <string name="discussion_responses_endorsed">אומץ</string>
+    <string name="discussion_responses_report_label">דווחו</string>
+    <string name="discussion_responses_reported_label">בטלו דיווח</string>
+    <string name="discussion_subtitle">הצטרפו לשיחה</string>
+    <string name="discussion_title">דיון</string>
+    <string name="discussion_topics_title">נושאי דיון</string>
+    <string name="do_not_allow">אל תאפשר</string>
+    <string name="download_complete">כל קבצי הוידאו הורדו</string>
+    <string name="download_exceed_title">הורדה גדולה</string>
+    <string name="download_failed_text">הורדה נכשלה</string>
+    <string name="download_pending">הורדת הקובץ ממתינה...</string>
+    <string name="download_remaining">{remaining_videos_count} נותרו, {remaining_videos_size} סך הכל</string>
+    <string name="download_starting">מתחיל בהורדה...</string>
+    <string name="download_to_device">הורד למכשיר</string>
+    <string name="downloading_videos">מוריד קבצי וידאו...</string>
+    <string name="dropdown_list_prefix">רשימה נפתחת.</string>
+    <string name="due_date_past_future">תאריך הגשה {due_date}</string>
+    <string name="due_date_today">להגשה היום ב-{due_date}</string>
+    <string name="edit_user_profile_change_photo">שנה</string>
+    <string name="edit_user_profile_change_photo_description">שנה תמונת פרופיל</string>
+    <string name="edit_user_profile_choose_photo">בחרו תמונה</string>
+    <string name="edit_user_profile_current_language">שפה נוכחית: {current_language}</string>
+    <string name="edit_user_profile_current_location">מיקום נוכחי: {current_location}</string>
+    <string name="edit_user_profile_field">{label}: {value}</string>
+    <string name="edit_user_profile_field_placeholder">בחר</string>
+    <string name="edit_user_profile_photo_crop_cancel">בטל</string>
+    <string name="edit_user_profile_photo_crop_save">בחר</string>
+    <string name="edit_user_profile_photo_crop_title">חתוך ושנה גודל</string>
+    <string name="edit_user_profile_remove_photo">הסר תמונה</string>
+    <string name="edit_user_profile_take_photo">צלם תמונה</string>
+    <string name="edit_user_profile_textarea_submit_button">שלח</string>
+    <string name="edit_user_profile_title">ערוך פרופיל</string>
+    <string name="effort_field_name">מאמץ:</string>
+    <string name="email">כתובת דוא\"ל</string>
+    <string name="email_chooser_header">שלח דוא\"ל בעזרת...</string>
+    <string name="email_client_not_present">לא מותקנות תוכנות דואר אלקטרוני</string>
+    <string name="email_subject">משוב לקוח</string>
+    <string name="email_username">שם משתמש או כתובת דואר אלקטרוני</string>
+    <string name="end_user_title">הסכם רישיון למשתמש קצה </string>
+    <string name="enroll_now_button_text">הירשמו עכשיו</string>
+    <string name="enrollment_error_message">לא ניתן לרשום אתכם לקורס זה כעת באמצעות האפליקציה לנייד של {platform_name}. אנא נסו שוב דרך דפדפן הרשת שלכם.</string>
+    <string name="enrollment_error_title">שגיאה בהרשמה</string>
+    <string name="enrollment_failure">לא הצלחנו לרשום אותך לקורס זה כעת.</string>
+    <string name="error_account_not_linked_desc_fb">ודאו שחשבון הפייסבוק שלכם מקושר עם חשבון ה-{platform_name} שלכם ב-{platform_destination}</string>
+    <string name="error_account_not_linked_desc_google">ודאו שחשבון הגוגל שלכם מקושר עם חשבון ה-{platform_name} שלכם ב-{platform_destination}</string>
+    <string name="error_account_not_linked_title_fb">חשבון הפייסבוק אינו מקושר עם חשבון ה-{platform_name}</string>
+    <string name="error_account_not_linked_title_google">חשבון גוגל אינו מקושר עם חשבון ה-{platform_name}</string>
+    <string name="error_download_failed">ההורדה נכשלה</string>
+    <string name="error_enter_email">אנא הזן את שם המשתמש שלך או את כתובת הדוא\"ל שלך ונסה שוב.</string>
+    <string name="error_enter_field">אנא הכנס את %1$s שלך.</string>
+    <string name="error_enter_password">אנא הזן את הסיסמה שלך ונסה שוב.</string>
+    <string name="error_heading">השיגאה הבאה קרתה בזמן החיבור שלך</string>
+    <string name="error_invalid_email">אנא ודא שכתובת הדוא\"ל שלך רשומה כהלכה ונסה שוב.</string>
+    <string name="error_max_length">%1$s לא יכול להיות יותר מ-%2$d תווים.</string>
+    <string name="error_message">הודעת שגיאה</string>
+    <string name="error_min_length">%1$s חייב להיות באורך של לפחות %2$d תווים.</string>
+    <string name="error_unknown">שגיאה. נא לנסות שוב.</string>
+    <string name="exo_controls_fastforward_description">הרצה קדימה</string>
+    <string name="exo_controls_fullscreen_description">מצב מסך מלא</string>
+    <string name="exo_controls_next_description">הרצועה הבאה</string>
+    <string name="exo_controls_pause_description">השהיה</string>
+    <string name="exo_controls_play_description">הפעלה</string>
+    <string name="exo_controls_previous_description">הרצועה הקודמת</string>
+    <string name="exo_controls_repeat_all_description">חזור על הכול</string>
+    <string name="exo_controls_repeat_off_description">אל תחזור על אף פריט</string>
+    <string name="exo_controls_repeat_one_description">חזור על פריט אחד</string>
+    <string name="exo_controls_rewind_description">הרצה אחורה</string>
+    <string name="exo_controls_shuffle_description">ערבוב</string>
+    <string name="exo_controls_stop_description">הפסקה</string>
+    <string name="exo_download_completed">ההורדה הושלמה</string>
+    <string name="exo_download_description">הורדה</string>
+    <string name="exo_download_downloading">ההורדה מתבצעת</string>
+    <string name="exo_download_failed">ההורדה לא הושלמה</string>
+    <string name="exo_download_notification_channel_name">הורדות</string>
+    <string name="exo_download_removing">מסיר הורדות</string>
+    <string name="exo_item_list">%1$s‏, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f מגה סיביות לשנייה</string>
+    <string name="exo_track_mono">מונו</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">אוטומטי</string>
+    <string name="exo_track_selection_none">ללא</string>
+    <string name="exo_track_selection_title_audio">אודיו</string>
+    <string name="exo_track_selection_title_text">טקסט</string>
+    <string name="exo_track_selection_title_video">סרטון</string>
+    <string name="exo_track_stereo">סטריאו</string>
+    <string name="exo_track_surround">סראונד</string>
+    <string name="exo_track_surround_5_point_1">סראונד 5.1</string>
+    <string name="exo_track_surround_7_point_1">סראונד 7.1</string>
+    <string name="exo_track_unknown">לא ידוע</string>
+    <string name="facebook_text">פייסבוק</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"שונות"</string>
+    <string name="feedback_dialog_message">עזרו לנו להשתפר!</string>
+    <string name="feedback_dialog_title">לשלוח פידבק?</string>
+    <string name="file_size_exceeded">גודל הקובץ להורדה גדול מהנפח הפנוי במכשיר. </string>
+    <string name="find_course_btn_text">מצא קורס</string>
+    <string name="find_course_text">מחפש אתגרים חדשים?</string>
+    <string name="forgot_password">שכחת את סיסמתך?</string>
+    <string name="forum_follow">עקוב</string>
+    <string name="forum_no_results_for_all_posts">לא קיימים פוסטים בדיון בקורס זה.</string>
+    <string name="forum_no_results_for_filtered_following">תוצאות הסינון אינן כוללות שום פוסט שאתם עוקבים אחריו.</string>
+    <string name="forum_no_results_for_following">כעת אינכם עוקבים אחר שום פוסט</string>
+    <string name="forum_no_results_for_search_query">לא נמצאו תוצאות עבור “{search_query}”. נסו מונח חיפוש אחר או בחרו בקטגוריית דיון כדי לעיין בה.</string>
+    <string name="forum_no_results_in_category">אין שום פוסט בקטגוריית הדיון הזו.</string>
+    <string name="forum_no_results_with_filter">נסו להסיר את סינון הפוסטים שלכם.</string>
+    <string name="forum_post_i_am_following">פוסטים שאני עוקב\ת אחריהם</string>
+    <string name="forum_unfollow">הסר מעקב</string>
+    <string name="go_to_video">המשך לוידאו</string>
+    <string name="google_text">גוגל</string>
+    <string name="handouts_subtitle">מצאו מידע חשוב אודות הקורס</string>
+    <string name="handouts_title">מסמכים למסירה</string>
+    <string name="hide_optional_text">הסתר שדות אופציונלים</string>
+    <string name="insert_feedback">פידבק:</string>
+    <string name="introducing_cast_text">נא להכיר: Cast (שידור)</string>
+    <string name="invitation_only_button_text">הזמנה בלבד</string>
+    <string name="just_now">זה עתה</string>
+    <string name="label_cancel">בטל</string>
+    <string name="label_close">סגור</string>
+    <string name="label_continue">המשך</string>
+    <string name="label_current_downloads">צפו בהורדות המתבצעות כעת</string>
+    <string name="label_degrees">תארים</string>
+    <string name="label_delete">מחק</string>
+    <string name="label_discover">גלו</string>
+    <string name="label_discovery">גילוי</string>
+    <string name="label_done">בוצע</string>
+    <string name="label_download">הורד</string>
+    <string name="label_ended">סיום {date}</string>
+    <string name="label_ending">סיום {date}</string>
+    <string name="label_error">שגיאה</string>
+    <string name="label_expired">תוקף הכניסה לקורס פג {date}</string>
+    <string name="label_expired_on">תוקף הכניסה לקורס פג ב{date}</string>
+    <string name="label_expires">תוקף הגישה לקורס יפוג {date}</string>
+    <string name="label_expires_on">תוקף הגישה לקורס יפוג ב{date}</string>
+    <string name="label_find_courses">מצא קורסים</string>
+    <string name="label_maybe_later">אולי מאוחר יותר</string>
+    <string name="label_my_courses">קורסים</string>
+    <string name="label_my_programs">תכניות</string>
+    <string name="label_no">לא</string>
+    <string name="label_ok">OK</string>
+    <string name="label_rate_the_app">דרגו את האפליקציה</string>
+    <string name="label_send_feedback">שלחו פידבק</string>
+    <string name="label_settings">הגדרות</string>
+    <string name="label_starting">התחלה {date}</string>
+    <string name="label_submit">שלח\י</string>
+    <string name="label_submit_feedback">הגש משוב</string>
+    <string name="label_undo">בטל</string>
+    <string name="label_update">עדכן</string>
+    <string name="label_version">גרסת האפליקציה</string>
+    <string name="label_yes">כן</string>
+    <string name="last_accessed">ביקרתם לאחרונה</string>
+    <string name="lbl_cc_none">ללא</string>
+    <string name="lbl_closed_caption">כתוביות</string>
+    <string name="lbl_reload">טען מחדש</string>
+    <string name="lbl_showing_only_videos">הצג רק סרטונים</string>
+    <string name="lbl_slash">/</string>
+    <string name="lbl_video_speed">מהירות הסרטון</string>
+    <string name="lbl_view_on_web">צפה בגרסת ווב</string>
+    <string name="leaving_app_data_message">אם אתם עוזבים את האפליקציה, לא תוכלו יותר לצפות בתוכן חינמי של {platform_name}. חיובי גלישה עשויים לחול.</string>
+    <string name="leaving_app_data_title">עוזב את אפליקציית {platform_name}</string>
+    <string name="licensing_agreement">הסכם רישיון משתמש קצה ב-{platform_name}</string>
+    <string name="login">התחבר</string>
+    <string name="login_btn">כפתור כניסה</string>
+    <string name="login_error">שגיאת התחברות</string>
+    <string name="login_failed">אנא ודא את נכונות שם המשתמש או כתובת הדוא\"ל והסיסמה, ונסה שוב. </string>
+    <string name="login_title">היכנס</string>
+    <string name="logout">התנתקות</string>
+    <string name="media_route_menu_title">הפעלה ב...</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"‏לחצן הפעלת Cast"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"‏לחצן הפעלת Cast. מחובר"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"‏לחצן הפעלת Cast. מתחבר"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"‏לחצן הפעלת Cast. מנותק"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"מתבצע חיפוש מכשירים"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"העברה אל"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"עטיפת אלבום"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"העברת מסך מתבצעת"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"סגירה"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"כיווץ"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"ניתוק"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"הרחבה"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"אין מידע זמין"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"לא נבחרה מדיה"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"השהיה"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"הפעלה"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"הפסקה"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"עצירת העברה"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"מחוון עוצמה"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"מערכת"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"מכשירים"</string>
+    <string name="msg_started_one_video_download">מוריד סרטון 1</string>
+    <string name="msg_video_not_available">סרטון זה אינו זמין כעת. \n בדוק מאוחר יותר.</string>
+    <string name="msg_video_not_downloaded">לא ניתן להוריד סרטון</string>
+    <string name="need_data">מאפיין זה מצריך חיבור אינטרנט פעיל.</string>
+    <string name="network_connected_error">שגיאת התחברות. אנא בדקו את חיבור האינטרנט שלכם.</string>
+    <string name="network_error_header">בעיה בטעינת סרטון</string>
+    <string name="network_error_message">אנא בדוק את חיבור האינטרנט שלך.</string>
+    <string name="network_not_connected">אינך מחובר לאינטרנט</string>
+    <string name="network_not_connected_short">לא ניתן להתחבר לרשת</string>
+    <string name="network_service_unavailable">השירות אינו זמין. אנא נסו שוב מאוחר יותר.</string>
+    <string name="new_course_content">תוכן קורס חדש</string>
+    <string name="no_announcements_to_display">כעת, אין הודעות עבור קורס זה.</string>
+    <string name="no_chapter_text">לא קיים כעת תוכן בקורס זה.</string>
+    <string name="no_connectivity">שגיאת חיבור</string>
+    <string name="no_course_dates_to_display">תאריכי הקורס אינם זמינים כעת.</string>
+    <string name="no_courses_to_display">נראה שטרם נרשמתם בקורסים.</string>
+    <string name="no_handouts_to_display">כעת אין דפי מידע לקורס זה.</string>
+    <string name="no_videos_text">קורס זה אינו כולל קבצי וידאו.</string>
+    <string name="notification_toggle">אפשר הודעות</string>
+    <string name="offline_text">אין חיבור רשת</string>
+    <string name="open_external_url_desc">קישור זה יפתח בדפדפן הנייד שלך, יתכן שיחולו עלויות תקשורת.</string>
+    <string name="open_external_url_title">עלולות לחול עלויות תקשורת</string>
+    <string name="open_profile_button">פתח פרופיל</string>
+    <string name="or_register_with_email">או הירשמו באמצעות אימייל</string>
+    <string name="or_sign_in_with">או היכנס באמצעות</string>
+    <string name="password">סיסמה</string>
+    <string name="place_order_title">ביצוע הזמנה</string>
+    <string name="privacy_policy">מדיניות פרטיות</string>
+    <string name="profile_about_me_description">אודותי: {about_me}</string>
+    <string name="profile_consent_needed_edit_button">הגדרות חשבון</string>
+    <string name="profile_consent_needed_explanation">עליכם להיות בני 13 או יותר כדי לשתף פרופיל מלא.</string>
+    <string name="profile_incomplete_about_me">לא סיפקתם מידע \"אודותי\".</string>
+    <string name="profile_incomplete_edit_button">התחל</string>
+    <string name="profile_incomplete_explanation">נראה שהפרופיל שלכם טרם הושלם. בואו נתחיל.</string>
+    <string name="profile_language_description">שפה: {language}</string>
+    <string name="profile_location_description">מיקום: {location}</string>
+    <string name="profile_sharing_limited_by_other_user">אדם זה משתף כעת פרופיל מוגבל.</string>
+    <string name="profile_sharing_limited_by_you">כעת אתם משתפים פרופיל מוגבל.</string>
+    <string name="profile_tab_accomplishment">הישגים</string>
+    <string name="profile_tab_bio">אודות</string>
+    <string name="profile_title">פרופיל</string>
+    <string name="profile_toolbar_edit_button">ערוך</string>
+    <string name="profile_username_description">שם משתמש: {username}</string>
+    <string name="progress_text">אנא המתינ</string>
+    <string name="rate_app_dialog_message">כתבו ביקורת קצרה וספרו לאחרים מה אתם חושבים על האפליקציה של {platform_name}</string>
+    <string name="rate_app_dialog_title">דרגו את האפליקציה</string>
+    <string name="rating_bar">בקרת דירוג</string>
+    <string name="rating_bar_selection">{rating} מתוך {num_of_stars}</string>
+    <string name="rating_dialog_message">כיצד תדרגו את הפליקציה הזו?</string>
+    <string name="register_title">הרשמה</string>
+    <string name="register_with">הירשם באמצעות</string>
+    <string name="registration_error_message">עדכנו את השדות המודגשים ונסו שוב</string>
+    <string name="registration_error_title">שגיאת הרשמה</string>
+    <string name="remote_device_casting_message">הסרטון משודר אל התקן מרוחק</string>
+    <string name="reset_no_network_message">אינך מחובר לאינטרנט. אנא בדוק את חיבור האינטרנט שלך.</string>
+    <string name="reset_no_network_title">שגיאת חיבור</string>
+    <string name="resources_title">משאבים</string>
+    <string name="review_email_subject">ביקורת לקוחות</string>
+    <string name="search_for_courses">חפש קורסים</string>
+    <string name="search_for_degrees">חיפוש תארים</string>
+    <string name="search_for_programs">חיפוש תכניות</string>
+    <string msgid="730395136688082741" name="search_menu_title">"חיפוש"</string>
+    <string name="search_subjects">חפשו נושאר</string>
+    <string name="settings_download_to_sdcard_subtitle">סרטונים יורדו אל כרטיס SD, אם הוא זמין</string>
+    <string name="settings_download_to_sdcard_title">הורדת הסרטון אל כרטיס SD</string>
+    <string name="settings_txt">הגדרות</string>
+    <string name="settings_wifi_bottom">הורד תוכן רק כאשר Wi-Fi מחובר</string>
+    <string name="settings_wifi_top">הורדה רק בWi-Fi</string>
+    <string name="share_accomplishment_button">שתפו את ההישגים שלכם</string>
+    <string name="share_accomplishment_message">כעת הרווחתי תג ב-{platform_name}! תעיפו מבט: {badge_url}</string>
+    <string name="share_certificate_button">שתפו את התעודה שלכם</string>
+    <string name="share_certificate_message">הרגע הרווחתי תעודה ב-{platform_name}! תעיפו מבט: {certificate_url}</string>
+    <string name="share_course_button">שתפו את הקורסים שלכם</string>
+    <string name="share_course_message">אני לוקח\ת קורס ב{platform_name}! תעיפו מבט:</string>
+    <string name="show_optional_text">הצג שדות רשות</string>
+    <string name="sign_up_and_learn">הירשם והתחל ללמוד</string>
+    <string name="sign_up_with_facebook_ok">נכנסתם בהצלחה באמצעות פייסבוק</string>
+    <string name="sign_up_with_google_ok">נכנסתם בהצלחה באמצעות גוגל</string>
+    <string name="sign_up_with_social_ok">אנחנו רק צריכים עוד קצת מידע לפני שתתחילו ללמוד באמצעות {platform_name}.</string>
+    <string name="signing_in">נכנס</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="success_dialog_message_help">שלחנו הודעה עם הוראות איפוס הססמא לכתובת האימייל שלך.
+אם את\ה לא רואה את האימייל בדקות הקרובות, מומלץ לבדוק את תיקיית הספאם.</string>
+    <string name="success_dialog_title_help">נשלחה הודעת דוא\"ל לאיפוס סיסמה</string>
+    <string name="switch_off_no_downloading">הדלקת המתג תוריד את כל קבצי הוידאו בקורס זה.</string>
+    <string name="switch_on_all_downloaded">כיבוי המתג ימחק את כל קבצי הוידאו שכבר הורדו בקורס זה.</string>
+    <string name="switch_on_all_downloading">כיבוי המתג יבטל את הורדת כל קבצי הוידאו וימחק את כל הקבצים שכבר הורדו בקורס זה.</string>
+    <string name="tab_label_certificate">תעודת סיום</string>
+    <string name="tab_label_handouts">דפי מידע</string>
+    <string name="terms_of_service_title">תנאי השירות</string>
+    <string name="title_account">חשבון</string>
+    <string name="title_download">הורדות</string>
+    <string name="title_reset_password_failed">שגיאת איפוס סיסמה</string>
+    <string name="toggle_turn_off">כבוי</string>
+    <string name="toggle_turn_on">דולק</string>
+    <string name="topics_search">חפשו בכל הפוסטים</string>
+    <string name="tos_and_honor_code">תנאי השירות וקוד הכבוד ב-{platform_name}</string>
+    <string name="try_again">נסו שוב</string>
+    <string name="untitled_block">ללא כותרת</string>
+    <string name="upgrade_banner_description">הערכות מלאות תוך כדי תנועה לקראת תעודה!</string>
+    <string name="upgrade_to_verified_today_title">שדרגו למסלול \'מאומת\' היום</string>
+    <string name="video_only_on_web_label">קובץ הוידאו זמין כעת רק ברשת. הקליקו כדי לצפות ברשת.</string>
+    <string name="video_only_on_web_short">קובץ וידאו זה אינו זמין עדיין בסלולר.</string>
+    <string name="video_player">נגן הוידאו</string>
+    <string name="video_player_enter_fullscreen">היכנס למצב מסך מלא</string>
+    <string name="video_player_exit_fullscreen">צא ממצב מסך מלא</string>
+    <string name="video_player_next">הבא</string>
+    <string name="video_player_pause">עצור</string>
+    <string name="video_player_play">נגן</string>
+    <string name="video_player_previous">הקודם</string>
+    <string name="video_player_rewind">חזור 30 שניות אחורה</string>
+    <string name="video_player_settings">הגדרות</string>
+    <string name="video_player_view_on_web">צפו ברשת</string>
+    <string name="videos_subtitle">צפו בקבצי וידאו של הקורס</string>
+    <string name="videos_title">קבצי וידאו</string>
+    <string name="view_all_subjects">צפו בכל הנושאים</string>
+    <string name="view_button_text">צפה</string>
+    <string name="view_course_button_text">צפו בקורס</string>
+    <string name="view_downloads">הקישו פעמיים כדי לצפות בהורדות המתבצעות כעת.</string>
+    <string name="wifi_dialog_message_help">אפשר למכשירך להוריד סרטונים ברשת הסלולרית כאשר Wi-Fi אינו זמין. עלולות לחול עלויות תקשורת.  </string>
+    <string name="wifi_dialog_title_help">אפשר הורדה ברשת סלולרית</string>
+    <string name="wifi_off_message">הגדרות ההורדה הנוכחיות שלך מאפשרות הורדה רק באמצעות רשת Wi-Fi.  
+\n אנא התחבר לרשת Wi-Fi או שנה את הגדרות ההורדה שלך.</string>
+    <string name="you_are_now_enrolled">כעת אתם רשומים בקורס זה.</string>
+</resources>

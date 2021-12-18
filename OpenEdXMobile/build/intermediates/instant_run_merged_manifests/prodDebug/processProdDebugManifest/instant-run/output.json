@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"0.0.1","enabled":true,"outputFile":"edx-debug-0.0.1.apk","fullName":"prodDebug","baseName":"prod-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"org.edx.mobile","split":"","minSdkVersion":"21"}}]

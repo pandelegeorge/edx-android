@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="delete_video_snackbar_msg">
+    <item quantity="one">%s video silindi.</item>
+    <item quantity="other">%s video silindi.</item>
+  </plurals>
+    <plurals name="discussion_responses_action_bar_vote_text">
+    <item quantity="one">{quantity} oy</item>
+    <item quantity="other">{quantity} oy</item>
+  </plurals>
+    <plurals name="download_total">
+    <item quantity="one">{total_videos_count} Video, toplam {total_videos_size}</item>
+    <item quantity="other">{total_videos_count} Video, toplam {total_videos_size}</item>
+  </plurals>
+    <plurals name="number_responses_or_comments_comments_label">
+    <item quantity="one">%s yorum</item>
+    <item quantity="other">%s yorum</item>
+  </plurals>
+    <plurals name="number_responses_or_comments_responses_label">
+    <item quantity="one">%s yanıt</item>
+    <item quantity="other">%s yanıt</item>
+  </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Eve gidiş yolunu göster"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Bitti"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"KAPAT"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"AÇ"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"sil"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Üst Karakter+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"boşluk"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menü+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Ara…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Şununla paylaş:"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ile paylaş"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <string name="action_not_completed">Eyleminiz tamamlanamadı.</string>
+    <string name="allow">İzin ver</string>
+    <string name="already_have_an_account">Hesabın var mı? Giriş yap</string>
+    <string name="android">Android</string>
+    <string name="android_device_model">Cihaz Modeli:</string>
+    <string name="android_os_version">Android OS:</string>
+    <string name="announcement_subtitle">En güncel haberlerle takipte kalın</string>
+    <string name="announcement_title">Duyurular</string>
+    <string name="app_version">Uygulama Sürümü:</string>
+    <string name="app_version_outdated">Uygulamanın yeni bir sürümü mevcut.</string>
+    <string name="app_version_unsupported">Uygulamanızın sürümü artık desteklenmiyor.</string>
+    <string name="app_version_unsupported_login_msg">Uygulamanızın sürümü artık desteklenmiyor. Giriş yapmak için en son sürüme güncelleyin.</string>
+    <string name="app_version_unsupported_register_msg">Uygulamanızın sürümü artık desteklenmiyor. Kaydolmak için en son sürüme güncelleyin.</string>
+    <string name="app_version_upgrade_app_store_unavailable">Aygıtta desteklenen bir uygulama mağazası bulunamadı.</string>
+    <string name="assessment_empty">Bu bölümde hiç ders materyali yok.</string>
+    <string name="assessment_explore_on_web">Bu dersin diğer kısımlarını keşfedin ya da web sitesinden görüntüleyin.</string>
+    <string name="assessment_needed_updating_youtube">Bu videoyu izlemek için YouTube uygulamasını güncellemelisiniz.</string>
+    <string name="assessment_next">Sonraki</string>
+    <string name="assessment_not_available">Bu etkileşimli bileşen henüz mobilde mevcut değil.</string>
+    <string name="assessment_only_on_youtube">Bu video sadece Youtube\'da izlenebilir.</string>
+    <string name="assessment_open_on_youtube">Videoyu Youtube\'da izle</string>
+    <string name="assessment_previous">Önceki</string>
+    <string name="assessment_rotate_for_fullscreen">Tam ekran izlemek için cihazınızı döndürünüz.</string>
+    <string name="assessment_soon">Yakında</string>
+    <string name="assessment_unable_to_play_video">Oynatıcı Hatası</string>
+    <string name="assessment_unable_to_play_video_message">Bu video oynatılamıyor. YouTube uygulamasında görüntüleyebilir veya daha sonra tekrar deneyebilirsiniz.</string>
+    <string name="assessment_update_youtube">YouTube\'u Güncelle</string>
+    <string name="assessment_view_on_web">Web\'de gör</string>
+    <string name="audit_access_expires_details">{date} tarihinde ilerlemeniz dahil tüm ders erişiminizi kaybedeceksiniz.</string>
+    <string name="audit_access_expires_on">Gözetmen erişimi {date} tarihinde sona eriyor</string>
+    <string name="browse_by_subject">Konulara göre Tara</string>
+    <string name="bulk_download_switch">Yığın video indirme düğmesi.</string>
+    <string name="by_creating_account">Bir hesap oluşturarak, {license} ve {tos_and_honor_code} kurallarını ve {privacy_policy} doğrultusunda {platform_name} platformunun kişisel verilerinizi işleyeceğini kabul ediyorsunuz.</string>
+    <string name="by_signing_in">Bu uygulamaya giriş yaparak, {license} ve {tos_and_honor_code} kurallarını ve {privacy_policy} doğrultusunda {platform_name} platformunun kişisel verilerinizi işleyeceğini kabul ediyorsunuz.</string>
+    <string name="cancel_download">Yüklemeyi iptal et</string>
+    <string name="cannot_open_url">Web sayfası gösterilemiyor.</string>
+    <string name="cannot_show_dashboard">Panel gösterilemiyor.</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"Reklam"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"%1$s cihazına yayınlanıyor"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"Alt yazılar"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"Altyazılar kullanılamıyor"</string>
+    <string msgid="6769392312239056170" name="cast_connecting_to_device">"<ns1:g id="NAME">%1$s</ns1:g> cihazına bağlanılıyor"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"Bağlantıyı kes"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"Yayın alıcıda bir reklam oynatılırken gösterilen resim"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"Reklam işleniyor…"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"Albüm kapağı"</string>
+    <string msgid="8879956505757481681" name="cast_expanded_controller_live_head_description">"Geçerli konum canlı yayının başında"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"Canlı yayın"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"Yükleniyor…"</string>
+    <string msgid="8524154027649233400" name="cast_expanded_controller_skip_ad_label">"Reklamı Atla"</string>
+    <string msgid="1171005989073753111" name="cast_expanded_controller_skip_ad_text">"Reklamı %1$d içinde atlayabilirsiniz…"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"İleri sar"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"On saniye ileri sar"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"Otuz saniye ileri sar"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="2177473333963666559" name="cast_live_label">"CANLI"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"Sesi kapat"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"<ns1:g id="NAME">%1$s</ns1:g> bağlantısı yapıldı"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"<ns1:g id="NAME">%1$s</ns1:g> bağlantısı yapılıyor"</string>
+    <string msgid="2568179715202151240" name="cast_notification_default_channel_name">"Cast"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Bağlantıyı kes"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"Duraklat"</string>
+    <string msgid="5906987965619702702" name="cast_play">"Oynat"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"Geri sar"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"On saniye geri sar"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"30 saniye geri sar"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"Oynatma konumunu değiştirme kontrolü"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"Sonraki öğeye atla"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"Önceki öğeye atla"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"Durdur"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"Canlı yayını durdur"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"Ses"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"İptal"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"Altyazılar"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"Parça <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"Yok"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"Tamam"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Altyazılar"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"Sesi aç"</string>
+    <string name="close">Kapat</string>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">&lt;b>facebook.com/device&lt;/b> adresine git ve yukarıda gösterilen kodu gir.</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">Görüntü indirilirken beklenmedik bir hata oluştu.</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">WebView girişi için İNTERNET izni gerekiyor</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">AndroidManifest Hatası</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">Beğendin</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">Beğen</string>
+    <string gender="unknown" name="com_facebook_loading">Yükleniyor...</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">İptal</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">Giriş yap</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">Facebook ile Devam Et</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">Facebook ile Giriş Yap</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">Çıkış Yap</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">Çıkış Yap</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">%1$s olarak giriş yapıldı</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">Facebook ile giriş yapıldı</string>
+    <string gender="unknown" name="com_facebook_send_button_text">Gönder</string>
+    <string gender="unknown" name="com_facebook_share_button_text">Paylaş</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">Hesabını bağlamak için, mobil cihazında Facebook uygulamasını aç ve bildirimleri kontrol et.</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">- VEYA -</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">Siz değil misiniz?</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">%1$s olarak devam et</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">Girişi Onayla</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">Kontrol sende - uygulamalarla paylaşmak istediğin bilgileri seç.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Etkinleştir"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play hizmetlerini etkinleştirmezseniz <ns1:g id="APP_NAME">%1$s</ns1:g> çalışmaz."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play hizmetlerini etkinleştirin"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Yükle"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play hizmetlerini edinin"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play hizmetlerinin kullanılabilirliği"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play Hizmetleri hatası"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Güncelle"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Google Play hizmetlerini güncellemezseniz <ns1:g id="APP_NAME">%1$s</ns1:g> çalışmayacak."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play hizmetlerini güncelleyin"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Telefonda aç"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Oturum aç"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google\'da oturum aç"</string>
+    <string name="complete_registration">Kaydınızı tamamlayın</string>
+    <string name="confirm_dialog_message_help">Hesabınız için e-posta adresinizi girin, ardından size parolanızı sıfırlamak için yönergeler göndereceğiz.</string>
+    <string name="confirm_dialog_title_help">Parolayı Sıfırla</string>
+    <string name="course_access_expired">Bu derse erişiminiz sona ermiştir.</string>
+    <string name="course_content">Ders İçeriği</string>
+    <string name="course_dates_subtitle">Teslim tarihlerini takip edin ve güncel kalın</string>
+    <string name="course_dates_title">Önemli Tarihler</string>
+    <string name="course_details_congratulations">Tebrikler!</string>
+    <string name="course_details_earned_cert">Dersten geçtiniz.</string>
+    <string name="course_details_view_cert_button">Sertifikayı Gör</string>
+    <string name="course_discussion_answered_title">Yanıtlanmış Soru</string>
+    <string name="course_discussion_unanswered_title">Cevaplanmamış Soru</string>
+    <string name="course_error_content_invalid">Ders içeriği yükleme başarısız. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="course_name">Ders Adı</string>
+    <string name="course_not_started">Bu ders henüz başlamadı.</string>
+    <string name="courseware_subtitle">Videolara ve ödevlere eriş</string>
+    <string name="courseware_title">Ders</string>
+    <string name="create_account_btn">Hesabımı oluştur düğmesi</string>
+    <string name="create_account_text">Hesabımı oluştur</string>
+    <string name="creating_account_text">Hesap oluşturuluyor...</string>
+    <string name="default_notification_channel_title">Genel Bildirim</string>
+    <string name="delete_videos_title">Videoları Sil</string>
+    <string name="discussion_add_comment_button_description">Yorum ekle düğmesi</string>
+    <string name="discussion_add_comment_button_label">Yorum ekle</string>
+    <string name="discussion_add_comment_disabled_title">Bu yanıt için yorumlar kapatıldı</string>
+    <string name="discussion_add_comment_title">Bir yorum ekle</string>
+    <string name="discussion_add_post_button_description">Tartışma gönder düğmesi</string>
+    <string name="discussion_add_post_button_label">Tartışma gönder</string>
+    <string name="discussion_add_post_topic_selection">Konu:  {topic}</string>
+    <string name="discussion_add_question_button_description">Soru gönder düğmesi</string>
+    <string name="discussion_add_question_button_label">Soru gönder</string>
+    <string name="discussion_add_response_button_description">Yanıt düğmesi ekle</string>
+    <string name="discussion_add_response_button_label">Yanıt ekle</string>
+    <string name="discussion_add_response_disabled_title">Bu gönderi için yanıtlar kapatıldı</string>
+    <string name="discussion_add_response_title">Yanıt ekle</string>
+    <string name="discussion_comment_posted">Yorumunuz eklendi.</string>
+    <string name="discussion_comments">Yorumlar</string>
+    <string name="discussion_post_author_attribution">{author} tarafından</string>
+    <string name="discussion_post_author_label_attribution">({text})</string>
+    <string name="discussion_post_create_new_post">Yeni gönderi oluştur</string>
+    <string name="discussion_post_endorsed">En İyi Cevap Olarak Seçildi</string>
+    <string name="discussion_post_last_interaction_date">Son gönderi: {date}</string>
+    <string name="discussion_post_marked_as_answer">Çözüm olarak işaretlendi.</string>
+    <string name="discussion_post_title">Başlık</string>
+    <string name="discussion_post_total_replies">toplam {total_replies}</string>
+    <string name="discussion_post_visibility_cohort">Bu gönderi sadece {cohort} topluluğuna açık.</string>
+    <string name="discussion_post_visibility_everyone">Bu gönderi herkese açık.</string>
+    <string name="discussion_posts_filter_all_posts">Tüm Gönderiler</string>
+    <string name="discussion_posts_filter_unanswered_posts">Yanıtlanmamış</string>
+    <string name="discussion_posts_filter_unread_posts">Okunmamış</string>
+    <string name="discussion_posts_refine">Süzgeçten geçir:</string>
+    <string name="discussion_posts_search_title">Arama sonuçları</string>
+    <string name="discussion_posts_sort_most_activity">En Çok Aktivite</string>
+    <string name="discussion_posts_sort_most_votes">En Çok Oylanan</string>
+    <string name="discussion_posts_sort_recent_activity">Son Aktivite</string>
+    <string name="discussion_question">Soru</string>
+    <string name="discussion_response_posted">Yanıtınız eklendi.</string>
+    <string name="discussion_responses_answer">Yanıt</string>
+    <string name="discussion_responses_endorsed">En İyi Cevap Olarak Seçildi</string>
+    <string name="discussion_responses_report_label">Bildir</string>
+    <string name="discussion_responses_reported_label">Bildirimi geri al</string>
+    <string name="discussion_subtitle">Sohbete katıl</string>
+    <string name="discussion_title">Tartışma</string>
+    <string name="discussion_topics_title">Tartışma konuları</string>
+    <string name="do_not_allow">İzin verme</string>
+    <string name="download_complete">Tüm Videolar İndirildi</string>
+    <string name="download_exceed_message">Seçtiğiniz videolar 1 GB\'dan büyük.
+       Bu videoları indirmek istiyor musunuz?</string>
+    <string name="download_exceed_title">Büyük İndirme</string>
+    <string name="download_failed_text">İndirme Başarısız</string>
+    <string name="download_pending">İndirme bekleniyor...</string>
+    <string name="download_remaining">Kalan {remaining_videos_count} video, toplam {remaining_videos_size}</string>
+    <string name="download_starting">İndirilme Başlıyor...</string>
+    <string name="download_to_device">Cihaza İndir</string>
+    <string name="downloading_videos">Videolar İndiriliyor...</string>
+    <string name="dropdown_list_prefix">Açılır liste.</string>
+    <string name="due_date_past_future">{due_date} tarihine dek</string>
+    <string name="due_date_today">Bugün {due_date} tarihine dek</string>
+    <string name="edit_user_profile_change_photo">Değiştir</string>
+    <string name="edit_user_profile_change_photo_description">Profil resmini değiştir</string>
+    <string name="edit_user_profile_choose_photo">Fotoğraf seç</string>
+    <string name="edit_user_profile_current_language">Şu anki dil: {current_language}</string>
+    <string name="edit_user_profile_current_location">Şu anki konum: {current_location}</string>
+    <string name="edit_user_profile_field">{label}: {value}</string>
+    <string name="edit_user_profile_field_placeholder">Seç</string>
+    <string name="edit_user_profile_photo_crop_cancel">İptal</string>
+    <string name="edit_user_profile_photo_crop_save">Seç</string>
+    <string name="edit_user_profile_photo_crop_title">Kes ve yeniden boyutlandır</string>
+    <string name="edit_user_profile_remove_photo">Fotoğrafı kaldır</string>
+    <string name="edit_user_profile_take_photo">Fotoğraf çek</string>
+    <string name="edit_user_profile_textarea_submit_button">Gönder</string>
+    <string name="edit_user_profile_title">Profili güncelle</string>
+    <string name="effort_field_name">Çaba:</string>
+    <string name="email">E-posta adresi</string>
+    <string name="email_chooser_header">E-postayı şununla gönder...</string>
+    <string name="email_client_not_present">Hiçbir e-posta uygulaması yüklü değil</string>
+    <string name="email_subject">Müşteri Geribildirimi</string>
+    <string name="email_username">Kullanıcı adı veya e-posta adresi</string>
+    <string name="end_user_title">Son Kullanıcı Lisans Sözleşmesi</string>
+    <string name="enroll_now_button_text">Şimdi kayıt yaptır</string>
+    <string name="enrollment_error_message">{platform_name} mobil uygulamasını kullanarak bu derse kaydınızı gerçekleştiremedik. Lütfen web tarayıcınızda tekrar deneyin.</string>
+    <string name="enrollment_error_title">Kayıtlanma Hatası</string>
+    <string name="enrollment_failure">Şu an için bu derse sizi kaydedemedik.</string>
+    <string name="error_account_not_linked_desc_fb">Facebook hesabınızın {platform_destination} üzerindeki {platform_name} hesabınızla ilişkili olduğundan emin olun.</string>
+    <string name="error_account_not_linked_desc_fb_2">Bu Facebook hesabı herhangi bir {platform_name} hesabıyla bağlantılı değil. Lütfen kaydolun.</string>
+    <string name="error_account_not_linked_desc_google">Google hesabınızın {platform_destination} üzerinde {platform_name} hesabınızla ilişkilendirilmiş olduğundan emin olun</string>
+    <string name="error_account_not_linked_desc_google_2">Bu Google hesabı herhangi bir {platform_name} hesabıyla bağlantılı değil. Lütfen kaydolun.</string>
+    <string name="error_account_not_linked_desc_microsoft">Microsoft hesabınızın {platform_destination} üzerindeki {platform_name} hesabınızla ilişkili olduğundan emin olun</string>
+    <string name="error_account_not_linked_desc_microsoft_2">Bu Microsoft hesabı herhangi bir {platform_name} hesabıyla bağlantılı değil. Lütfen kaydolun.</string>
+    <string name="error_account_not_linked_title_fb">Facebook hesabı {platform_name} hesabı ile ilişkilendirilmemiş</string>
+    <string name="error_account_not_linked_title_google">Google hesabı {platform_name} hesabı ile ilişkili değil</string>
+    <string name="error_account_not_linked_title_microsoft">Microsoft hesabı {platform_name} hesabı ile ilişkilendirilmemiş.</string>
+    <string name="error_download_failed">İndirme başarısız</string>
+    <string name="error_enter_email">Lütfen kullanıcı adınızı veya e-posta adresinizi girin ve tekrar deneyin.</string>
+    <string name="error_enter_field">Lütfen %1$s giriniz.</string>
+    <string name="error_enter_password">Lütfen parolanızı girin ve tekrar deneyin.</string>
+    <string name="error_heading">Siz oturum açarken alttaki hata oluştu</string>
+    <string name="error_invalid_email">Lütfen e-posta adresinizi doğru yazdığınızdan emin olun ve tekrar deneyin.</string>
+    <string name="error_max_length">%1$s  %2$d karakterden fazla olamaz.</string>
+    <string name="error_message">Hata Mesajı</string>
+    <string name="error_min_length">%1$s\'ın en az %2$d karakter olması gerekiyor.</string>
+    <string name="error_select_or_enter_field">Lütfen geçerli bir %1$sseçin veya girin.</string>
+    <string name="error_unknown">Bilinmeyen hata. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="exo_controls_fastforward_description">İleri sar</string>
+    <string name="exo_controls_fullscreen_description">Tam ekran modu</string>
+    <string name="exo_controls_next_description">Sonraki parça</string>
+    <string name="exo_controls_pause_description">Duraklat</string>
+    <string name="exo_controls_play_description">Çal</string>
+    <string name="exo_controls_previous_description">Önceki parça</string>
+    <string name="exo_controls_repeat_all_description">Tümünü tekrarla</string>
+    <string name="exo_controls_repeat_off_description">Hiçbirini tekrarlama</string>
+    <string name="exo_controls_repeat_one_description">Birini tekrarla</string>
+    <string name="exo_controls_rewind_description">Geri sar</string>
+    <string name="exo_controls_shuffle_description">Karıştır</string>
+    <string name="exo_controls_stop_description">Durdur</string>
+    <string name="exo_download_completed">İndirme işlemi tamamlandı</string>
+    <string name="exo_download_description">İndir</string>
+    <string name="exo_download_downloading">İndiriliyor</string>
+    <string name="exo_download_failed">İndirilemedi</string>
+    <string name="exo_download_notification_channel_name">İndirilenler</string>
+    <string name="exo_download_removing">İndirilenler kaldırılıyor</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">Otomatik</string>
+    <string name="exo_track_selection_none">Yok</string>
+    <string name="exo_track_selection_title_audio">Ses</string>
+    <string name="exo_track_selection_title_text">Metin</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Surround ses</string>
+    <string name="exo_track_surround_5_point_1">5.1 surround ses</string>
+    <string name="exo_track_surround_7_point_1">7.1 surround ses</string>
+    <string name="exo_track_unknown">Bilinmiyor</string>
+    <string name="facebook_text">Facebook</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Çeşitli"</string>
+    <string name="feedback_dialog_message">Geliştirmemize yardım et!</string>
+    <string name="feedback_dialog_title">Geri Bildirim Gönder?</string>
+    <string name="file_size_exceeded">İndirme boyutu cihazda kalan depolama alanını aşıyor.</string>
+    <string name="find_course_btn_text">Bir Ders Bul</string>
+    <string name="find_course_text">Yeni bir maceraya hazır mısın?</string>
+    <string name="forgot_password">Parolanızı mı unuttunuz?</string>
+    <string name="forum_follow">Takip et</string>
+    <string name="forum_no_results_for_all_posts">Bu ders tartışmasında herhangi bir gönderi yok.</string>
+    <string name="forum_no_results_for_filtered_following">Filtrelenmiş sonuçlar arasında takip ettiğiniz gönderiler yok.</string>
+    <string name="forum_no_results_for_following">Herhangi bir gönderiyi takibe almadınız.</string>
+    <string name="forum_no_results_for_search_query">“{search_query}” için hiç sonuç bulunamadı. Başka bir arama yapmayı ya da tartışma kategorisi seçmeyi deneyin.</string>
+    <string name="forum_no_results_in_category">Bu tartışma kategorisinde herhangi bir gönderi yok.</string>
+    <string name="forum_no_results_with_filter">Gönderi filtresini kaldırmayı deneyin.</string>
+    <string name="forum_post_i_am_following">Takibe Aldığım Gönderiler</string>
+    <string name="forum_unfollow">Takipten çık</string>
+    <string name="go_to_video">Videoya git</string>
+    <string name="google_text">Google</string>
+    <string name="handouts_subtitle">Önemli ders bilgilerini bul</string>
+    <string name="handouts_title">Dinleyici Notları</string>
+    <string name="hide_optional_text">Seçimlik alanları gizle</string>
+    <string name="insert_feedback">Geribildirim:</string>
+    <string name="introducing_cast_text">Cast\'i Sunuyoruz</string>
+    <string name="invitation_only_button_text">Davet gerekiyor</string>
+    <string name="just_now">Az önce</string>
+    <string name="label_cancel">İptal</string>
+    <string name="label_close">Kapat</string>
+    <string name="label_continue">Devam</string>
+    <string name="label_current_downloads">Şu anki indirmeleri görüntüle</string>
+    <string name="label_degrees">Diplomalar</string>
+    <string name="label_delete">Sil</string>
+    <string name="label_discover">Keşfet</string>
+    <string name="label_discovery">Keşfet</string>
+    <string name="label_done">Tamam</string>
+    <string name="label_download">İndir</string>
+    <string name="label_ended">Bitti {date}</string>
+    <string name="label_ending">Bitiyor {date}</string>
+    <string name="label_error">Hata</string>
+    <string name="label_expired">Derse erişim {date} tarihinde sona erdi</string>
+    <string name="label_expired_on">Derse erişim {date} tarihinde sona erdi</string>
+    <string name="label_expires">Derse erişim {date} tarihinde sona eriyor</string>
+    <string name="label_expires_on">Derse erişim {date} tarihinde sona eriyor</string>
+    <string name="label_find_courses">Dersleri Bul</string>
+    <string name="label_maybe_later">Belki Daha Sonra</string>
+    <string name="label_my_courses">Derslerim</string>
+    <string name="label_my_programs">Programlar</string>
+    <string name="label_no">Hayır</string>
+    <string name="label_ok">TAMAM</string>
+    <string name="label_rate_the_app">Uygulamayı Oyla</string>
+    <string name="label_send_feedback">Geri Bildirim Gönder</string>
+    <string name="label_settings">Ayarlar</string>
+    <string name="label_starting">Başlangıç {date}</string>
+    <string name="label_submit">Gönder</string>
+    <string name="label_submit_feedback">Geribildirim Gönder</string>
+    <string name="label_undo">Geri Al</string>
+    <string name="label_update">Güncelleştir</string>
+    <string name="label_version">Uygulama sürümü</string>
+    <string name="label_yes">Evet</string>
+    <string name="last_accessed">Son Erişim</string>
+    <string name="launch_login">Oturum aç</string>
+    <string name="launch_register">Kayıt ol</string>
+    <string name="launch_search_courses">Kurs ara</string>
+    <string name="launch_search_courses_program">Kurs ve Program ara</string>
+    <string name="launch_search_title">Ne öğrenmek istiyorsun?</string>
+    <string name="launch_text">Dünya\'nın en iyi üniversitelerinden kurslar cebinizde.</string>
+    <string name="launch_text_courses_and_program">Dünya\'nın en iyi üniversitelerinden kurslar ve programlar cebinizde.</string>
+    <string name="lbl_cc_none">Hiçbiri</string>
+    <string name="lbl_closed_caption">Altyazılar</string>
+    <string name="lbl_reload">Tekrar Yükle</string>
+    <string name="lbl_showing_only_videos">Sadece videolar gösteriliyor</string>
+    <string name="lbl_slash">/</string>
+    <string name="lbl_video_speed">Video Hızı</string>
+    <string name="lbl_view_on_web">WEB\'DE GÖSTER</string>
+    <string name="leaving_app_data_message">Uygulamayı terkederseniz, {platform_name} platformunun ücretsiz içeriklerini artık göremezsiniz. Veri trafiği ücretlendirilebilir.</string>
+    <string name="leaving_app_data_title">{platform_name} uygulamasından çıkıyorsunuz</string>
+    <string name="licensing_agreement">{platform_name} Son Kullanıcı Lisans Anlaşması</string>
+    <string name="locked_content_details">Notlandırılan ödevler sadece Doğrulanmış Kayıtlanma Öğrencileri\'ne açıktır. Özelliği açmak için yükseltin.</string>
+    <string name="locked_content_header">Kimliği doğrulanmış öğrencilere açık!</string>
+    <string name="login">Giriş</string>
+    <string name="login_btn">Giriş düğmesi</string>
+    <string name="login_error">Giriş Hatası</string>
+    <string name="login_failed">Lütfen kullanıcı adı ya da e-posta adresi ile parolanızın doğru olduğundan emin olup tekrar deneyin.</string>
+    <string name="login_title">Giriş</string>
+    <string name="logout">Çıkış</string>
+    <string name="media_route_menu_title">Oynat…</string>
+    <string name="microsoft_text" ns2:ignore="MissingTranslation">Microsoft</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"Yayınla düğmesi"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"Yayınla düğmesi. Bağlandı"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"Yayınla düğmesi. Bağlanıyor"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"Yayınla düğmesi. Bağlantı kesildi"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"Cihazlar bulunuyor"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"Yayınlanacak yer:"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"Albüm kapağı"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"Ekran yayınlanıyor"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"Kapat"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"Daralt"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"Bağlantıyı kes"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"Genişlet"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"Bilgi yok"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"Medya seçilmedi"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"Duraklat"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"Oynat"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"Durdur"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"Yayını durdur"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"Ses düzeyi kaydırma çubuğu"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"Sistem"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"Cihazlar"</string>
+    <string name="msg_started_one_video_download">1 video yükleniyor</string>
+    <string name="msg_video_not_available">Bu videoya şu an ulaşılamıyor.\n Daha sonra tekrar deneyiniz.</string>
+    <string name="msg_video_not_downloaded">Video indirilemedi</string>
+    <string name="need_data">Bu özellik aktif bir internet bağlantısı gerektiriyor.</string>
+    <string name="network_connected_error">Bağlantı hatası. Lütfen internet bağlantınızı kontrol edin.</string>
+    <string name="network_error_header">Video yükleme sorunu.</string>
+    <string name="network_error_message">Lütfen internet bağlantınızı kontrol edin.</string>
+    <string name="network_not_connected">İnternet bağlantınız kurulamadı.</string>
+    <string name="network_not_connected_short">Ağ erişimi yok</string>
+    <string name="network_service_unavailable">Hizmet kullanılamıyor. Lütfen daha sonra tekrar deneyiniz.</string>
+    <string name="new_course_content">Yeni Ders İçeriği</string>
+    <string name="no_announcements_to_display">Bu ders için herhangi bir duyuru yok.</string>
+    <string name="no_chapter_text">Şu anda ders içeriği mevcut değil.</string>
+    <string name="no_connectivity">Bağlantı Hatası</string>
+    <string name="no_course_dates_to_display">Ders tarihleri şu an mevcut değil.</string>
+    <string name="no_courses_to_display">Henüz herhangi bir derse kayıt yaptırmamış gözüküyorsunuz.</string>
+    <string name="no_handouts_to_display">Bu ders için herhangi bir dinleyici notu yok.</string>
+    <string name="no_videos_text">Bu ders herhangi bir video içermiyor.</string>
+    <string name="not_available_on_mobile">Mobil sürümde mevcut değil</string>
+    <string name="notification_toggle">Bildirimlere İzin Ver</string>
+    <string name="offline_text">Çevrimdışı</string>
+    <string name="open_external_url_desc">Bu bağlantı mobil tarayıcınız üzerinden açılacak, ek veri ücretleri söz konusu olabilir.</string>
+    <string name="open_external_url_title">Veri ücretleri uygulanabilir</string>
+    <string name="open_profile_button">Profilinizi açın</string>
+    <string name="or_register_with_email">ya da e-posta ile kayıt ol</string>
+    <string name="or_sign_in_with">Ya da şununla giriş yap </string>
+    <string name="password">Parola</string>
+    <string name="payments_info_details">Doğrulanmış bir sertifika ile yeni bilgi ve becerilerinizi vurgulayın. \n\nİş fırsatlarınızı geliştirmek ve kariyerinizi geliştirmek için bu değerli sertifikayı kullanın veya okul başvurularınızda sertifikanızı vurgulayın.</string>
+    <string name="payments_info_header">Onaylanmış Bir Sertifika Edinin!</string>
+    <string name="permission_not_granted">İzin sağlanmadı</string>
+    <string name="place_order_title">Sipariş Ver</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="profile_about_me_description">Hakkımda: {about_me}</string>
+    <string name="profile_consent_needed_edit_button">Profili Düzenle</string>
+    <string name="profile_consent_needed_explanation">Tüm profilinizi paylaşmak için 13 yaşın üstünde olmalısınız.</string>
+    <string name="profile_incomplete_about_me">\"Hakkımda\" bilgisi sağlanmamış.</string>
+    <string name="profile_incomplete_edit_button">Başla</string>
+    <string name="profile_incomplete_explanation">Profiliniz henüz tamamlanmadı gibi görünüyor. Haydi, doldurmaya başlayalım.</string>
+    <string name="profile_language_description">Dil: {language}</string>
+    <string name="profile_location_description">Konum: {location}</string>
+    <string name="profile_sharing_limited_by_other_user">Bu kullanıcı şu an kısıtlı profil paylaşıyor</string>
+    <string name="profile_sharing_limited_by_you">Şu an kısıtlı profil paylaşıyorsunuz</string>
+    <string name="profile_tab_accomplishment">Başarılar</string>
+    <string name="profile_tab_bio">Hakkımda</string>
+    <string name="profile_title">Profil</string>
+    <string name="profile_toolbar_edit_button">Düzenle</string>
+    <string name="profile_username_description">Kullanıcı adı: {username}</string>
+    <string name="progress_text">Lütfen bekleyin</string>
+    <string name="rate_app_dialog_message">{platform_name} hakkında ne düşündüğünü küçük bir inceleme yazarak anlat</string>
+    <string name="rate_app_dialog_title">Uygulamayı derecelendir</string>
+    <string name="rating_bar">Derecelendirme çubuğu</string>
+    <string name="rating_bar_selection">{num_of_stars} üzerinden {rating}</string>
+    <string name="rating_dialog_message">Bu uygulamayı nasıl derecelendirirsiniz?</string>
+    <string name="register_title">Kayıt ol</string>
+    <string name="register_with">Şununla kaydol </string>
+    <string name="registration_error_message">Vurgulu alanları güncelle ve tekrar dene.</string>
+    <string name="registration_error_title">Kayıt Hatası</string>
+    <string name="remote_device_casting_message">Video uzaktaki aygıta yayınlanıyor</string>
+    <string name="reset_no_network_message">İnternete bağlı değilsiniz. Lütfen internet bağlantınızı kontrol edin.</string>
+    <string name="reset_no_network_title">Bağlantı Hatası</string>
+    <string name="resources_title">Kaynaklar</string>
+    <string name="review_email_subject">Müşteri İncelemeleri</string>
+    <string name="search_for_courses">Dersleri ara</string>
+    <string name="search_for_degrees">Diplomaları ara</string>
+    <string name="search_for_programs">Programları ara</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Ara"</string>
+    <string name="search_subjects">Konu Ara</string>
+    <string name="settings_download_to_sdcard_subtitle">Eğer mevcutsa videolar SD Kart\'a indirilecek</string>
+    <string name="settings_download_to_sdcard_title">Videoyu SD Kart\'a İndir</string>
+    <string name="settings_txt">Ayarlar</string>
+    <string name="settings_wifi_bottom">Sadece Wi-Fi açıkken içerik indir</string>
+    <string name="settings_wifi_top">Sadece Wi-Fi ile indir</string>
+    <string name="share_accomplishment_button">Başarılarını paylaş</string>
+    <string name="share_accomplishment_message">{platform_name} platformunda bir madalya kazandım! İncele: {badge_url} </string>
+    <string name="share_certificate_button">Sertifikanı paylaş</string>
+    <string name="share_certificate_message">{platform_name} platformunda yeni bir sertifika kazandım! Buradan görebilirsin: {certificate_url}</string>
+    <string name="share_course_button">Dersinizi paylaşın</string>
+    <string name="share_course_message">{platform_name} üzerinde ders alıyorum! Buna bir bak:</string>
+    <string name="show_optional_text">Seçimlik alanları göster</string>
+    <string name="sign_up_and_learn">Üye ol ve öğrenmeye başla</string>
+    <string name="sign_up_with_facebook_ok">Facebook ile başarıyla giriş yaptınız.</string>
+    <string name="sign_up_with_google_ok">Google ile başarıyla giriş yaptınız.</string>
+    <string name="sign_up_with_microsoft_ok" ns2:ignore="MissingTranslation">Microsoft hesabı ile giriş yaptınız.</string>
+    <string name="sign_up_with_social_ok">{platform_name} ile öğrenmeye başlamadan önce birazcık daha bilgiye ihtiyacımız var.</string>
+    <string name="signing_in">Giriş yapılıyor</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="success_dialog_message_help">E-posta adresinize parolanızı sıfırlamanız için bir ileti gönderdik.
+        Birkaç dakika içinde göremezseniz, lütfen spam klasörünüze bakın.</string>
+    <string name="success_dialog_title_help">Parola sıfırlama e-postası gönderildi</string>
+    <string name="switch_off_no_downloading">Düğmeyi açmak, bu dersin tüm videolarını indirir.</string>
+    <string name="switch_on_all_downloaded">Düğmeyi kapatmak, bu dersin indirilmiş tüm videolarını siler.</string>
+    <string name="switch_on_all_downloading">Düğmeyi kapatmak, tüm video indirmelerini iptal eder ve bu dersin indirilmiş tüm videolarını siler.</string>
+    <string name="tab_label_certificate">Sertifika</string>
+    <string name="tab_label_handouts">Dinleyici Notları</string>
+    <string name="terms_of_service_title">Hizmet Şartları</string>
+    <string name="title_account">Hesap</string>
+    <string name="title_download">İndirmeler</string>
+    <string name="title_reset_password_failed">Parola Sıfırlama Hatası</string>
+    <string name="toggle_turn_off">Kapalı</string>
+    <string name="toggle_turn_on">Açık</string>
+    <string name="topics_search">Tüm gönderilerde ara</string>
+    <string name="tos_and_honor_code">{platform_name} Hizmet Şartları ve Etik Şartlar</string>
+    <string name="try_again">Tekrar dene</string>
+    <string name="untitled_block">Başlıksız</string>
+    <string name="upgrade_banner_description">Bir sertifika için giderken değerlendirmeleri tamamlayın!</string>
+    <string name="upgrade_deadline_details">{date} tarihine dek üyeliğinizi yükselterek bu eğitime yayında kaldığı sürece sınırsız erişime kavuşun.</string>
+    <string name="upgrade_to_verified_today_title">Bugün Onaylı\'ya Yükseltin</string>
+    <string name="video_only_on_web_label">Bu video yalnızca web\'te çalışır. Web\'te görüntülemek için tıklayınız.</string>
+    <string name="video_only_on_web_short">Bu video henüz mobilde ulaşılabilir değil.</string>
+    <string name="video_player">Video Oynatıcı</string>
+    <string name="video_player_enter_fullscreen">Tam ekran moda gir</string>
+    <string name="video_player_exit_fullscreen">Tam ekran moddan çık</string>
+    <string name="video_player_forward_button">15 saniye ileri sar</string>
+    <string name="video_player_forward_time_sec">+15</string>
+    <string name="video_player_next">Sonraki</string>
+    <string name="video_player_pause">Ara ver</string>
+    <string name="video_player_play">Oynat</string>
+    <string name="video_player_previous">Önceki</string>
+    <string name="video_player_rewind">30 saniye geri sar</string>
+    <string name="video_player_rewind_button">10 saniye geri sar</string>
+    <string name="video_player_rewind_time_sec">-10</string>
+    <string name="video_player_settings">Ayarlar</string>
+    <string name="video_player_view_on_web">Web\'te görüntüle</string>
+    <string name="videos_subtitle">Ders videolarını izle</string>
+    <string name="videos_title">Videolar</string>
+    <string name="view_all_subjects">Tüm Konulara Göz At</string>
+    <string name="view_button_text">Gör</string>
+    <string name="view_course_button_text">Dersi gör</string>
+    <string name="view_downloads">Mevcut indirmeleri görüntülemek için çift tıklayın.</string>
+    <string name="wifi_dialog_message_help">Wi-Fi açık olmadığında mobil ağ üzerinden videoları indirmeye izin ver. Veri ücretleri uygulanabilir.</string>
+    <string name="wifi_dialog_title_help">Mobil veri üzerinden indirmeye izin ver</string>
+    <string name="wifi_off_message">Mevcut indirme ayarlarınız sadece kablosuz ağ üzerinden indirmenize izin veriyor. 
+        \n Lütfen bir kablosuz ağa bağlanın ya da indirme ayarlarınızı değiştirin.</string>
+    <string name="you_are_already_enrolled" ns2:ignore="MissingTranslation">Bu derse zaten kayıtlısınız.</string>
+    <string name="you_are_now_enrolled">Bu derse kayıt yaptırdınız.</string>
+</resources>

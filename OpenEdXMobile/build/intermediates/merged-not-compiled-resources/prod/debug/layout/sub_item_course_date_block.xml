@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                   
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="@dimen/widget_margin_half"
+        android:paddingBottom="@dimen/widget_margin_half" android:tag="layout/sub_item_course_date_block_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+        <TextView
+            android:id="@+id/title"
+            android:fontFamily="?attr/fontSemiBold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingMultiplier="@dimen/course_date_title_line_spacing"
+            android:textColor="@color/switch_text_color"
+            android:textSize="@dimen/edx_base"
+            android:visibility="gone"
+            tools:text="Course Start"
+            tools:visibility="visible" />
+
+        <TextView
+            android:id="@+id/description"
+            android:fontFamily="?attr/fontSemiBold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/switch_text_color"
+            android:textSize="@dimen/edx_small"
+            android:lineSpacingMultiplier="@dimen/course_date_desc_line_spacing"
+            android:visibility="gone"
+            tools:text="After this date, course content will be archived"
+            tools:visibility="visible" />
+
+    </LinearLayout>
+         

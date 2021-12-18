@@ -1,0 +1,1526 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:33:5-388:19
+MERGED from [com.google.firebase:firebase-inappmessaging-display:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\63e8d2de973d50d854b095d4e87baf2a\AndroidManifest.xml:14:5-20:19
+MERGED from [com.google.firebase:firebase-inappmessaging-display:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\63e8d2de973d50d854b095d4e87baf2a\AndroidManifest.xml:14:5-20:19
+MERGED from [com.google.android.gms:play-services-cast-framework:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e12f97bb6bc521d9ee4f2caf7bf35600\AndroidManifest.xml:9:5-20:19
+MERGED from [com.google.android.gms:play-services-cast-framework:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e12f97bb6bc521d9ee4f2caf7bf35600\AndroidManifest.xml:9:5-20:19
+MERGED from [com.google.android.gms:play-services-cast:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\77a6b4bcfe2a105fee093bb3e0594270\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\77a6b4bcfe2a105fee093bb3e0594270\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:facebook-login:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\16584151d2804f9ac2ed5d26591b83e6\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\16584151d2804f9ac2ed5d26591b83e6\AndroidManifest.xml:28:5-29:19
+MERGED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:13:5-32:19
+MERGED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:13:5-32:19
+MERGED from [com.google.android.material:material:1.3.0-alpha01] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d268c1cb4453fffe13af6f826f1e5d22\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-alpha01] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d268c1cb4453fffe13af6f826f1e5d22\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:facebook-common:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\351ea837486bf9b933cfb745968d0411\AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\351ea837486bf9b933cfb745968d0411\AndroidManifest.xml:28:5-35:19
+MERGED from [com.microsoft.identity:common:0.0.10-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3dea097807e3dd07cb57a182ea199a23\AndroidManifest.xml:14:5-18:19
+MERGED from [com.microsoft.identity:common:0.0.10-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3dea097807e3dd07cb57a182ea199a23\AndroidManifest.xml:14:5-18:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\23484253c6564b3e647f401eac61df1b\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\23484253c6564b3e647f401eac61df1b\AndroidManifest.xml:10:5-14:19
+MERGED from [com.google.firebase:firebase-messaging:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a08d3cc11126e29941698d05fac54c9d\AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a08d3cc11126e29941698d05fac54c9d\AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-crashlytics:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\934bc7858dac448b1bc98c86b1c0262f\AndroidManifest.xml:12:5-20:19
+MERGED from [com.google.firebase:firebase-crashlytics:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\934bc7858dac448b1bc98c86b1c0262f\AndroidManifest.xml:12:5-20:19
+MERGED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:27:5-39:19
+MERGED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:27:5-39:19
+MERGED from [com.google.firebase:firebase-inappmessaging:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d827c8b2ab29c4cd14d0df262984a05f\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-inappmessaging:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d827c8b2ab29c4cd14d0df262984a05f\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90ae9a08c27a2d3188097657eb63ffdc\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90ae9a08c27a2d3188097657eb63ffdc\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-config:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f93227a9f2bea1889d5aa92f41d52720\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-config:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f93227a9f2bea1889d5aa92f41d52720\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\2afc08af101ca97303ef4fee0a56721f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\2afc08af101ca97303ef4fee0a56721f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\abcae63db230c84d05ed829ce295c17c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\abcae63db230c84d05ed829ce295c17c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\aefcb343bfb0765b35cf0aba775e7941\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\aefcb343bfb0765b35cf0aba775e7941\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-installations:16.3.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\b520689034c30978b7abddf105a1d633\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\b520689034c30978b7abddf105a1d633\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-abt:17.1.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9ce77a7f650f3d51dda956c1be3b1617\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-abt:17.1.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9ce77a7f650f3d51dda956c1be3b1617\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a2d2b506ba25a2b2f40003965436a0e2\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a2d2b506ba25a2b2f40003965436a0e2\AndroidManifest.xml:25:5-37:19
+MERGED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:28:5-59:19
+MERGED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:28:5-59:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a7aa5fdd2292e456ef7e8a0391171c61\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a7aa5fdd2292e456ef7e8a0391171c61\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4f116732317b551e141650299682ced2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4f116732317b551e141650299682ced2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\dbc69854e1e7bb50f70ed86d8884304b\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\dbc69854e1e7bb50f70ed86d8884304b\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7d50d99c47f09ff6d98e5958b9f040c7\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7d50d99c47f09ff6d98e5958b9f040c7\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\716c9bf6a0f299c91d9f2d50c09a2abd\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\716c9bf6a0f299c91d9f2d50c09a2abd\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\acf4c9e922a6bbe7ee837a97dfda9b2e\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\acf4c9e922a6bbe7ee837a97dfda9b2e\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\77da064f825066a5051552a28c4004ec\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\77da064f825066a5051552a28c4004ec\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\74fb8990d5d5872a22e48834ee40fe77\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\74fb8990d5d5872a22e48834ee40fe77\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\73d9e03cc166ad29d5852f049eda7207\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\73d9e03cc166ad29d5852f049eda7207\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d2fcddfdb7b1e70b73f5b76feda0a530\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d2fcddfdb7b1e70b73f5b76feda0a530\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\91cdfd0cdd16e0f3a2393d17a6badaf9\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\91cdfd0cdd16e0f3a2393d17a6badaf9\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f1386310468ff36458c6921ec0c936f2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f1386310468ff36458c6921ec0c936f2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\2e6dfa2e57fde10d15c006509d1c6683\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\2e6dfa2e57fde10d15c006509d1c6683\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d2579f3f3655554c32261081b1b26558\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d2579f3f3655554c32261081b1b26558\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a290d86d6f3543727aa5f412838536ef\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a290d86d6f3543727aa5f412838536ef\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\fd7f4086540154d8e817649affe05a09\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\fd7f4086540154d8e817649affe05a09\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\de84e45ff8d3b1074fc83bc5c3fb594b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\de84e45ff8d3b1074fc83bc5c3fb594b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\be72ade33a9258c2f990b99bc2f58bf4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\be72ade33a9258c2f990b99bc2f58bf4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\ac64221a6592017793dde7218fb486fc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\ac64221a6592017793dde7218fb486fc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\41af0980f40f3ff5b92c84136e2604a1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\41af0980f40f3ff5b92c84136e2604a1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5ca05dc2d6113f015cbd82981c59ab0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5ca05dc2d6113f015cbd82981c59ab0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f9d796d08f22e3a1204383fc4d694ffe\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f9d796d08f22e3a1204383fc4d694ffe\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\57c9233bed3f0244cff2b4b2ec66f06c\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\57c9233bed3f0244cff2b4b2ec66f06c\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\61f41f5ad7540e99f6d45587d5aa5fcc\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\61f41f5ad7540e99f6d45587d5aa5fcc\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\0d58b200599c06ea8577b328ffdd503e\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\0d58b200599c06ea8577b328ffdd503e\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f9d796d08f22e3a1204383fc4d694ffe\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:37:9-41
+	android:supportsRtl
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:39:9-45
+		REJECTED from [com.facebook.android:facebook-login:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\16584151d2804f9ac2ed5d26591b83e6\AndroidManifest.xml:28:18-44
+	android:icon
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:36:9-43
+	android:allowBackup
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:35:9-35
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:40:9-40
+	tools:replace
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:38:9-44
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:34:9-48
+data
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:92:17-95:47
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:92:17-95:47
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:326:17-67
+	android:path
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:94:21-58
+	android:host
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:53:44-63
+	android:scheme
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:53:23-43
+receiver#org.edx.mobile.receivers.MediaStatusReceiver
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:296:9-303:20
+	android:enabled
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:296:65-99
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:296:19-64
+meta-data#com.facebook.sdk.ApplicationId
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:313:9-314:47
+	android:value
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:314:13-45
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:313:20-65
+meta-data#firebase_analytics_collection_enabled
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:336:9-337:50
+	android:value
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:337:13-47
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:336:20-72
+meta-data#io.branch.sdk.BranchKey
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:340:9-90
+	android:value
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:340:59-87
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:340:20-58
+provider#androidx.core.content.FileProvider
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:348:9-356:20
+	android:grantUriPermissions
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:352:17-51
+	android:authorities
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:350:17-64
+	android:exported
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:351:17-41
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:349:17-66
+meta-data#firebase_messaging_auto_init_enabled
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:361:9-362:45
+	android:value
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:362:13-42
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:361:20-71
+service#org.edx.mobile.notifications.services.NotificationService
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:363:9-369:19
+	android:enabled
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:365:13-44
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:364:13-85
+manifest
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:2:1-390:12
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:2:1-390:12
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:2:1-390:12
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:2:1-390:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\182976443ad13d7b33e7d71f6b66841e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\88dfe93bef183d5abda84f71fa06f375\AndroidManifest.xml:17:1-24:12
+MERGED from [:android-iconify-fontawesome] C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\android-iconify-fontawesome\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:android-iconify] C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\android-iconify\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-inappmessaging-display:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\63e8d2de973d50d854b095d4e87baf2a\AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.gms:play-services-cast-framework:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e12f97bb6bc521d9ee4f2caf7bf35600\AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.gms:play-services-cast:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\77a6b4bcfe2a105fee093bb3e0594270\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.mediarouter:mediarouter:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\433870f6579222e403b8eb778a180cc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-login:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\16584151d2804f9ac2ed5d26591b83e6\AndroidManifest.xml:21:1-31:12
+MERGED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:2:1-34:12
+MERGED from [com.google.android.material:material:1.3.0-alpha01] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d268c1cb4453fffe13af6f826f1e5d22\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-android-support:2.13] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\1c17ca4c60d507523a255793e1a33741\AndroidManifest.xml:16:1-19:12
+MERGED from [com.facebook.android:facebook-common:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\351ea837486bf9b933cfb745968d0411\AndroidManifest.xml:21:1-37:12
+MERGED from [com.microsoft.identity:common:0.0.10-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3dea097807e3dd07cb57a182ea199a23\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4ff6ad2eb3c5b8f77f1b561656050133\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f86be533e8af2acf7cb872168ed4a3f7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\eaf556bbbfe1c09893ae7bd8d10e2cd2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5f61cbcd4a87cce02565fab39d2e186\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\23484253c6564b3e647f401eac61df1b\AndroidManifest.xml:2:1-16:12
+MERGED from [com.segment.analytics.android.integrations:firebase:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9360495e608e6effcda7563b561ac792\AndroidManifest.xml:2:1-14:12
+MERGED from [io.branch.sdk.android:library:2.19.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\302e1cf59b961c127e43c0bb961cd39b\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\449c40e5f4f802188f330fae1cb88746\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\1efd004656c6325a4f1c0cc67ac1c2af\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d0584d0287cc4b8763e4c81ec75a4208\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a08d3cc11126e29941698d05fac54c9d\AndroidManifest.xml:17:1-45:12
+MERGED from [com.google.firebase:firebase-crashlytics:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\934bc7858dac448b1bc98c86b1c0262f\AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-inappmessaging:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d827c8b2ab29c4cd14d0df262984a05f\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90ae9a08c27a2d3188097657eb63ffdc\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-config:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f93227a9f2bea1889d5aa92f41d52720\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\2afc08af101ca97303ef4fee0a56721f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\abcae63db230c84d05ed829ce295c17c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\aefcb343bfb0765b35cf0aba775e7941\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-installations:16.3.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\b520689034c30978b7abddf105a1d633\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-abt:17.1.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9ce77a7f650f3d51dda956c1be3b1617\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a2d2b506ba25a2b2f40003965436a0e2\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f433326b209c6bfd9a4147947c56c809\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\56c2643904fed7e5c29a23200f685897\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\ac0e9b429ce4fc0124f80aceed655173\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\85a3d8d92857afe75c38a67ca98f13f0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\b5e64828e9a46b4000e386de9c9585b0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\286239e62d3fea886be74bc37d2e18fb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\81701cd488597421085c2f92f706fd9f\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\1b9eb62f7b14b81d4018ac72a536ffd5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:21:1-61:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a7aa5fdd2292e456ef7e8a0391171c61\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4f116732317b551e141650299682ced2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3f50bd24787054db7009c8abc4ea2aac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\dbc69854e1e7bb50f70ed86d8884304b\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7d50d99c47f09ff6d98e5958b9f040c7\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\5b48b82bff065f463a7d132950118a12\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\716c9bf6a0f299c91d9f2d50c09a2abd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\acf4c9e922a6bbe7ee837a97dfda9b2e\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\77da064f825066a5051552a28c4004ec\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\74fb8990d5d5872a22e48834ee40fe77\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\73d9e03cc166ad29d5852f049eda7207\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\61fd1ed78a1deb5eb81aa8ef92984b3f\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\5320ba5f4b0f89fc453fb20584c65d11\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d2fcddfdb7b1e70b73f5b76feda0a530\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\91cdfd0cdd16e0f3a2393d17a6badaf9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f1386310468ff36458c6921ec0c936f2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e6ac134cd2e1bb6c2bcb13e18af57735\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\2e6dfa2e57fde10d15c006509d1c6683\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d2579f3f3655554c32261081b1b26558\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a290d86d6f3543727aa5f412838536ef\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3cadf31c49f9fd9235b6bb97b7d41bb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\fd7f4086540154d8e817649affe05a09\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\de84e45ff8d3b1074fc83bc5c3fb594b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\be72ade33a9258c2f990b99bc2f58bf4\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90089e3ffa7460424980e617dc0564b9\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\ac64221a6592017793dde7218fb486fc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\41af0980f40f3ff5b92c84136e2604a1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5ca05dc2d6113f015cbd82981c59ab0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\5bc27b112b96178268d563bd050469d2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4ed25d8d5f3c6d33d97d041ecd407fcf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\6d4af746e994aac62b6d3fc7cb618e3b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\6d15a39a36c3c9857f96bb3f412d9212\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\5bc6a2c3b4b9a87edb148d2c2f697d0c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e22e2c4e6cd4ece6369b26e2e5dc067d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\cba3acbc46783e7a5c2a0aefb0b8e991\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\06557607c9d6dd1c661685d6d9ca4e2f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d88b7be544e2bf43fd486f9c3b0b8243\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\93d23010b8dc128a214d43dc0d8519ef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\687b539a405cbe156ee53e9de9e61638\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\badd8d7af3a1e3a86798179cc1073974\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\2f690a520d6f0c0812023363f30d97be\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e7b8c723ea8a3211af68db3ed4d64c7b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a3db0c07f80f1a98926c3dae6aea58d4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\64b6ec84730eb34fac4096d80fd99da4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\bf5ff5057fe5e323cd01ddce4ace6940\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f9d796d08f22e3a1204383fc4d694ffe\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\57c9233bed3f0244cff2b4b2ec66f06c\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\8e8801dfcc015351077da78573ef5fdb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e32283f0f67ea036c4451990ce1031c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-android:2.13] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e323061870558a50839ec25fa6884f5b\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a605bc20cb6f6770a940e8802ec1a0f9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a3b8a5445e88fdd8a551af915cbf0c90\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7afa2003750949ec69fe336cfbae9a8c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\79ba8c24a2262c2943e8920fbb6b2680\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\acd201ddfa2a1ad0bca84e3e30f943ea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\5fb97c0f4e100afeddb9482745eeaccc\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\8a4d75cd6c241f4ab4986206ab7d78b8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\08ca87fee879aef3cc210ad9139d33cc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a35c0fcdf66ef2f400c073265acba5fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\c6968d707523e21e5b4924d42ba13b72\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\61f41f5ad7540e99f6d45587d5aa5fcc\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\0d58b200599c06ea8577b328ffdd503e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.segment.analytics.android.integrations:google-analytics:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3c577c34c3c41ada76d7b22dd1ba21bd\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7389e2c7706b34754cd8f74bee5a09cc\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5e79fd65f24f854055daf9794a9b805\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\8dba6d8adbdfeb1141dd27f24c449be5\AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\80519a02401105f66ae89beffeb6b7be\AndroidManifest.xml:15:1-21:12
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:2:1-390:12
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:2:1-390:12
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:2:1-390:12
+	package
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:2:1-390:12
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:2:1-390:12
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:5:5-35
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-inappmessaging-display:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\63e8d2de973d50d854b095d4e87baf2a\AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-inappmessaging-display:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\63e8d2de973d50d854b095d4e87baf2a\AndroidManifest.xml:12:5-67
+MERGED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:10:5-67
+MERGED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:10:5-67
+MERGED from [com.microsoft.identity:common:0.0.10-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3dea097807e3dd07cb57a182ea199a23\AndroidManifest.xml:11:5-67
+MERGED from [com.microsoft.identity:common:0.0.10-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3dea097807e3dd07cb57a182ea199a23\AndroidManifest.xml:11:5-67
+MERGED from [com.segment.analytics.android.integrations:firebase:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9360495e608e6effcda7563b561ac792\AndroidManifest.xml:10:5-67
+MERGED from [com.segment.analytics.android.integrations:firebase:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9360495e608e6effcda7563b561ac792\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\934bc7858dac448b1bc98c86b1c0262f\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\934bc7858dac448b1bc98c86b1c0262f\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-inappmessaging:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d827c8b2ab29c4cd14d0df262984a05f\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-inappmessaging:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d827c8b2ab29c4cd14d0df262984a05f\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\aefcb343bfb0765b35cf0aba775e7941\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\aefcb343bfb0765b35cf0aba775e7941\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\b520689034c30978b7abddf105a1d633\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\b520689034c30978b7abddf105a1d633\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\dbc69854e1e7bb50f70ed86d8884304b\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\dbc69854e1e7bb50f70ed86d8884304b\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\73d9e03cc166ad29d5852f049eda7207\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\73d9e03cc166ad29d5852f049eda7207\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\91cdfd0cdd16e0f3a2393d17a6badaf9\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\91cdfd0cdd16e0f3a2393d17a6badaf9\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90089e3ffa7460424980e617dc0564b9\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90089e3ffa7460424980e617dc0564b9\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-inappmessaging-display:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\63e8d2de973d50d854b095d4e87baf2a\AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-inappmessaging-display:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\63e8d2de973d50d854b095d4e87baf2a\AndroidManifest.xml:11:5-79
+MERGED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:11:5-79
+MERGED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:11:5-79
+MERGED from [com.microsoft.identity:common:0.0.10-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3dea097807e3dd07cb57a182ea199a23\AndroidManifest.xml:12:5-79
+MERGED from [com.microsoft.identity:common:0.0.10-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3dea097807e3dd07cb57a182ea199a23\AndroidManifest.xml:12:5-79
+MERGED from [com.segment.analytics.android.integrations:firebase:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9360495e608e6effcda7563b561ac792\AndroidManifest.xml:11:5-79
+MERGED from [com.segment.analytics.android.integrations:firebase:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9360495e608e6effcda7563b561ac792\AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-inappmessaging:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d827c8b2ab29c4cd14d0df262984a05f\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-inappmessaging:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d827c8b2ab29c4cd14d0df262984a05f\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\aefcb343bfb0765b35cf0aba775e7941\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\aefcb343bfb0765b35cf0aba775e7941\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\b520689034c30978b7abddf105a1d633\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\b520689034c30978b7abddf105a1d633\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\81701cd488597421085c2f92f706fd9f\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\81701cd488597421085c2f92f706fd9f\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\dbc69854e1e7bb50f70ed86d8884304b\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\dbc69854e1e7bb50f70ed86d8884304b\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7d50d99c47f09ff6d98e5958b9f040c7\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7d50d99c47f09ff6d98e5958b9f040c7\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\73d9e03cc166ad29d5852f049eda7207\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\73d9e03cc166ad29d5852f049eda7207\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\91cdfd0cdd16e0f3a2393d17a6badaf9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\91cdfd0cdd16e0f3a2393d17a6badaf9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90089e3ffa7460424980e617dc0564b9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90089e3ffa7460424980e617dc0564b9\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:16:5-68
+MERGED from [com.segment.analytics.android.integrations:firebase:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9360495e608e6effcda7563b561ac792\AndroidManifest.xml:12:5-68
+MERGED from [com.segment.analytics.android.integrations:firebase:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9360495e608e6effcda7563b561ac792\AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\aefcb343bfb0765b35cf0aba775e7941\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\aefcb343bfb0765b35cf0aba775e7941\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\73d9e03cc166ad29d5852f049eda7207\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\73d9e03cc166ad29d5852f049eda7207\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\91cdfd0cdd16e0f3a2393d17a6badaf9\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\91cdfd0cdd16e0f3a2393d17a6badaf9\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90089e3ffa7460424980e617dc0564b9\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90089e3ffa7460424980e617dc0564b9\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:20:5-80
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:20:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:23:22-62
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:26:5-75
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:26:22-72
+instrumentation
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:29:5-31:50
+	android:targetPackage
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:31:9-47
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:30:9-73
+uses-sdk
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.3.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\182976443ad13d7b33e7d71f6b66841e\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.3.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\182976443ad13d7b33e7d71f6b66841e\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\88dfe93bef183d5abda84f71fa06f375\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\88dfe93bef183d5abda84f71fa06f375\AndroidManifest.xml:22:5-44
+MERGED from [:android-iconify-fontawesome] C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\android-iconify-fontawesome\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:android-iconify-fontawesome] C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\android-iconify-fontawesome\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:android-iconify] C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\android-iconify\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:android-iconify] C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\android-iconify\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-inappmessaging-display:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\63e8d2de973d50d854b095d4e87baf2a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-inappmessaging-display:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\63e8d2de973d50d854b095d4e87baf2a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-cast-framework:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e12f97bb6bc521d9ee4f2caf7bf35600\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e12f97bb6bc521d9ee4f2caf7bf35600\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\77a6b4bcfe2a105fee093bb3e0594270\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\77a6b4bcfe2a105fee093bb3e0594270\AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\433870f6579222e403b8eb778a180cc0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\433870f6579222e403b8eb778a180cc0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-login:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\16584151d2804f9ac2ed5d26591b83e6\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\16584151d2804f9ac2ed5d26591b83e6\AndroidManifest.xml:24:5-26:41
+MERGED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:6:5-8:41
+MERGED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.material:material:1.3.0-alpha01] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d268c1cb4453fffe13af6f826f1e5d22\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-alpha01] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d268c1cb4453fffe13af6f826f1e5d22\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.13] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\1c17ca4c60d507523a255793e1a33741\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-android-support:2.13] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\1c17ca4c60d507523a255793e1a33741\AndroidManifest.xml:18:3-42
+MERGED from [com.facebook.android:facebook-common:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\351ea837486bf9b933cfb745968d0411\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\351ea837486bf9b933cfb745968d0411\AndroidManifest.xml:24:5-26:41
+MERGED from [com.microsoft.identity:common:0.0.10-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3dea097807e3dd07cb57a182ea199a23\AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.identity:common:0.0.10-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3dea097807e3dd07cb57a182ea199a23\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4ff6ad2eb3c5b8f77f1b561656050133\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4ff6ad2eb3c5b8f77f1b561656050133\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f86be533e8af2acf7cb872168ed4a3f7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f86be533e8af2acf7cb872168ed4a3f7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\eaf556bbbfe1c09893ae7bd8d10e2cd2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\eaf556bbbfe1c09893ae7bd8d10e2cd2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5f61cbcd4a87cce02565fab39d2e186\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5f61cbcd4a87cce02565fab39d2e186\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\23484253c6564b3e647f401eac61df1b\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\23484253c6564b3e647f401eac61df1b\AndroidManifest.xml:6:5-8:41
+MERGED from [com.segment.analytics.android.integrations:firebase:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9360495e608e6effcda7563b561ac792\AndroidManifest.xml:5:5-7:41
+MERGED from [com.segment.analytics.android.integrations:firebase:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9360495e608e6effcda7563b561ac792\AndroidManifest.xml:5:5-7:41
+MERGED from [io.branch.sdk.android:library:2.19.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\302e1cf59b961c127e43c0bb961cd39b\AndroidManifest.xml:7:5-9:41
+MERGED from [io.branch.sdk.android:library:2.19.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\302e1cf59b961c127e43c0bb961cd39b\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\449c40e5f4f802188f330fae1cb88746\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\449c40e5f4f802188f330fae1cb88746\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\1efd004656c6325a4f1c0cc67ac1c2af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\1efd004656c6325a4f1c0cc67ac1c2af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d0584d0287cc4b8763e4c81ec75a4208\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d0584d0287cc4b8763e4c81ec75a4208\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a08d3cc11126e29941698d05fac54c9d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a08d3cc11126e29941698d05fac54c9d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crashlytics:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\934bc7858dac448b1bc98c86b1c0262f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-crashlytics:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\934bc7858dac448b1bc98c86b1c0262f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-inappmessaging:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d827c8b2ab29c4cd14d0df262984a05f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-inappmessaging:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d827c8b2ab29c4cd14d0df262984a05f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90ae9a08c27a2d3188097657eb63ffdc\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90ae9a08c27a2d3188097657eb63ffdc\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-config:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f93227a9f2bea1889d5aa92f41d52720\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f93227a9f2bea1889d5aa92f41d52720\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\2afc08af101ca97303ef4fee0a56721f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\2afc08af101ca97303ef4fee0a56721f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\abcae63db230c84d05ed829ce295c17c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\abcae63db230c84d05ed829ce295c17c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\aefcb343bfb0765b35cf0aba775e7941\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\aefcb343bfb0765b35cf0aba775e7941\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\b520689034c30978b7abddf105a1d633\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\b520689034c30978b7abddf105a1d633\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-abt:17.1.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9ce77a7f650f3d51dda956c1be3b1617\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-abt:17.1.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9ce77a7f650f3d51dda956c1be3b1617\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a2d2b506ba25a2b2f40003965436a0e2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a2d2b506ba25a2b2f40003965436a0e2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f433326b209c6bfd9a4147947c56c809\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f433326b209c6bfd9a4147947c56c809\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\56c2643904fed7e5c29a23200f685897\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\56c2643904fed7e5c29a23200f685897\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\ac0e9b429ce4fc0124f80aceed655173\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\ac0e9b429ce4fc0124f80aceed655173\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\85a3d8d92857afe75c38a67ca98f13f0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\85a3d8d92857afe75c38a67ca98f13f0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\b5e64828e9a46b4000e386de9c9585b0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\b5e64828e9a46b4000e386de9c9585b0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\286239e62d3fea886be74bc37d2e18fb\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\286239e62d3fea886be74bc37d2e18fb\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\81701cd488597421085c2f92f706fd9f\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\81701cd488597421085c2f92f706fd9f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\1b9eb62f7b14b81d4018ac72a536ffd5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\1b9eb62f7b14b81d4018ac72a536ffd5\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:24:5-26:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a7aa5fdd2292e456ef7e8a0391171c61\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a7aa5fdd2292e456ef7e8a0391171c61\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4f116732317b551e141650299682ced2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4f116732317b551e141650299682ced2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3f50bd24787054db7009c8abc4ea2aac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3f50bd24787054db7009c8abc4ea2aac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\dbc69854e1e7bb50f70ed86d8884304b\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\dbc69854e1e7bb50f70ed86d8884304b\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7d50d99c47f09ff6d98e5958b9f040c7\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7d50d99c47f09ff6d98e5958b9f040c7\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\5b48b82bff065f463a7d132950118a12\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\5b48b82bff065f463a7d132950118a12\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\716c9bf6a0f299c91d9f2d50c09a2abd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\716c9bf6a0f299c91d9f2d50c09a2abd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\acf4c9e922a6bbe7ee837a97dfda9b2e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\acf4c9e922a6bbe7ee837a97dfda9b2e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\77da064f825066a5051552a28c4004ec\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\77da064f825066a5051552a28c4004ec\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\74fb8990d5d5872a22e48834ee40fe77\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\74fb8990d5d5872a22e48834ee40fe77\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\73d9e03cc166ad29d5852f049eda7207\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\73d9e03cc166ad29d5852f049eda7207\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\61fd1ed78a1deb5eb81aa8ef92984b3f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\61fd1ed78a1deb5eb81aa8ef92984b3f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\5320ba5f4b0f89fc453fb20584c65d11\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\5320ba5f4b0f89fc453fb20584c65d11\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d2fcddfdb7b1e70b73f5b76feda0a530\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d2fcddfdb7b1e70b73f5b76feda0a530\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\91cdfd0cdd16e0f3a2393d17a6badaf9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\91cdfd0cdd16e0f3a2393d17a6badaf9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f1386310468ff36458c6921ec0c936f2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f1386310468ff36458c6921ec0c936f2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e6ac134cd2e1bb6c2bcb13e18af57735\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e6ac134cd2e1bb6c2bcb13e18af57735\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\2e6dfa2e57fde10d15c006509d1c6683\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\2e6dfa2e57fde10d15c006509d1c6683\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d2579f3f3655554c32261081b1b26558\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d2579f3f3655554c32261081b1b26558\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a290d86d6f3543727aa5f412838536ef\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a290d86d6f3543727aa5f412838536ef\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3cadf31c49f9fd9235b6bb97b7d41bb0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3cadf31c49f9fd9235b6bb97b7d41bb0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\fd7f4086540154d8e817649affe05a09\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\fd7f4086540154d8e817649affe05a09\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\de84e45ff8d3b1074fc83bc5c3fb594b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\de84e45ff8d3b1074fc83bc5c3fb594b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\be72ade33a9258c2f990b99bc2f58bf4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\be72ade33a9258c2f990b99bc2f58bf4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90089e3ffa7460424980e617dc0564b9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90089e3ffa7460424980e617dc0564b9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\ac64221a6592017793dde7218fb486fc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\ac64221a6592017793dde7218fb486fc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\41af0980f40f3ff5b92c84136e2604a1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\41af0980f40f3ff5b92c84136e2604a1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5ca05dc2d6113f015cbd82981c59ab0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5ca05dc2d6113f015cbd82981c59ab0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\5bc27b112b96178268d563bd050469d2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\5bc27b112b96178268d563bd050469d2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4ed25d8d5f3c6d33d97d041ecd407fcf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4ed25d8d5f3c6d33d97d041ecd407fcf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\6d4af746e994aac62b6d3fc7cb618e3b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\6d4af746e994aac62b6d3fc7cb618e3b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\6d15a39a36c3c9857f96bb3f412d9212\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\6d15a39a36c3c9857f96bb3f412d9212\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\5bc6a2c3b4b9a87edb148d2c2f697d0c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\5bc6a2c3b4b9a87edb148d2c2f697d0c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e22e2c4e6cd4ece6369b26e2e5dc067d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e22e2c4e6cd4ece6369b26e2e5dc067d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\cba3acbc46783e7a5c2a0aefb0b8e991\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\cba3acbc46783e7a5c2a0aefb0b8e991\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\06557607c9d6dd1c661685d6d9ca4e2f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\06557607c9d6dd1c661685d6d9ca4e2f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d88b7be544e2bf43fd486f9c3b0b8243\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d88b7be544e2bf43fd486f9c3b0b8243\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\93d23010b8dc128a214d43dc0d8519ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\93d23010b8dc128a214d43dc0d8519ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\687b539a405cbe156ee53e9de9e61638\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\687b539a405cbe156ee53e9de9e61638\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\badd8d7af3a1e3a86798179cc1073974\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\badd8d7af3a1e3a86798179cc1073974\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\2f690a520d6f0c0812023363f30d97be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\2f690a520d6f0c0812023363f30d97be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e7b8c723ea8a3211af68db3ed4d64c7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e7b8c723ea8a3211af68db3ed4d64c7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a3db0c07f80f1a98926c3dae6aea58d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a3db0c07f80f1a98926c3dae6aea58d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\64b6ec84730eb34fac4096d80fd99da4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\64b6ec84730eb34fac4096d80fd99da4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\bf5ff5057fe5e323cd01ddce4ace6940\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\bf5ff5057fe5e323cd01ddce4ace6940\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f9d796d08f22e3a1204383fc4d694ffe\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f9d796d08f22e3a1204383fc4d694ffe\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\57c9233bed3f0244cff2b4b2ec66f06c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\57c9233bed3f0244cff2b4b2ec66f06c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\8e8801dfcc015351077da78573ef5fdb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\8e8801dfcc015351077da78573ef5fdb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e32283f0f67ea036c4451990ce1031c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e32283f0f67ea036c4451990ce1031c5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.13] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e323061870558a50839ec25fa6884f5b\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-android:2.13] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e323061870558a50839ec25fa6884f5b\AndroidManifest.xml:18:3-42
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a605bc20cb6f6770a940e8802ec1a0f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a605bc20cb6f6770a940e8802ec1a0f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a3b8a5445e88fdd8a551af915cbf0c90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a3b8a5445e88fdd8a551af915cbf0c90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7afa2003750949ec69fe336cfbae9a8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7afa2003750949ec69fe336cfbae9a8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\79ba8c24a2262c2943e8920fbb6b2680\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\79ba8c24a2262c2943e8920fbb6b2680\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\acd201ddfa2a1ad0bca84e3e30f943ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\acd201ddfa2a1ad0bca84e3e30f943ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\5fb97c0f4e100afeddb9482745eeaccc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\5fb97c0f4e100afeddb9482745eeaccc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\8a4d75cd6c241f4ab4986206ab7d78b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\8a4d75cd6c241f4ab4986206ab7d78b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\08ca87fee879aef3cc210ad9139d33cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\08ca87fee879aef3cc210ad9139d33cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a35c0fcdf66ef2f400c073265acba5fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a35c0fcdf66ef2f400c073265acba5fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\c6968d707523e21e5b4924d42ba13b72\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\c6968d707523e21e5b4924d42ba13b72\AndroidManifest.xml:20:5-43
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\61f41f5ad7540e99f6d45587d5aa5fcc\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\61f41f5ad7540e99f6d45587d5aa5fcc\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\0d58b200599c06ea8577b328ffdd503e\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\0d58b200599c06ea8577b328ffdd503e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.segment.analytics.android.integrations:google-analytics:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3c577c34c3c41ada76d7b22dd1ba21bd\AndroidManifest.xml:6:5-8:41
+MERGED from [com.segment.analytics.android.integrations:google-analytics:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3c577c34c3c41ada76d7b22dd1ba21bd\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7389e2c7706b34754cd8f74bee5a09cc\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7389e2c7706b34754cd8f74bee5a09cc\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5e79fd65f24f854055daf9794a9b805\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5e79fd65f24f854055daf9794a9b805\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\8dba6d8adbdfeb1141dd27f24c449be5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\8dba6d8adbdfeb1141dd27f24c449be5\AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\80519a02401105f66ae89beffeb6b7be\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\80519a02401105f66ae89beffeb6b7be\AndroidManifest.xml:19:5-43
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+		INJECTED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml
+activity#org.edx.mobile.view.SplashActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:42:9-58:20
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:45:13-49
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:44:13-54
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:46:13-59
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:43:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:47:13-50:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:49:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:open+data:scheme:edx
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:52:13-57:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:54:17-69
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:54:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:55:17-76
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:55:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:56:17-78
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:56:27-75
+activity#org.edx.mobile.view.LaunchActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:60:9-64:54
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:62:13-45
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:64:13-51
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:61:13-62
+activity#org.edx.mobile.view.DiscoveryLaunchActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:66:9-70:59
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:69:13-49
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:68:13-45
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:70:13-56
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:67:13-71
+activity#org.edx.mobile.view.LoginActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:72:9-77:80
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:75:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:76:13-56
+	android:configChanges
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:74:13-63
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:77:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:73:13-61
+activity#org.edx.mobile.view.RegisterActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:79:9-82:80
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:81:13-49
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:82:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:80:13-64
+activity#com.microsoft.identity.client.BrowserTabActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:85:9-97:20
+MERGED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:26:9-28:39
+MERGED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:26:9-28:39
+	android:exported
+		ADDED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:86:13-76
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:org.edx.mobile+data:path:/+data:scheme:msauth
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:87:13-96:29
+activity#org.edx.mobile.view.MainDashboardActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:99:9-101:80
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:101:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:100:13-69
+activity#org.edx.mobile.view.AccountActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:103:9-107:80
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:106:13-49
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:105:13-50
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:107:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:104:13-63
+activity#org.edx.mobile.view.PaymentsInfoActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:109:9-112:59
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:111:13-45
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:112:13-56
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:110:13-68
+activity#org.edx.mobile.view.CourseOutlineActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:114:9-117:80
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:116:13-45
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:117:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:115:13-69
+activity#org.edx.mobile.view.CourseDiscussionTopicsActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:119:9-123:80
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:122:13-45
+	android:configChanges
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:121:13-74
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:123:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:120:13-64
+activity#org.edx.mobile.view.CourseDiscussionPostsActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:125:9-129:80
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:128:13-53
+	android:configChanges
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:127:13-74
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:129:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:126:13-63
+activity#org.edx.mobile.view.CourseDiscussionCommentsActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:131:9-135:80
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:134:13-45
+	android:configChanges
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:133:13-74
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:135:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:132:13-66
+activity#org.edx.mobile.view.CourseDiscussionResponsesActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:137:9-141:80
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:140:13-53
+	android:configChanges
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:139:13-74
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:141:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:138:13-67
+activity#org.edx.mobile.view.DiscussionAddPostActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:143:9-147:80
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:146:13-68
+	android:configChanges
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:145:13-74
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:147:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:144:13-73
+activity#org.edx.mobile.view.DiscussionAddResponseActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:149:9-153:80
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:152:13-66
+	android:configChanges
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:151:13-74
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:153:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:150:13-77
+activity#org.edx.mobile.view.DiscussionAddCommentActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:155:9-159:80
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:158:13-65
+	android:configChanges
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:157:13-74
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:159:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:156:13-76
+activity#org.edx.mobile.view.CourseUnitNavigationActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:161:9-166:80
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:165:13-45
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:164:13-45
+	android:configChanges
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:163:13-74
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:166:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:162:13-76
+activity#org.edx.mobile.view.DownloadListActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:168:9-171:80
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:170:13-51
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:171:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:169:13-68
+activity#org.edx.mobile.view.ViewSubjectsActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:173:9-176:80
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:175:13-54
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:176:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:174:13-54
+activity#org.edx.mobile.view.CourseInfoActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:178:9-181:80
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:180:13-51
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:181:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:179:13-66
+activity#org.edx.mobile.view.ProgramInfoActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:183:9-186:80
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:185:13-51
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:186:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:184:13-67
+activity#org.edx.mobile.view.CourseDetailActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:188:9-192:80
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:191:13-49
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:190:13-55
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:192:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:189:13-68
+activity#org.edx.mobile.view.CourseHandoutActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:194:9-197:80
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:196:13-45
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:197:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:195:13-69
+activity#org.edx.mobile.view.DiscoveryActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:199:9-202:80
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:201:13-51
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:202:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:200:13-51
+activity#org.edx.mobile.view.CourseAnnouncementsActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:204:9-207:80
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:206:13-55
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:207:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:205:13-61
+activity#org.edx.mobile.view.CertificateActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:209:9-213:79
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:212:13-49
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:211:13-58
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:213:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:210:13-67
+activity#org.edx.mobile.view.SettingsActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:215:9-219:80
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:218:13-49
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:217:13-45
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:219:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:216:13-64
+activity#org.edx.mobile.profiles.UserProfileActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:221:9-225:80
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:224:13-49
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:223:13-50
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:225:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:222:13-57
+activity#org.edx.mobile.view.EditUserProfileActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:227:9-230:80
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:229:13-49
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:230:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:228:13-57
+activity#org.edx.mobile.view.FormFieldActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:232:9-237:58
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:235:13-49
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:234:13-29
+	android:windowSoftInputMode
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:237:13-55
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:236:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:233:13-51
+activity#org.edx.mobile.view.CropImageActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:239:9-243:59
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:242:13-49
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:241:13-29
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:243:13-56
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:240:13-51
+activity#org.edx.mobile.whatsnew.WhatsNewActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:245:9-248:59
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:247:13-49
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:248:13-56
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:246:13-54
+activity#org.edx.mobile.view.CourseTabsDashboardActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:250:9-253:79
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:252:13-29
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:253:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:251:13-61
+activity#org.edx.mobile.view.dialog.WebViewActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:255:9-264:20
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:257:13-49
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:258:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:256:13-56
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:scheme:org.edx.mobile.innerlinks
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:259:13-263:29
+activity#org.edx.mobile.view.ProgramWebViewActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:266:9-269:80
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:268:13-49
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:269:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:267:13-56
+activity#org.edx.mobile.view.CourseUpgradeWebViewActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:271:9-274:51
+	android:screenOrientation
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:274:13-49
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:273:13-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:272:13-62
+activity#org.edx.mobile.googlecast.ExpandedControlsActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:277:9-285:20
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:279:13-45
+	android:launchMode
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:280:13-44
+	android:theme
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:281:13-57
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:278:13-78
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:282:13-284:29
+receiver#org.edx.mobile.module.download.DownloadCompleteReceiver
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:287:9-293:20
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:287:19-89
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE+action:name:android.intent.action.DOWNLOAD_NOTIFICATION_CLICKED+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:288:13-292:29
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:289:17-82
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:289:25-79
+action#android.intent.action.DOWNLOAD_NOTIFICATION_CLICKED
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:290:17-94
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:290:25-91
+intent-filter#action:name:android.intent.action.MEDIA_MOUNTED+action:name:android.intent.action.MEDIA_REMOVED+action:name:android.intent.action.MEDIA_UNMOUNTED+data:scheme:file
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:297:13-302:29
+action#android.intent.action.MEDIA_UNMOUNTED
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:298:17-80
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:298:25-77
+action#android.intent.action.MEDIA_REMOVED
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:299:17-78
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:299:25-75
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:300:17-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:300:25-75
+receiver#org.edx.mobile.instrumentation.EndEmmaBroadcast
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:306:9-310:20
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:306:19-81
+intent-filter#action:name:org.edx.mobile.END_EMMA
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:307:13-309:29
+action#org.edx.mobile.END_EMMA
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:308:17-66
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:308:25-63
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:315:9-318:48
+MERGED from [com.facebook.android:facebook-common:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\351ea837486bf9b933cfb745968d0411\AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\351ea837486bf9b933cfb745968d0411\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:318:13-45
+	android:configChanges
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:316:13-113
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\351ea837486bf9b933cfb745968d0411\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:315:19-63
+activity#com.facebook.CustomTabActivity
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:319:9-328:20
+MERGED from [com.facebook.android:facebook-common:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\351ea837486bf9b933cfb745968d0411\AndroidManifest.xml:34:9-67
+MERGED from [com.facebook.android:facebook-common:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\351ea837486bf9b933cfb745968d0411\AndroidManifest.xml:34:9-67
+	android:exported
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:321:13-36
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:320:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:322:13-327:29
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:331:9-333:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5ca05dc2d6113f015cbd82981c59ab0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5ca05dc2d6113f015cbd82981c59ab0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:333:13-66
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:332:13-58
+receiver#io.branch.referral.InstallListener
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:342:9-346:20
+	android:exported
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:342:69-92
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:342:19-68
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:343:13-345:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:344:17-79
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:344:25-76
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:353:13-355:61
+	android:resource
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:355:21-59
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:354:21-71
+service#org.edx.mobile.services.DownloadSpeedService
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:358:9-80
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:358:18-77
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:366:13-368:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:367:17-77
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:367:25-75
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:372:9-374:60
+	android:resource
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:374:13-57
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:373:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:376:9-378:54
+	android:resource
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:378:13-51
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:377:13-84
+meta-data#firebase_performance_logcat_enabled
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:379:9-381:36
+	android:value
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:381:13-33
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:380:13-63
+meta-data#com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME
+ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:384:9-386:77
+	android:value
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:386:13-74
+	android:name
+		ADDED from C:\Users\oana-george\projects\telacad\edx-client\edx-app-android\OpenEdXMobile\AndroidManifest.xml:385:13-93
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-inappmessaging-display:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\63e8d2de973d50d854b095d4e87baf2a\AndroidManifest.xml:15:9-19:19
+MERGED from [com.google.firebase:firebase-messaging:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a08d3cc11126e29941698d05fac54c9d\AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-messaging:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a08d3cc11126e29941698d05fac54c9d\AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-crashlytics:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\934bc7858dac448b1bc98c86b1c0262f\AndroidManifest.xml:13:9-19:19
+MERGED from [com.google.firebase:firebase-crashlytics:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\934bc7858dac448b1bc98c86b1c0262f\AndroidManifest.xml:13:9-19:19
+MERGED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:34:9-38:19
+MERGED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:34:9-38:19
+MERGED from [com.google.firebase:firebase-inappmessaging:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d827c8b2ab29c4cd14d0df262984a05f\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-inappmessaging:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d827c8b2ab29c4cd14d0df262984a05f\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90ae9a08c27a2d3188097657eb63ffdc\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90ae9a08c27a2d3188097657eb63ffdc\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-config:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f93227a9f2bea1889d5aa92f41d52720\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-config:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f93227a9f2bea1889d5aa92f41d52720\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\aefcb343bfb0765b35cf0aba775e7941\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\aefcb343bfb0765b35cf0aba775e7941\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-installations:16.3.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\b520689034c30978b7abddf105a1d633\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.3.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\b520689034c30978b7abddf105a1d633\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-abt:17.1.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9ce77a7f650f3d51dda956c1be3b1617\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-abt:17.1.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9ce77a7f650f3d51dda956c1be3b1617\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a2d2b506ba25a2b2f40003965436a0e2\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a2d2b506ba25a2b2f40003965436a0e2\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a08d3cc11126e29941698d05fac54c9d\AndroidManifest.xml:38:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a2d2b506ba25a2b2f40003965436a0e2\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a2d2b506ba25a2b2f40003965436a0e2\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-inappmessaging-display:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\63e8d2de973d50d854b095d4e87baf2a\AndroidManifest.xml:15:18-89
+meta-data#com.google.firebase.components:com.google.firebase.inappmessaging.display.FirebaseInAppMessagingDisplayRegistrar
+ADDED from [com.google.firebase:firebase-inappmessaging-display:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\63e8d2de973d50d854b095d4e87baf2a\AndroidManifest.xml:16:13-18:85
+	android:value
+		ADDED from [com.google.firebase:firebase-inappmessaging-display:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\63e8d2de973d50d854b095d4e87baf2a\AndroidManifest.xml:18:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-inappmessaging-display:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\63e8d2de973d50d854b095d4e87baf2a\AndroidManifest.xml:17:17-144
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.google.android.gms:play-services-cast-framework:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e12f97bb6bc521d9ee4f2caf7bf35600\AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e12f97bb6bc521d9ee4f2caf7bf35600\AndroidManifest.xml:7:22-74
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e12f97bb6bc521d9ee4f2caf7bf35600\AndroidManifest.xml:10:9-12:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e12f97bb6bc521d9ee4f2caf7bf35600\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e12f97bb6bc521d9ee4f2caf7bf35600\AndroidManifest.xml:11:13-91
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e12f97bb6bc521d9ee4f2caf7bf35600\AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e12f97bb6bc521d9ee4f2caf7bf35600\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e12f97bb6bc521d9ee4f2caf7bf35600\AndroidManifest.xml:15:13-96
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e12f97bb6bc521d9ee4f2caf7bf35600\AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e12f97bb6bc521d9ee4f2caf7bf35600\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:16.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\e12f97bb6bc521d9ee4f2caf7bf35600\AndroidManifest.xml:18:13-85
+activity#com.microsoft.identity.client.AuthenticationActivity
+ADDED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:16:9-18:77
+	android:configChanges
+		ADDED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:18:13-74
+	android:name
+		ADDED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:17:13-80
+activity#com.microsoft.identity.common.internal.providers.oauth2.AuthorizationActivity
+ADDED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:19:9-23:47
+MERGED from [com.microsoft.identity:common:0.0.10-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3dea097807e3dd07cb57a182ea199a23\AndroidManifest.xml:15:9-17:77
+MERGED from [com.microsoft.identity:common:0.0.10-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\3dea097807e3dd07cb57a182ea199a23\AndroidManifest.xml:15:9-17:77
+	android:launchMode
+		ADDED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:23:13-44
+	android:exported
+		ADDED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:22:13-37
+	android:configChanges
+		ADDED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:21:13-74
+	android:name
+		ADDED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:20:13-105
+activity#com.microsoft.identity.client.internal.controllers.BrokerActivity
+ADDED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:31:9-102
+	android:name
+		ADDED from [com.microsoft.identity.client:msal:0.3.2-alpha] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\794838df67cadbac2e65ad4fb9c4dde9\AndroidManifest.xml:31:19-99
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\351ea837486bf9b933cfb745968d0411\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\351ea837486bf9b933cfb745968d0411\AndroidManifest.xml:33:19-68
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\23484253c6564b3e647f401eac61df1b\AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\23484253c6564b3e647f401eac61df1b\AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\23484253c6564b3e647f401eac61df1b\AndroidManifest.xml:12:13-84
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a08d3cc11126e29941698d05fac54c9d\AndroidManifest.xml:28:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a08d3cc11126e29941698d05fac54c9d\AndroidManifest.xml:31:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a08d3cc11126e29941698d05fac54c9d\AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a08d3cc11126e29941698d05fac54c9d\AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a08d3cc11126e29941698d05fac54c9d\AndroidManifest.xml:39:13-41:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a08d3cc11126e29941698d05fac54c9d\AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a08d3cc11126e29941698d05fac54c9d\AndroidManifest.xml:40:17-119
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\934bc7858dac448b1bc98c86b1c0262f\AndroidManifest.xml:16:13-18:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\934bc7858dac448b1bc98c86b1c0262f\AndroidManifest.xml:18:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\934bc7858dac448b1bc98c86b1c0262f\AndroidManifest.xml:17:17-115
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:23:5-98
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:23:22-95
+provider#com.google.firebase.perf.provider.FirebasePerfProvider
+ADDED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:28:9-32:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:30:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:31:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar
+ADDED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:17.0.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a5ca34c67ffeffedfc1a5ec9f0a164a4\AndroidManifest.xml:36:17-109
+meta-data#com.google.firebase.components:com.google.firebase.inappmessaging.FirebaseInAppMessagingRegistrar
+ADDED from [com.google.firebase:firebase-inappmessaging:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d827c8b2ab29c4cd14d0df262984a05f\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-inappmessaging:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d827c8b2ab29c4cd14d0df262984a05f\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-inappmessaging:17.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\d827c8b2ab29c4cd14d0df262984a05f\AndroidManifest.xml:18:17-129
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90ae9a08c27a2d3188097657eb63ffdc\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90ae9a08c27a2d3188097657eb63ffdc\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\90ae9a08c27a2d3188097657eb63ffdc\AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar
+ADDED from [com.google.firebase:firebase-config:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f93227a9f2bea1889d5aa92f41d52720\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [com.google.firebase:firebase-config:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f93227a9f2bea1889d5aa92f41d52720\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-config:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f93227a9f2bea1889d5aa92f41d52720\AndroidManifest.xml:10:17-117
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\aefcb343bfb0765b35cf0aba775e7941\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\aefcb343bfb0765b35cf0aba775e7941\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\aefcb343bfb0765b35cf0aba775e7941\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\83509cdcf9d4ee3f066e8434fc738e82\AndroidManifest.xml:42:25-78
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\b520689034c30978b7abddf105a1d633\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\b520689034c30978b7abddf105a1d633\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\b520689034c30978b7abddf105a1d633\AndroidManifest.xml:18:17-127
+meta-data#com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar
+ADDED from [com.google.firebase:firebase-abt:17.1.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9ce77a7f650f3d51dda956c1be3b1617\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [com.google.firebase:firebase-abt:17.1.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9ce77a7f650f3d51dda956c1be3b1617\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-abt:17.1.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\9ce77a7f650f3d51dda956c1be3b1617\AndroidManifest.xml:10:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a2d2b506ba25a2b2f40003965436a0e2\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a2d2b506ba25a2b2f40003965436a0e2\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a2d2b506ba25a2b2f40003965436a0e2\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a2d2b506ba25a2b2f40003965436a0e2\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\a2d2b506ba25a2b2f40003965436a0e2\AndroidManifest.xml:27:13-77
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:48:25-92
+receiver#com.facebook.CampaignTrackingReceiver
+ADDED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:51:9-58:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:53:13-36
+	android:permission
+		ADDED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:54:13-69
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.9.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\4d86e65e91018444d3fca427a3e2a4cf\AndroidManifest.xml:52:13-65
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\dbc69854e1e7bb50f70ed86d8884304b\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7d50d99c47f09ff6d98e5958b9f040c7\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7d50d99c47f09ff6d98e5958b9f040c7\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\dbc69854e1e7bb50f70ed86d8884304b\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\dbc69854e1e7bb50f70ed86d8884304b\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\dbc69854e1e7bb50f70ed86d8884304b\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\dbc69854e1e7bb50f70ed86d8884304b\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\dbc69854e1e7bb50f70ed86d8884304b\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7d50d99c47f09ff6d98e5958b9f040c7\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7d50d99c47f09ff6d98e5958b9f040c7\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7d50d99c47f09ff6d98e5958b9f040c7\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7d50d99c47f09ff6d98e5958b9f040c7\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7d50d99c47f09ff6d98e5958b9f040c7\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7d50d99c47f09ff6d98e5958b9f040c7\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\7d50d99c47f09ff6d98e5958b9f040c7\AndroidManifest.xml:33:13-132
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.8] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\f5b7e106806660e74b73f471cf9f3930\AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\acf4c9e922a6bbe7ee837a97dfda9b2e\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\acf4c9e922a6bbe7ee837a97dfda9b2e\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\acf4c9e922a6bbe7ee837a97dfda9b2e\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\acf4c9e922a6bbe7ee837a97dfda9b2e\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\acf4c9e922a6bbe7ee837a97dfda9b2e\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\acf4c9e922a6bbe7ee837a97dfda9b2e\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\acf4c9e922a6bbe7ee837a97dfda9b2e\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\acf4c9e922a6bbe7ee837a97dfda9b2e\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\acf4c9e922a6bbe7ee837a97dfda9b2e\AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\91cdfd0cdd16e0f3a2393d17a6badaf9\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\91cdfd0cdd16e0f3a2393d17a6badaf9\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.2] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\87ef7e05e5787368aefd3c0259afe1ee\AndroidManifest.xml:40:13-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\fd7f4086540154d8e817649affe05a09\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\fd7f4086540154d8e817649affe05a09\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\fd7f4086540154d8e817649affe05a09\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\oana-george\.gradle\caches\transforms-2\files-2.1\fd7f4086540154d8e817649affe05a09\AndroidManifest.xml:24:13-79

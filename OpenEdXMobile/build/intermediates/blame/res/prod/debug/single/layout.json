@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_payments_info.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_payments_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\item_course_date_block.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\item_course_date_block.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\layout_course_dates_banner.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\layout_course_dates_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_webview_discovery.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_webview_discovery.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_course_unit_grade.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_course_unit_grade.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\reset_password_dialog.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\reset_password_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_user_profile.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_main_discovery.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_main_discovery.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\subject_item.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\subject_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\auth_panel.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\auth_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_course_dates_page.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_course_dates_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_tabs_base.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_tabs_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\activity_discovery_launch.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\activity_discovery_launch.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\panel_find_course.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\panel_find_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_my_courses_list.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_my_courses_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\button_progress_indicator.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\button_progress_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\accomplishment_item.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\accomplishment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\panel_google_button.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\panel_google_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_payments_banner.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_payments_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_webview.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\content_error.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\content_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_whats_new.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_whats_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\sub_item_course_date_block.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\sub_item_course_date_block.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\row_bulk_download.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\row_bulk_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\activity_launch.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\activity_launch.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_dialog_rating.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_dialog_rating.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\dialog_upgrade_features.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\dialog_upgrade_features.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_view_subjects.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_view_subjects.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\panel_social_auth.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\panel_social_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\panel_microsoft_button.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\panel_microsoft_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_account.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\panel_facebook_button.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\panel_facebook_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\panel_filter_by_subject.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\panel_filter_by_subject.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_whats_new_item.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_whats_new_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\subject_item_grid.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\subject_item_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_locked_course_unit.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_locked_course_unit.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\view_subjects_item.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\view_subjects_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_user_profile_bio.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_user_profile_bio.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\loading_indicator.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\loading_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_dashboard_error_layout.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_dashboard_error_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_user_profile_accomplishments.xml",
+        "source": "C:\\Users\\oana-george\\projects\\telacad\\edx-client\\edx-app-android\\OpenEdXMobile\\res\\layout\\fragment_user_profile_accomplishments.xml"
+    }
+]

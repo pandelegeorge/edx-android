@@ -1,0 +1,1 @@
+[{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"0.0.1","enabled":true,"outputFile":"edx-debug-0.0.1.apk","fullName":"prodDebug","baseName":"prod-debug"},"path":"resources-prodDebug.ap_","properties":{"packageId":"org.edx.mobile","split":"","minSdkVersion":"21"}}]

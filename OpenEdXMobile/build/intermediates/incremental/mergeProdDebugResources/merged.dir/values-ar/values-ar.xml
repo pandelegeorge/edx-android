@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="delete_video_snackbar_msg">
+    <item quantity="zero">تم حذف %s مقطع فيديو</item>
+    <item quantity="one">تم حذف %s مقطع فيديو</item>
+    <item quantity="two">تم حذف %s مقاطع فيديو</item>
+    <item quantity="few">تم حذف %s مقاطع فيديو</item>
+    <item quantity="many">تم حذف %s مقطع فيديو</item>
+    <item quantity="other">تم حذف %s مقطع فيديو</item>
+  </plurals>
+    <plurals name="discussion_responses_action_bar_vote_text">
+    <item quantity="zero">{quantity} أصوات</item>
+    <item quantity="one">{quantity} صوت</item>
+    <item quantity="two">{quantity} صوت</item>
+    <item quantity="few">{quantity} أصوات</item>
+    <item quantity="many">{quantity} صوت</item>
+    <item quantity="other">{quantity} صوت</item>
+  </plurals>
+    <plurals name="download_total">
+    <item quantity="zero">{total_videos_count} فيديو، {total_videos_size} إجمالاً</item>
+    <item quantity="one">فيديو واحد ({total_videos_count})، {total_videos_size} إجمالاً</item>
+    <item quantity="two">فيديوهان ({total_videos_count})، {total_videos_size} إجمالاً</item>
+    <item quantity="few">{total_videos_count} فيديوهات، {total_videos_size} إجمالاً</item>
+    <item quantity="many">{total_videos_count} فيديو، {total_videos_size} إجمالاً</item>
+    <item quantity="other">{total_videos_count} فيديو، {total_videos_size} إجمالاً</item>
+  </plurals>
+    <plurals name="number_responses_or_comments_comments_label">
+    <item quantity="zero">%s تعليق</item>
+    <item quantity="one">%s تعليق</item>
+    <item quantity="two">%s تعليقان</item>
+    <item quantity="few">%s تعليقات</item>
+    <item quantity="many">%s تعليقات</item>
+    <item quantity="other">%s تعليقات</item>
+  </plurals>
+    <plurals name="number_responses_or_comments_responses_label">
+    <item quantity="zero">%s رد</item>
+    <item quantity="one">%s رد</item>
+    <item quantity="two">%s رد</item>
+    <item quantity="few">%s ردود</item>
+    <item quantity="many">%s ردود</item>
+    <item quantity="other">%s ردود</item>
+  </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"التوجه إلى المنزل"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"خيارات أكثر"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"تم"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"تفعيل"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"حذف"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"فضاء"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"القائمة+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"بحث…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"طلب بحث"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"البحث"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"بحث صوتي"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="action_not_completed">لم يتم إتمام الأمر الخاص بك</string>
+    <string name="allow">السماح</string>
+    <string name="already_have_an_account">قمت بإنشاءِ حسابٍ مسبقاً؟ سجل الدخول</string>
+    <string name="android">أندرويد</string>
+    <string name="android_device_model">طراز الجهاز:</string>
+    <string name="android_os_version">نظام أندرويد:</string>
+    <string name="announcement_subtitle">أبقني على اطلاع على أحدث الأخبار</string>
+    <string name="announcement_title">الإعلانات</string>
+    <string name="app_version">إصدار التطبيق:</string>
+    <string name="app_version_outdated">نسخة جديدة من التطبيق متوفرة حالياً.</string>
+    <string name="app_version_unsupported">النسخة التي لديك من التطبيق لم تعُد مدعومة.</string>
+    <string name="app_version_unsupported_login_msg">النسخة التي لديك من التطبيق لم تعُد مدعومة. أحصل على أحدث نسخة لتسجل الدخول.</string>
+    <string name="app_version_unsupported_register_msg">النسخة التي لديك من التطبيق لم تعُد مدعومة. أحصل على أحدث نسخة للتسجيل.</string>
+    <string name="app_version_upgrade_app_store_unavailable">لم يتم العثور على متجر تطبيقات مدعوم على الجهاز.</string>
+    <string name="assessment_empty">ليس هناك محتوى تعليمي في هذا القسم.</string>
+    <string name="assessment_explore_on_web">استكشف أجزاء المساق الأخرى أو استعرض هذا المكوّن باستخدام الويب.</string>
+    <string name="assessment_needed_updating_youtube">لمشاهدة هذا الفيديو، يجب تحديث تطبيق YouTube.</string>
+    <string name="assessment_next">التالي</string>
+    <string name="assessment_not_available">هذا المكوّن التفاعلي غير متوفر بعد على الأجهزة المحمولة.</string>
+    <string name="assessment_only_on_youtube">يمكن مشاهدة هذا الفيديو فقط على يوتيوب.</string>
+    <string name="assessment_open_on_youtube">مشاهدة الفيديو على يوتيوب</string>
+    <string name="assessment_previous">السابق</string>
+    <string name="assessment_rotate_for_fullscreen">دوّر جهازك لتعرض مقطع الفيديو على شاشة كاملة.</string>
+    <string name="assessment_soon">قريبًا</string>
+    <string name="assessment_unable_to_play_video">خطأ في المشغّل</string>
+    <string name="assessment_unable_to_play_video_message">يتعذّر تشغيل هذا الفيديو. يمكنك مشاهدته على تطبيق YouTube أو إعادة المحاولة لاحقًا.</string>
+    <string name="assessment_update_youtube">تحديث YouTube</string>
+    <string name="assessment_view_on_web">استعرض باستخدام متصّفحك</string>
+    <string name="audit_access_expires_on">تنتي صلاحية دخولك كمستع في تاريخ  {date}</string>
+    <string name="browse_by_subject">استكشاف بحسب الموضوع</string>
+    <string name="bulk_download_switch">مفتاح تبديل التحميل المجمّع للفيديوهات.</string>
+    <string name="by_creating_account">يعني إنشاء حساب أنك توافق على {license} و{tos_and_honor_code}، كما يعني موافقتك على تمكين {platform_name} وجميع الأعضاء من معالجة بياناتك الشخصية بموجب {privacy_policy}</string>
+    <string name="by_signing_in">يعني تسجيل الدخول إلى هذا التطبيق أنك توافق على {license} و{tos_and_honor_code}، كما يعني موافقتك على تمكين {platform_name} وجميع الأعضاء من معالجة بياناتك الشخصية بموجب {privacy_policy}</string>
+    <string name="cancel_download">إلغاء التحميل</string>
+    <string name="cannot_open_url">يتعذّر فتح صفحة الويب.</string>
+    <string name="cannot_show_dashboard">تعذّر عرض لوحة المعلومات</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"إعلان"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"‏جارٍ الإرسال إلى %1$s"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"الترجمة والشرح"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"الترجمة والشرح غير متاحة"</string>
+    <string msgid="6769392312239056170" name="cast_connecting_to_device">"جارٍ الاتصال بـ <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"إلغاء الربط"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"‏الصورة المعروضة أثناء تشغيل مستقبل cast لأحد الإعلانات"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"الإعلان قيد التقدم..."</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"صورة الألبوم"</string>
+    <string msgid="8879956505757481681" name="cast_expanded_controller_live_head_description">"الموضع الحالي في مقدمة البث المباشر"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"بث مباشر"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"جارٍ التحميل…"</string>
+    <string msgid="8524154027649233400" name="cast_expanded_controller_skip_ad_label">"تخطي الإعلان"</string>
+    <string msgid="1171005989073753111" name="cast_expanded_controller_skip_ad_text">"‏يمكنك تخطي الإعلان بعد %1$d…"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"إلى الأمام"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"إلى الأمام عشر ثوانٍ"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"إلى الأمام ثلاثين ثانية"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="2177473333963666559" name="cast_live_label">"بث مباشر"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"كتم الصوت"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"تم الاتصال بـ <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"جارٍ الاتصال بـ <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2568179715202151240" name="cast_notification_default_channel_name">"Cast"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"إلغاء الربط"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"إيقاف مؤقت"</string>
+    <string msgid="5906987965619702702" name="cast_play">"تشغيل"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"إرجاع"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"إرجاع عشر ثوانٍ"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"إرجاع ثلاثين ثانية"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"تشغيل شريط التحكم"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"التخطي إلى العنصر التالي"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"التخطي إلى العنصر السابق"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"إيقاف"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"إيقاف البث المباشر"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"الصوت"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"إلغاء"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"الترجمة والشرح"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"المقطع الصوتي <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"لا شيء"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"موافق"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"الترجمات المصاحبة"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"إعادة الصوت"</string>
+    <string name="close">إغلاق</string>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">تفضل بزيارة &lt;b>facebook.com/device&lt;/b> وإدخال الرمز الموضح أعلاه.</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">حدث خطأ غير متوقع أثناء تنزيل صورة.</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">يتطلب تسجيل دخول WebView الحصول إلى إذن INTERNET</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">خطأ AndroidManifest</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">أعجبك</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">أعجبني</string>
+    <string gender="unknown" name="com_facebook_loading">جارٍ التحميل…</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">إلغاء</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">تسجيل الدخول</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">متابعة بحساب فيسبوك</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">تسجيل الدخول بحساب فيسبوك</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">تسجيل الخروج</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">تسجيل الخروج</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">تم تسجيل الدخول باسم: %1$s</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">تم تسجيل الدخول باستخدام حساب فيسبوك</string>
+    <string gender="unknown" name="com_facebook_send_button_text">إرسال</string>
+    <string gender="unknown" name="com_facebook_share_button_text">مشاركة</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">لربط حسابك، افتح تطبيق فيسبوك على جهازك المحمول وراجع الإشعارات.</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">- أو -</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">لست أنت؟</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">متابعة باسم %1$s</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">تأكيد تسجيل الدخول</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">أنت المتحكم في الأمر - يمكنك اختيار المعلومات التي تود مشاركتها مع التطبيقات.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"تفعيل"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏لن يعمل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تفعيل خدمات Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"‏تفعيل خدمات Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"تثبيت"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي لا تتوفر على جهازك."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"‏الحصول على خدمات Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"‏مدى توفّر خدمات Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"‏خطأ في خدمات Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏لدى <ns1:g id="APP_NAME">%1$s</ns1:g> مشكلة في خدمات Google Play. يُرجى إعادة المحاولة."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play التي لا يوفرها جهازك."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"تحديث"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تحديث خدمات Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"‏تحديث خدمات Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي يتم تحديثها حاليًا."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"فتح على الهاتف"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"تسجل الدخول"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"‏تسجيل الدخول عبر Google"</string>
+    <string name="complete_registration">أكمل تسجيلك</string>
+    <string name="confirm_dialog_message_help">أدخل البريد الإلكتروني الخاص بحسابك وسنرسل لك تعليمات لإعادة ضبط كلمة المرور.</string>
+    <string name="confirm_dialog_title_help">استعادة كلمة السر</string>
+    <string name="course_access_expired">لم تعد مخولاً للوصول إلى هذا المساق</string>
+    <string name="course_content">محتوى المساق</string>
+    <string name="course_dates_subtitle">تتبع المواعيد النهائية لتبقى على المسار</string>
+    <string name="course_dates_title">تواريخ مهمة</string>
+    <string name="course_details_congratulations">تهانينا!</string>
+    <string name="course_details_earned_cert">لقد اجتزت المساق.</string>
+    <string name="course_details_view_cert_button">عرض الشهادة</string>
+    <string name="course_discussion_answered_title">سؤال أُجيب عنه</string>
+    <string name="course_discussion_unanswered_title">سؤال لم تجري الإجابة عنه</string>
+    <string name="course_error_content_invalid">تعذّر تحميل محتوى المساق. الرجاء المحاولة لاحقًا.</string>
+    <string name="course_name">اسم المساق</string>
+    <string name="course_not_started">هذا المساق لم يبدأ بعد</string>
+    <string name="courseware_subtitle">الوصول إلى مقاطع الفيديو والواجبات</string>
+    <string name="courseware_title">المساق</string>
+    <string name="create_account_btn">زر أنشئ حسابي</string>
+    <string name="create_account_text">أنشئ حسابي الجديد</string>
+    <string name="creating_account_text">جاري إنشاء الحساب...</string>
+    <string name="default_notification_channel_title">الإشعارات العامة</string>
+    <string name="delete_videos_title">حذف مقاطع الفيديو</string>
+    <string name="discussion_add_comment_button_description">زر أضافة تعليق</string>
+    <string name="discussion_add_comment_button_label">أضف تعليق</string>
+    <string name="discussion_add_comment_disabled_title">لقد أُغلقت التعليقات على هذا الردّ</string>
+    <string name="discussion_add_comment_title">أضف تعليقًا</string>
+    <string name="discussion_add_post_button_description">زر نشر نقاش</string>
+    <string name="discussion_add_post_button_label">انشر نقاشًا</string>
+    <string name="discussion_add_post_topic_selection">الموضوع: {topic}</string>
+    <string name="discussion_add_question_button_description">زر نشر سؤال</string>
+    <string name="discussion_add_question_button_label">اطرح سؤال</string>
+    <string name="discussion_add_response_button_description">زر إضافة إجابة</string>
+    <string name="discussion_add_response_button_label">أضف إجابة</string>
+    <string name="discussion_add_response_disabled_title">لقد أُغلقت الردود على هذه المشاركة</string>
+    <string name="discussion_add_response_title">أضف ردّ</string>
+    <string name="discussion_comment_posted">تم إضافة تعليقك.</string>
+    <string name="discussion_comments">تعليقات</string>
+    <string name="discussion_post_author_attribution">من قبل {author}</string>
+    <string name="discussion_post_author_label_attribution">({text})</string>
+    <string name="discussion_post_create_new_post">أنشىء مشاركة جديدة</string>
+    <string name="discussion_post_endorsed">مصادق عليه</string>
+    <string name="discussion_post_last_interaction_date">آخر منسو: {date}</string>
+    <string name="discussion_post_marked_as_answer">تم تحديده كجواب</string>
+    <string name="discussion_post_title">العنوان</string>
+    <string name="discussion_post_total_replies">{total_replies} المجموع</string>
+    <string name="discussion_post_visibility_cohort">هذه المشاركة ظاهرة لمجموعة {cohort} فقط</string>
+    <string name="discussion_post_visibility_everyone">هذه المشاركة ظاهرة للجميع</string>
+    <string name="discussion_posts_filter_all_posts">جميع المشاركات</string>
+    <string name="discussion_posts_filter_unanswered_posts">بلا جواب</string>
+    <string name="discussion_posts_filter_unread_posts">غير مقروء</string>
+    <string name="discussion_posts_refine">حسّن عملية التصنيف:</string>
+    <string name="discussion_posts_search_title">نتائج البحث</string>
+    <string name="discussion_posts_sort_most_activity">مُعظم الأنشطة</string>
+    <string name="discussion_posts_sort_most_votes">مُعظم الأصوات</string>
+    <string name="discussion_posts_sort_recent_activity">الأنشطة الأخيرة</string>
+    <string name="discussion_question">سؤال</string>
+    <string name="discussion_response_posted">تم إضافة إجابتك</string>
+    <string name="discussion_responses_answer">إجابة</string>
+    <string name="discussion_responses_endorsed">مصادق عليه</string>
+    <string name="discussion_responses_report_label">أبلّغ عن محتوى غير مرغوب فيه</string>
+    <string name="discussion_responses_reported_label">إلغاء البلاغ</string>
+    <string name="discussion_subtitle">انضم إلى المحادثة</string>
+    <string name="discussion_title">النقاش</string>
+    <string name="discussion_topics_title">مواضيع النقاش</string>
+    <string name="do_not_allow">عدم السماح</string>
+    <string name="download_complete">تم تحميل جميع ملفات الفيديو</string>
+    <string name="download_exceed_title">حجم المفات كبير</string>
+    <string name="download_failed_text">فشل التحميل</string>
+    <string name="download_pending">التحميل معلّق...</string>
+    <string name="download_remaining">عدد الفيديوهات المتبقية: {remaining_videos_count}، إجمالي حجم الفيديوهات: {remaining_videos_size}</string>
+    <string name="download_starting">بدء التحميل...</string>
+    <string name="download_to_device">تحميل في الجهاز</string>
+    <string name="downloading_videos">تحميل ملفات الفيديو...</string>
+    <string name="dropdown_list_prefix">قائمة منسدلة</string>
+    <string name="due_date_past_future">مستحق في {due_date}</string>
+    <string name="due_date_today">مستحق اليوم في {due_date}</string>
+    <string name="edit_user_profile_change_photo">تغيير</string>
+    <string name="edit_user_profile_change_photo_description">غير صورتك الشخصية</string>
+    <string name="edit_user_profile_choose_photo">اختر صورة</string>
+    <string name="edit_user_profile_current_language">اللغة الحالية: {current_language}</string>
+    <string name="edit_user_profile_current_location">الموقع الحالي: {current_location}</string>
+    <string name="edit_user_profile_field">{label}: {value}</string>
+    <string name="edit_user_profile_field_placeholder">تحديد</string>
+    <string name="edit_user_profile_photo_crop_cancel">تجاهل</string>
+    <string name="edit_user_profile_photo_crop_save">اختر</string>
+    <string name="edit_user_profile_photo_crop_title">قص وتعديل الحجم</string>
+    <string name="edit_user_profile_remove_photo">إزالة الصورة</string>
+    <string name="edit_user_profile_take_photo">التقط صورة</string>
+    <string name="edit_user_profile_textarea_submit_button">أرسال</string>
+    <string name="edit_user_profile_title">تعديل الصفحة الشخصيّة</string>
+    <string name="effort_field_name">المجهود</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="email_chooser_header">أرسل بريداً إلكترونياً باستخدام:</string>
+    <string name="email_client_not_present">لم يتم العثور على تطبيقات بريد إلكتروني لديك</string>
+    <string name="email_subject">ملاحظات المستخدمين</string>
+    <string name="email_username">اسم المستخدم أو البريد الإلكتروني</string>
+    <string name="end_user_title">اتفاقية ترخيص للمستخدم</string>
+    <string name="enroll_now_button_text">سجّل الآن</string>
+    <string name="enrollment_error_message">تعذر تسجيلك فى هذا المساق حاليا باستخدام تطبيق  {platform_name}. الرجاء المحاولة مجددًا باستخدام متصفحك. </string>
+    <string name="enrollment_error_title">خطأ في التسجيل</string>
+    <string name="enrollment_failure">ﻻ يمكننا تسجيلك في هذا المساق حالياً.</string>
+    <string name="error_account_not_linked_desc_fb">تأكد من أن حساب الفيسبوك الخاص بك مرتبط  مع حسابك  {platform_name} في  {platform_destination}</string>
+    <string name="error_account_not_linked_desc_fb_2">هذا الحساب على منصة الفيسبوك غير مرتبط بأي حساب {platform_name}؛ رجاء بادر إلى التسجيل.</string>
+    <string name="error_account_not_linked_desc_google">تأكد من أن حساب قوقل الخاص بك مرتبط مع حسابك  {platform_name} في {platform_destination}</string>
+    <string name="error_account_not_linked_desc_google_2">هذا الحساب على جوجل غير مرتبط بأي حساب {platform_name}؛ رجاء بادر إلى التسجيل.</string>
+    <string name="error_account_not_linked_title_fb">حساب الفيسبوك ليس مرتبط بحساب  {platform_name} </string>
+    <string name="error_account_not_linked_title_google">حساب قوقل غير مرتبط بحساب  {platform_name}</string>
+    <string name="error_download_failed">فشل التحميل</string>
+    <string name="error_enter_email">أدخل بريدك الإلكتروني، أو اسم المستخدم وحاول مرة أخرى.</string>
+    <string name="error_enter_field">رجاء أدخل  %1$s.</string>
+    <string name="error_enter_password">قم بإدخال كلمة السر وحاول مرة أخرى.</string>
+    <string name="error_heading">حدث هذا الخطأ عندما تمت محاولة تسجيل دخولك</string>
+    <string name="error_invalid_email">تأكد من إدخال بريدك الإلكتروني بالشكل الصحيح، وحاول مرة أخرى.</string>
+    <string name="error_max_length"> %1$s يجب أن يتكون من %2$d أحرف الأقل.</string>
+    <string name="error_message">حدث خطأ</string>
+    <string name="error_min_length"> %1$s يجب أن يتكون من %2$d أحرف الأقل.</string>
+    <string name="error_unknown">خطأ غير معروف، الرجاء المحاولة لاحقاً.</string>
+    <string name="exo_controls_fastforward_description">تقديم سريع</string>
+    <string name="exo_controls_fullscreen_description">وضع ملء الشاشة</string>
+    <string name="exo_controls_next_description">المقطع الصوتي التالي</string>
+    <string name="exo_controls_pause_description">إيقاف مؤقت</string>
+    <string name="exo_controls_play_description">تشغيل</string>
+    <string name="exo_controls_previous_description">المقطع الصوتي السابق</string>
+    <string name="exo_controls_repeat_all_description">تكرار الكل</string>
+    <string name="exo_controls_repeat_off_description">عدم التكرار</string>
+    <string name="exo_controls_repeat_one_description">تكرار مقطع صوتي واحد</string>
+    <string name="exo_controls_rewind_description">إرجاع</string>
+    <string name="exo_controls_shuffle_description">ترتيب عشوائي</string>
+    <string name="exo_controls_stop_description">إيقاف</string>
+    <string name="exo_download_completed">اكتمل التنزيل</string>
+    <string name="exo_download_description">تنزيل</string>
+    <string name="exo_download_downloading">جارٍ التنزيل.</string>
+    <string name="exo_download_failed">تعذّر التنزيل</string>
+    <string name="exo_download_notification_channel_name">التنزيلات</string>
+    <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
+    <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
+    <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">تلقائي</string>
+    <string name="exo_track_selection_none">بدون اختيار</string>
+    <string name="exo_track_selection_title_audio">صوت</string>
+    <string name="exo_track_selection_title_text">نص</string>
+    <string name="exo_track_selection_title_video">فيديو</string>
+    <string name="exo_track_stereo">استريو</string>
+    <string name="exo_track_surround">صوت مجسّم</string>
+    <string name="exo_track_surround_5_point_1">صوت مجسّم 5.1</string>
+    <string name="exo_track_surround_7_point_1">صوت مجسّم 7.1</string>
+    <string name="exo_track_unknown">غير معروف</string>
+    <string name="facebook_text">فيسبوك</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"متنوعة"</string>
+    <string name="feedback_dialog_message">ساعدنا لنتحسن!</string>
+    <string name="feedback_dialog_title">إرسال ملاحظات؟</string>
+    <string name="file_size_exceeded">حجم التحميل يتجاوز المساحة المتبقية على جهازك.</string>
+    <string name="find_course_btn_text">ابحث عن مساق</string>
+    <string name="find_course_text">هل تبحثُ عن تحدٍ جديد؟</string>
+    <string name="forgot_password">هل نسيت كلمة السر؟</string>
+    <string name="forum_follow">تابع</string>
+    <string name="forum_no_results_for_all_posts">لا توجد مشاركات تخص نقاش المساق هذا.</string>
+    <string name="forum_no_results_for_filtered_following">نتائج المرشح لا تتضمن أي منشورات متابعة.</string>
+    <string name="forum_no_results_for_following">لم تقم بمتابعة أي نقاشات بعد.</string>
+    <string name="forum_no_results_for_search_query">تعذّر إيجاد نتائج للاستعلام \"{search_query}\". يُرجى إعادة المحاولة باستخدام عبارة أخرى أو اختر فئة نقاش لاستعراضها.</string>
+    <string name="forum_no_results_in_category">لا توجد مشاركات في فئة النقاش هذه.</string>
+    <string name="forum_no_results_with_filter">جرّب إزالة مرشّح مشاركاتك.</string>
+    <string name="forum_post_i_am_following">المشاركات التي أتابعها</string>
+    <string name="forum_unfollow">إلغاء المتابعة</string>
+    <string name="go_to_video">اذهب إلى الفيديو</string>
+    <string name="google_text">جوجل</string>
+    <string name="handouts_subtitle">جد معلومات مهمة عن المساق</string>
+    <string name="handouts_title">النشرات</string>
+    <string name="hide_optional_text">أخفي الحقول الاختيارية</string>
+    <string name="insert_feedback">ملاحظات:</string>
+    <string name="introducing_cast_text">التعريف بتقنية Cast</string>
+    <string name="invitation_only_button_text">بالدعوات فقط</string>
+    <string name="just_now">في هذه اللحظة</string>
+    <string name="label_cancel">تجاهل</string>
+    <string name="label_close">إغلاق</string>
+    <string name="label_continue">استمر</string>
+    <string name="label_current_downloads">عرض التحميلات الحاليّة</string>
+    <string name="label_degrees">الدرجات العلمية</string>
+    <string name="label_delete">حذف</string>
+    <string name="label_discover">إستكشف</string>
+    <string name="label_discovery">استكشاف الدورات التدريبية</string>
+    <string name="label_done">تم</string>
+    <string name="label_download">تحميل</string>
+    <string name="label_ended">انتهى في {date}</string>
+    <string name="label_ending">ينتهي في {date}</string>
+    <string name="label_error">خطأ</string>
+    <string name="label_expired">انتهت صلاحية الوصول إلى الدورة التدريبية {date}</string>
+    <string name="label_expired_on">انتهت صلاحية الوصول إلى الدورة التدريبية في {date}</string>
+    <string name="label_expires">ستنتهي صلاحية الوصول إلى الدورة التدريبية {date}</string>
+    <string name="label_expires_on">ستنتهي صلاحية الوصول إلى الدورة التدريبية في {date}</string>
+    <string name="label_find_courses">استكشف المساقات</string>
+    <string name="label_maybe_later">ربما لاحقاً</string>
+    <string name="label_my_courses">المساقات</string>
+    <string name="label_my_programs">البرامج</string>
+    <string name="label_no">لا</string>
+    <string name="label_ok">حسناً</string>
+    <string name="label_rate_the_app">قيّم التطبيق</string>
+    <string name="label_send_feedback">أرسل ملاحظاتك</string>
+    <string name="label_settings">الإعدادات</string>
+    <string name="label_starting">يبدأ في {date}</string>
+    <string name="label_submit">إرسال</string>
+    <string name="label_submit_feedback">أرسل ملاحظاتك</string>
+    <string name="label_undo">رجوع</string>
+    <string name="label_update">تحديث</string>
+    <string name="label_version">نوع إصدار التطبيق</string>
+    <string name="label_yes">نعم</string>
+    <string name="last_accessed">آخر زيارة</string>
+    <string name="lbl_cc_none">ما من ترجمة</string>
+    <string name="lbl_closed_caption">العناوين الفرعية مغلقة</string>
+    <string name="lbl_reload">إعادة التحميل</string>
+    <string name="lbl_showing_only_videos">يتم عرض ملفات الفيديو فقط</string>
+    <string name="lbl_slash">/
+</string>
+    <string name="lbl_video_speed">سرعة الفيديو</string>
+    <string name="lbl_view_on_web">العرض على الموقع الإلكتروني</string>
+    <string name="leaving_app_data_message">إذا غادرت التطبيق، فلن تعود تتصفح محتويات {platform_name} المجانية. ربما يتم تطبيق رسوم البيانات.</string>
+    <string name="leaving_app_data_title">مغادرة تطبيق {platform_name}</string>
+    <string name="licensing_agreement">اتفاقية ترخيص المستخدم في {platform_name}</string>
+    <string name="locked_content_details">التقييمات المتدرجة متاحة للتلاميذ المعتمدين. قم بالترقية أدناه لفتح هذه الخاصية.</string>
+    <string name="locked_content_header">متاح لتأكيد التلاميذ</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="login_btn">زر تسجيل الدخول</string>
+    <string name="login_error">خطأ في تسجيل الدخول</string>
+    <string name="login_failed">رجاء تأكد من أنك تستخدم البريد الإلكتروني أو اسم المستخدم وكلمة السر الصحيحين، وحاول مرة أخرى.</string>
+    <string name="login_title">تسجيل الدخول</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="media_route_menu_title">تشغيل التطبيق على…</string>
+    <string name="microsoft_text" ns2:ignore="MissingTranslation">مايكروسوفت</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"زر الإرسال"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"زر الإرسال. تم الاتصال"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"زر الإرسال. جارٍ الاتصال"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"زر الإرسال. تم قطع الاتصال"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"جارٍ البحث عن أجهزة"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"إرسال إلى"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"صورة الألبوم"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"جارٍ إرسال الشاشة"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"إغلاق"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"تصغير"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"قطع اتصال"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"توسيع"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"لا تتوفر أي معلومات"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"لم يتم اختيار أي وسائط"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"إيقاف مؤقت"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"تشغيل"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"إيقاف"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"إيقاف الإرسال"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"شريط تمرير مستوى الصوت"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"النظام"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"الأجهزة"</string>
+    <string name="msg_started_one_video_download">يجري تحميل 1 ملف فيديو</string>
+    <string name="msg_video_not_available">ﻻ يمكن الوصول إلى ملف الفيديو. \n حاول مرة أخرى لاحقاً.</string>
+    <string name="msg_video_not_downloaded">ﻻ يمكن تنزيل ملف الفيديو</string>
+    <string name="need_data">هذه الميزة تتطلب منك أن تكون متصلًا بشبكة الإنترنت.</string>
+    <string name="network_connected_error">خطأ في الاتصال.الرجاء تفقد حالة اتصالك بالانترنت</string>
+    <string name="network_error_header">خطأ أثناء تحميل الفيديو</string>
+    <string name="network_error_message">رجاء تأكد من اتصالك بالإنترنت.</string>
+    <string name="network_not_connected">أنت غير متصل بالإنترنت.</string>
+    <string name="network_not_connected_short">ﻻ يمكن الوصول للشبكة</string>
+    <string name="network_service_unavailable">الخدمة غير متوفرة.الرجاء المحاولة لاحقاً</string>
+    <string name="new_course_content">محتويات المساق الجديد</string>
+    <string name="no_announcements_to_display">ﻻ يحتوي المساق على أيّةِ إعلانات.</string>
+    <string name="no_chapter_text">محتويات المساق غير متوفرة حالياً.</string>
+    <string name="no_connectivity">خطأ في الاتصال</string>
+    <string name="no_course_dates_to_display">مواعيد المساق غير متوفرة حاليا</string>
+    <string name="no_courses_to_display">يبدو أنك لم تسجل في المساق بعد</string>
+    <string name="no_handouts_to_display">ﻻ يحتوي المساق على أيّةِ منشورات.</string>
+    <string name="no_videos_text">هذا المساق لا يتضمن أي مقاطع فيديو</string>
+    <string name="notification_toggle">السماح بالإشعارات</string>
+    <string name="offline_text">غير متصل بالشبكة</string>
+    <string name="open_external_url_desc">هذا الرابط سيقوم بفتح متصفح الإنترنت، وربما يكلفك هذا رسوماً لتنزيل البيانات.</string>
+    <string name="open_external_url_title">قد يتم تطبيق رسوم البيانات.</string>
+    <string name="open_profile_button">الدخول إلى صفحتك الشخصية</string>
+    <string name="or_register_with_email">أو سجّل اشتراكك باستخدام البريد الإلكتروني</string>
+    <string name="or_sign_in_with">أو سجل الدخول باستخدم</string>
+    <string name="password">كلمة السر</string>
+    <string name="payments_info_details">إبراز معرفتك ومهاراتك الجديدة من خلال شهادة موثقة استخدم بيانات الاعتماد القيّمة هذه لتحسين فرص وظيفتك وتعزيز حياتك المهنية ، أو إبراز شهادتك في تطبيقات المدرسة.</string>
+    <string name="payments_info_header">تعقب موثوقية الشهادة</string>
+    <string name="permission_not_granted">لا تمتلك الصلاحيات اللازمة</string>
+    <string name="place_order_title">إرسال طلب</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="profile_about_me_description">معلومات عني:  {about_me}</string>
+    <string name="profile_consent_needed_edit_button">إعدادات الحساب</string>
+    <string name="profile_consent_needed_explanation">يجب أن يتجاوز عمرك 13 عامًا لتتمكّن من مشاركة صفحتك الشخصية بالكامل.</string>
+    <string name="profile_incomplete_about_me">لم يتم تزويد \"معلومات شخصية\"</string>
+    <string name="profile_incomplete_edit_button">ابدأ</string>
+    <string name="profile_incomplete_explanation">يبدو أن ملفك الشخصي غير مكتمل. دعنا نساعدك لتبدأ.</string>
+    <string name="profile_language_description">اللغة: {language}</string>
+    <string name="profile_location_description">الموقع: {location}</string>
+    <string name="profile_sharing_limited_by_other_user">هذا الشخص حاليًا يشارك جزء محدود من معلومات صفحته الشخصية.</string>
+    <string name="profile_sharing_limited_by_you">تشارك حاليًا جزء محدود من معلومات صفحتك الشخصية.</string>
+    <string name="profile_tab_accomplishment">الإنجازات</string>
+    <string name="profile_tab_bio">عن المستخدم</string>
+    <string name="profile_title">الصفحة الشخصية</string>
+    <string name="profile_toolbar_edit_button">تعديل</string>
+    <string name="profile_username_description">اسم المستخدم: {username}</string>
+    <string name="progress_text">انتظر من فضلك</string>
+    <string name="rate_app_dialog_message">أخبر الآخرين برأيك في تطبيق {platform_name} من خلال كتابة مراجعة سريعة</string>
+    <string name="rate_app_dialog_title">قيّم التطبيق</string>
+    <string name="rating_bar">التحكم بالتقييم</string>
+    <string name="rating_bar_selection">{rating} من {num_of_stars}</string>
+    <string name="rating_dialog_message">كيف تقييم التطبيق؟</string>
+    <string name="register_title">تسجيل الاشتراك</string>
+    <string name="register_with">تسجيل الاشتراك باستخدام</string>
+    <string name="registration_error_message">حدث الحقول المحددة وحاولة مرة أخرى.</string>
+    <string name="registration_error_title">خطأ في التسجيل</string>
+    <string name="remote_device_casting_message">جارٍ بث الفيديو على جهاز بعيد</string>
+    <string name="reset_no_network_message">أنت غير متصلِ بالإنترنت. رجاء تأكد من اتصالك به.</string>
+    <string name="reset_no_network_title">خطأ في الاتصال</string>
+    <string name="resources_title">الموارد</string>
+    <string name="review_email_subject">آراء المستخدمين</string>
+    <string name="search_for_courses">البحث عن مساقات</string>
+    <string name="search_for_degrees">البحث عن درجات علمية</string>
+    <string name="search_for_programs">البحث عن برامج</string>
+    <string msgid="730395136688082741" name="search_menu_title">"البحث"</string>
+    <string name="search_subjects">موضوع البحث</string>
+    <string name="settings_download_to_sdcard_subtitle">سيتم تحميل الفيديوهات إلى كرت الذاكرة في حال التمكن من ذلك</string>
+    <string name="settings_download_to_sdcard_title">تحميل الفيديو إلى كرت الذاكرة</string>
+    <string name="settings_txt">الإعدادات</string>
+    <string name="settings_wifi_bottom">تحميل المواد والبيانات عندما يكون الجهاز متصلاً بالـ Wi-Fi فقط.</string>
+    <string name="settings_wifi_top">التحميل من خلال الـ Wi-Fi فقط</string>
+    <string name="share_accomplishment_button">شارك إنجازك</string>
+    <string name="share_accomplishment_message">لقد نلت للتو وساماً من منصّة {platform_name}! أنظر إليه: {badge_url}</string>
+    <string name="share_certificate_button">مشاركة شهادتك</string>
+    <string name="share_certificate_message">لقد نلت للتو شهادّة من منصّة {platform_name}! أنظر إليها: {certificate_url}</string>
+    <string name="share_course_button">مشاركة المُساق</string>
+    <string name="share_course_message">أحضر حاليًا مساقًا ممتعًا على منصّة {platform_name}! اطلع عليه:</string>
+    <string name="show_optional_text">أظهر الحقول الاختيارية</string>
+    <string name="sign_up_and_learn">أنشئ حساباً جديداً وابدأ التعلم</string>
+    <string name="sign_up_with_facebook_ok">تم تسجيل الدخول باستخدام فيسبوك بنجاح.</string>
+    <string name="sign_up_with_google_ok">تم تسجيل الدخول باستخدام غوغل بنجاح.</string>
+    <string name="sign_up_with_microsoft_ok" ns2:ignore="MissingTranslation">تم التسجيل بنجاح مع مايكروسوفت</string>
+    <string name="sign_up_with_social_ok">نحتاج فقط للقليل من المعلومات قبل أن تبدأ التعلم على {platform_name}.</string>
+    <string name="signing_in">جار تسجيل الدخول</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="success_dialog_message_help">لقد أرسلنا رسالةً بتعليمات تغيير كلمة المرور إلى عنوان بريدك الإلكتروني. في حال لم تصلك خلال بضع دقائق، يُرجى التأكد فيما إذا اعتُبرت رسالة غير مرغوب فيها ’spam‘.</string>
+    <string name="success_dialog_title_help">تم إرسال بريدٍ إلكترونيٍّ لك بناءً على طلبك بتغيير كلمة السر</string>
+    <string name="switch_off_no_downloading">يؤدي الضغط على مفتاح التبديل إلى تحميل جميع فيديوهات هذه الدورة التدريبية.</string>
+    <string name="switch_on_all_downloaded">يؤدي إيقاف مفتاح التبديل إلى حذف جميع الفيديوهات المحمّلة من هذه الدورة التدريبية.</string>
+    <string name="switch_on_all_downloading">يؤدي إيقاف مفتاح التبديل إلى إلغاء تحميل جميع فيديوهات هذه الدورة التدريبية وحذفها.</string>
+    <string name="tab_label_certificate">شهادة</string>
+    <string name="tab_label_handouts">النشرات</string>
+    <string name="terms_of_service_title">شروط الخدمة</string>
+    <string name="title_account">الحساب</string>
+    <string name="title_download">التنزيلات</string>
+    <string name="title_reset_password_failed">حدث خطأ أثناء تغيير كلمة السر</string>
+    <string name="toggle_turn_off">إطفاء</string>
+    <string name="toggle_turn_on">تشغيل</string>
+    <string name="topics_search">ابحث في جميع المشاركات</string>
+    <string name="tos_and_honor_code">شروط الخدمة وميثاق الشرف الأكاديمي الخاصين بمنصّة {platform_name} </string>
+    <string name="try_again">كرر المحاولة</string>
+    <string name="untitled_block">دون عنوان</string>
+    <string name="upgrade_banner_description">يمكنك إكمال التقييم أثناء رحلتك التدريبية للحصول على شهادة!</string>
+    <string name="upgrade_deadline_details">الترقيةمن خلال {date} للحصول على وصول دائم  للمساق طالما كان موجوداً على الموقع.</string>
+    <string name="upgrade_to_verified_today_title">الترقية إلى مسار معتمَد الآن</string>
+    <string name="video_only_on_web_label">مقطع الفيديو هذا متاح عبر الويب فقط في الوقت الحالي. انقر لتستعرضها باستخدام متصفّح الويب لديك.</string>
+    <string name="video_only_on_web_short">هذا الفيديو غير متوفر بعد على الأجهزة المحمولة.</string>
+    <string name="video_player">مشغل الفيديو</string>
+    <string name="video_player_enter_fullscreen">دخول وضع ملء الشاشة</string>
+    <string name="video_player_exit_fullscreen">الخروج من وضع ملء الشاشة</string>
+    <string name="video_player_forward_button">للأمام 15 ثانية</string>
+    <string name="video_player_forward_time_sec">+15</string>
+    <string name="video_player_next">التالي</string>
+    <string name="video_player_pause">إيقاف مؤقت</string>
+    <string name="video_player_play">تشغيل</string>
+    <string name="video_player_previous">السابق</string>
+    <string name="video_player_rewind">رجوع بفاصل زمني 30 ثانية</string>
+    <string name="video_player_rewind_button">إرجاع 10 ثوانٍ</string>
+    <string name="video_player_rewind_time_sec">-10</string>
+    <string name="video_player_settings">الإعدادات</string>
+    <string name="video_player_view_on_web">استعرض باستخدام متصّفحك</string>
+    <string name="videos_subtitle">شاهد مقاطع فيديو المساق</string>
+    <string name="videos_title">مقاطع الفيديو</string>
+    <string name="view_all_subjects">استعراض كافة المواضيع</string>
+    <string name="view_button_text">اعرض</string>
+    <string name="view_course_button_text">عرض المساق</string>
+    <string name="view_downloads">انقر نقرًا مزدوجًا لمعرفة الفيديوهات التي يتم تحميلها الآن.</string>
+    <string name="wifi_dialog_message_help">السماح للجهاز بتحميل الفيديو باستخدام بيانات الشبكة عندما يكون الـ Wi-Fi غير متاح. قد يتم تطبيق رسوم البيانات.</string>
+    <string name="wifi_dialog_title_help">تمكين التحميل من خلال بيانات الهاتف</string>
+    <string name="wifi_off_message">إعدادات التنزيل الخاصة بك تسمح بتنزيل الملفات من خلال الـ Wi-Fi فقط.
+رجاء اتصل بالإنترنت من خلال الـ Wi-Fi أو قم بتغيير إعداداتك.</string>
+    <string name="you_are_already_enrolled" ns2:ignore="MissingTranslation">أنت مسجل بالفعل في هذه الدورة</string>
+    <string name="you_are_now_enrolled">أنت الآن مسجِّل في هذا المساق</string>
+</resources>
